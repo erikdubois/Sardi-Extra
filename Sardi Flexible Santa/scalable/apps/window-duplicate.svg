@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="512" viewBox="0 0 512 512" width="512" version="1.1">
  <metadata id="metadata242"/>
  <g id="g4" fill-rule="evenodd">
-  <path id="path6" fill="#b41919" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9"/>
+  <path id="path6" fill="#b41916" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9"/>
   <path id="path8" fill-opacity="0.235" d="m323.13 128c-1.429-0.011-2.864 0.013-4.313 0.063h-0.031c-3.863 0.131-8.08 0.434-11.844 0.5h-181.78c-19.79 6.69-11.618 29.923-13.344 45.719 0.345 46.73 3.146 127.93 0.5 141.78 1.068-1.2 4.849 0.703 0 1.031 0.049-0.197-0.049-0.785 0-1.031-0.641 0.723-0.457 2.277 3.094 6.156 9.435 10.355 0.775 0.553 45.19 51.38 1.611 4.865 3.795 9.169 6.688 13.344 14.79 15.08 63.06 61.686 86.969 85 116.83-0.638 212-92.8 217.44-208.44-33.906-33.854-97.9-97.53-123.62-123.09-5.638-10.312-14.935-12.33-24.938-12.406"/>
   <path id="path10" fill-opacity="0.067" d="m256 1c-140.83 0-255 114.17-255 255s114.17 255 255 255 255-114.17 255-255-114.17-255-255-255m8.827 44.931c120.9 0 218.9 98 218.9 218.9s-98 218.9-218.9 218.9-218.93-98-218.93-218.9 98.03-218.9 218.93-218.9"/>
   <g id="g12" fill-opacity="0.129">
@@ -42,7 +42,7 @@
  <text id="text74" font-size="4848.2" line-height="125%" y="2214.71" x="-27971.03" font-family="Gentium Book Basic" word-spacing="0" letter-spacing="0"><tspan id="tspan76" y="2214.71" x="-27971.03"/>
  </text>
  <text id="text78" font-size="1761.7" transform="scale(4.0128 .2492)" y="-4212.28" x="423.59" font-family="Arial" text-anchor="middle"/>
- <g id="g80" fill="#b41919">
+ <g id="g80" fill="#b41916">
   <text id="text82" transform="scale(1.0508 .95163)" font-size="2976" y="-4835.43" x="-13473.56" font-family="Gentium Book Basic" line-height="125%" word-spacing="0" letter-spacing="0"><tspan id="tspan84" y="-4835.43" x="-13473.56"/>
   </text>
   <text id="text86" font-size="1081.4" transform="scale(4.2168 .23715)" y="-27444.63" x="1181.08" font-family="Arial" text-anchor="middle"/>
@@ -61,7 +61,7 @@
   </text>
   <text id="text112" font-size="1761.7" transform="scale(4.0128 .2492)" y="-65766.93" x="884.23" font-family="Arial" text-anchor="middle"/>
  </g>
- <g id="g114" fill="#b41919">
+ <g id="g114" fill="#b41916">
   <g id="g116" stroke="#cd1d31" stroke-width="23.272">
    <text id="text118" transform="scale(1.0508 .95163)" font-size="2976" y="-20954.48" x="-11714.46" font-family="Gentium Book Basic" line-height="125%" word-spacing="0" letter-spacing="0"><tspan id="tspan120" y="-20954.48" x="-11714.46"/>
    </text>
@@ -88,7 +88,7 @@
  <text id="text156" font-size="4848.2" line-height="125%" y="2230.76" x="-28816.26" font-family="Gentium Book Basic" word-spacing="0" letter-spacing="0"><tspan id="tspan158" y="2230.76" x="-28816.26"/>
  </text>
  <text id="text160" font-size="1761.7" transform="scale(4.0128 .2492)" y="-4148.05" x="213.01" font-family="Arial" text-anchor="middle"/>
- <g id="g162" fill="#b41919">
+ <g id="g162" fill="#b41916">
   <text id="text164" transform="scale(1.0508 .95163)" font-size="2976" y="-4818.44" x="-14277.59" font-family="Gentium Book Basic" line-height="125%" word-spacing="0" letter-spacing="0"><tspan id="tspan166" y="-4818.44" x="-14277.59"/>
   </text>
   <text id="text168" font-size="1081.4" transform="scale(4.2168 .23715)" y="-27377.14" x="980.69" font-family="Arial" text-anchor="middle"/>
@@ -107,7 +107,7 @@
   </text>
   <text id="text194" font-size="1761.7" transform="scale(4.0128 .2492)" y="-65702.7" x="673.64" font-family="Arial" text-anchor="middle"/>
  </g>
- <g id="g196" fill="#b41919">
+ <g id="g196" fill="#b41916">
   <g id="g198" stroke="#cd1d31" stroke-width="23.272">
    <text id="text200" transform="scale(1.0508 .95163)" font-size="2976" y="-20937.73" x="-12518.73" font-family="Gentium Book Basic" line-height="125%" word-spacing="0" letter-spacing="0"><tspan id="tspan202" y="-20937.73" x="-12518.73"/>
    </text>
