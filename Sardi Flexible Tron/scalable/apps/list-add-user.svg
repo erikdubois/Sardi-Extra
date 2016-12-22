@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="512" viewBox="0 0 512 512" width="512" version="1.1">
  <metadata id="metadata292"/>
  <g id="g4" fill-rule="evenodd">
-  <path id="path6" fill="#15E7EE" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9"/>
+  <path id="path6" fill="#15e7ee" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9"/>
   <path id="path8" fill-opacity="0.235" d="m230.31 95.34c-36.798 0.021-68.25 36.01-62.875 72.59 1.304 13.919 7.962 26.691 17.469 36.594 19.308 20.708 39.26 39.833 57.938 58.688-10.685 10.554-24.429 1.499-31.969-7.875-13.736-14.594-37.747-18.482-54.09-5.719-30.751 22.472-37.69 65.12-29.28 100.28l5.906 32.844c15.272 9.993 57.32 56.05 87.09 86.81 10.621 1.583 21.469 2.406 32.531 2.406 103.15 0 189.65-71.37 212.81-167.41-65.2-69.34-125.61-127.99-186.47-188.75-10.456-8.638-21.981-16.864-36.09-18.281-3.386-1.498-8.881 0.956-11.219-2.156-0.587-0.018-1.166-0.032-1.75-0.031"/>
   <path id="path10" fill-opacity="0.067" d="m256 1c-140.83 0-255 114.17-255 255s114.17 255 255 255 255-114.17 255-255-114.17-255-255-255m8.827 44.931c120.9 0 218.9 98 218.9 218.9s-98 218.9-218.9 218.9-218.93-98-218.93-218.9 98.03-218.9 218.93-218.9"/>
   <g id="g12" fill-opacity="0.129">
@@ -42,7 +42,7 @@
  <text id="text74" font-size="4848.5" line-height="125%" y="2245.22" x="-27992.54" font-family="Gentium Book Basic" word-spacing="0" letter-spacing="0"><tspan id="tspan76" y="2245.22" x="-27992.54"/>
  </text>
  <text id="text78" font-size="1761.8" transform="scale(4.0128 .2492)" y="-4090.74" x="418.77" font-family="Arial" text-anchor="middle"/>
- <g id="g80" fill="#15E7EE">
+ <g id="g80" fill="#15e7ee">
   <text id="text82" transform="scale(1.0508 .95163)" font-size="2976.2" y="-4803.86" x="-13493.03" font-family="Gentium Book Basic" line-height="125%" word-spacing="0" letter-spacing="0"><tspan id="tspan84" y="-4803.86" x="-13493.03"/>
   </text>
   <text id="text86" font-size="1081.5" transform="scale(4.2168 .23715)" y="-27318.7" x="1176.55" font-family="Arial" text-anchor="middle"/>
@@ -61,7 +61,7 @@
   </text>
   <text id="text112" font-size="1761.8" transform="scale(4.0128 .2492)" y="-65649.55" x="879.43" font-family="Arial" text-anchor="middle"/>
  </g>
- <g id="g114" fill="#15E7EE">
+ <g id="g114" fill="#15e7ee">
   <g id="g116" stroke="#cd1d31">
    <text id="text118" stroke-width="23.273" transform="scale(1.0508 .95163)" font-size="2976.2" y="-20924.11" x="-11733.85" font-family="Gentium Book Basic" line-height="125%" word-spacing="0" letter-spacing="0"><tspan id="tspan120" y="-20924.11" x="-11733.85"/>
    </text>
@@ -115,7 +115,7 @@
  <text id="text210" font-size="4848.5" line-height="125%" y="2244.29" x="-28866.93" font-family="Gentium Book Basic" word-spacing="0" letter-spacing="0"><tspan id="tspan212" y="2244.29" x="-28866.93"/>
  </text>
  <text id="text214" font-size="1761.8" transform="scale(4.0128 .2492)" y="-4094.46" x="200.88" font-family="Arial" text-anchor="middle"/>
- <g id="g216" fill="#15E7EE">
+ <g id="g216" fill="#15e7ee">
   <text id="text218" transform="scale(1.0508 .95163)" font-size="2976.2" y="-4804.79" x="-14325.04" font-family="Gentium Book Basic" line-height="125%" word-spacing="0" letter-spacing="0"><tspan id="tspan220" y="-4804.79" x="-14325.04"/>
   </text>
   <text id="text222" font-size="1081.5" transform="scale(4.2168 .23715)" y="-27322.65" x="969.16" font-family="Arial" text-anchor="middle"/>
@@ -134,7 +134,7 @@
   </text>
   <text id="text248" font-size="1761.8" transform="scale(4.0128 .2492)" y="-65653.51" x="661.53" font-family="Arial" text-anchor="middle"/>
  </g>
- <g id="g250" fill="#15E7EE">
+ <g id="g250" fill="#15e7ee">
   <g id="g252" stroke="#cd1d31">
    <text id="text254" stroke-width="23.273" transform="scale(1.0508 .95163)" font-size="2976.2" y="-20925.04" x="-12565.87" font-family="Gentium Book Basic" line-height="125%" word-spacing="0" letter-spacing="0"><tspan id="tspan256" y="-20925.04" x="-12565.87"/>
    </text>

@@ -7,11 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 24 24"
+   viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="variety-indicator.svg">
+   sodipodi:docname="variety-indicator.svg"
+   width="16"
+   height="16">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -35,29 +37,29 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1021"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="32.111895"
-     inkscape:cx="9.7518946"
+     inkscape:cx="4.6136117"
      inkscape:cy="8.7247729"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <rect
      id="rect6"
-     style="fill:none;stroke:#aaaaaa;stroke-width:2.11062765;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     ry="3.3552942"
-     y="5.1432486"
-     x="3.9431784"
-     height="13.198025"
-     width="16.111647"
-     rx="2.283572" />
+     style="fill:none;stroke:#aaaaaa;stroke-width:1.57823706;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     ry="2.5089455"
+     y="2.9184282"
+     x="2.0825636"
+     height="9.8689184"
+     width="12.0476"
+     rx="1.7075573" />
   <path
      inkscape:connector-curvature="0"
      id="path8"
      style="fill:#aaaaaa;fill-opacity:1;stroke:none"
-     d="m 6.0197012,11.565456 0,4.252481 11.9354828,0 0,-2.638918 c 0.04221,-2.129674 -5.347096,-6.0251108 -5.844617,-4.4722 -0.564863,1.761186 -1.674486,5.109614 -2.8001903,4.911638 C 8.4691136,13.443368 7.6278505,13.26828 6.0197012,11.565456" />
+     d="m 3.6352982,7.7206801 0,3.1798229 8.9248428,0 0,-1.9732696 C 12.591704,7.3347544 8.5618115,4.4219135 8.1897865,5.5831137 7.7674065,6.9000532 6.9376785,9.4038643 6.0959245,9.2558263 5.466864,9.1249023 4.8378035,8.993979 3.6352982,7.7206801" />
 </svg>
