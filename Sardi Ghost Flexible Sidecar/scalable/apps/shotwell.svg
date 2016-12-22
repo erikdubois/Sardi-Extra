@@ -14,7 +14,7 @@
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="multimedia-photo-viewer.svg">
+   sodipodi:docname="shotwell.svg">
   <sodipodi:namedview
      pagecolor="#ccc5c3"
      bordercolor="#666666"
@@ -29,8 +29,8 @@
      id="namedview22"
      showgrid="false"
      inkscape:zoom="0.4609375"
-     inkscape:cx="-101.9661"
-     inkscape:cy="256"
+     inkscape:cx="-523.9322"
+     inkscape:cy="251.66102"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,62 +54,63 @@
        fill="#fff"
        d="m21.812 1023h22.625l-8.813-8.813z" />
   </defs>
-  <g
-     id="g4169"
-     transform="matrix(1.1528649,0,0,1.1528649,-39.133413,-39.133413)">
-    <path
-       transform="matrix(6.4502,0,0,6.3527,98.7,98.63)"
-       d="m 28.875,24.625 c 0,2.554 -2.071,4.625 -4.625,4.625 -2.554,0 -4.625,-2.071 -4.625,-4.625 0,-2.554 2.071,-4.625 4.625,-4.625 2.554,0 4.625,2.071 4.625,4.625"
-       id="path69"
-       inkscape:connector-curvature="0"
-       style="fill:#ffedb5" />
-    <use
-       width="1"
-       height="1"
-       transform="matrix(8.0695,0,0,7.9474,53.53,-7920.1)"
-       xlink:href="#0"
-       id="use71"
-       x="0"
-       y="0" />
-    <use
-       width="1"
-       height="1"
-       transform="matrix(4.0348,-6.8827,6.9884,3.9737,-7034.7,-3659.3)"
-       xlink:href="#0"
-       id="use73"
-       x="0"
-       y="0" />
-    <use
-       width="1"
-       height="1"
-       transform="matrix(-4.0348,-6.8827,6.9884,-3.9737,-6832.2,4516.7)"
-       xlink:href="#0"
-       id="use75"
-       x="0"
-       y="0" />
-    <use
-       width="1"
-       height="1"
-       transform="matrix(-8.0695,0,0,-7.9474,458.47,8432.1)"
-       xlink:href="#0"
-       id="use77"
-       x="0"
-       y="0" />
-    <use
-       width="1"
-       height="1"
-       transform="matrix(-4.0348,6.8827,-6.9884,-3.9737,7546.7,4171.3)"
-       xlink:href="#0"
-       id="use79"
-       x="0"
-       y="0" />
-    <use
-       width="1"
-       height="1"
-       transform="matrix(4.0348,6.8827,-6.9884,3.9737,7344.2,-4004.7)"
-       xlink:href="#0"
-       id="use81"
-       x="0"
-       y="0" />
-  </g>
+  <path
+     style="fill:#ffedb5;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path69"
+     d="m 289.37489,254.92235 c 0,18.705 -15.40039,33.8726 -34.39246,33.8726 -18.99208,0 -34.39247,-15.1676 -34.39247,-33.8726 0,-18.705 15.40039,-33.8726 34.39247,-33.8726 18.99207,0 34.39246,15.1676 34.39246,33.8726" />
+  <use
+     style="fill:#ffedb5;fill-opacity:1"
+     y="0"
+     x="0"
+     id="use71"
+     xlink:href="#0"
+     transform="matrix(9.3030433,0,0,9.1622785,22.579445,-9169.9387)"
+     height="1"
+     width="1" />
+  <use
+     style="fill:#ffedb5;fill-opacity:1"
+     y="0"
+     x="0"
+     id="use73"
+     xlink:href="#0"
+     transform="matrix(4.6515793,-7.9348232,8.0566811,4.5811393,-8149.1921,-4257.8119)"
+     height="1"
+     width="1" />
+  <use
+     style="fill:#ffedb5;fill-opacity:1"
+     y="0"
+     x="0"
+     id="use75"
+     xlink:href="#0"
+     transform="matrix(-4.6515793,-7.9348232,8.0566811,-4.5811393,-7915.737,5168.0115)"
+     height="1"
+     width="1" />
+  <use
+     style="fill:#ffedb5;fill-opacity:1"
+     y="0"
+     x="0"
+     id="use77"
+     xlink:href="#0"
+     transform="matrix(-9.3030433,0,0,-9.1622785,489.42056,9681.9387)"
+     height="1"
+     width="1" />
+  <use
+     style="fill:#ffedb5;fill-opacity:1"
+     y="0"
+     x="0"
+     id="use79"
+     xlink:href="#0"
+     transform="matrix(-4.6515793,7.9348232,-8.0566811,-4.5811393,8661.1921,4769.8119)"
+     height="1"
+     width="1" />
+  <use
+     style="fill:#ffedb5;fill-opacity:1"
+     y="0"
+     x="0"
+     id="use81"
+     xlink:href="#0"
+     transform="matrix(4.6515793,7.9348232,-8.0566811,4.5811393,8427.737,-4656.0115)"
+     height="1"
+     width="1" />
 </svg>
