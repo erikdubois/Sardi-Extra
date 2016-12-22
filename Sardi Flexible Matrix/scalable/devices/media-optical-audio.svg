@@ -81,7 +81,7 @@
  </text>
  <text id="text158" transform="scale(4.0128 .2492)" font-size="72.67" y="637.46" x="-584.07" font-family="Arial" text-anchor="middle"/>
  <g id="g160" fill-rule="evenodd">
-  <path id="path162" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill="#054D03"/>
+  <path id="path162" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill="#054d03"/>
   <path id="path164" d="m252.56 105.69c-72.04 0.287-137.95 59.39-145.62 131.19-7.337 50.96 15.03 102.8 53.5 136.09 33.02 32.891 65.918 65.89 98.84 98.88 115.91-3.247 209.28-96.59 212.56-212.5-39.42-39.587-78.8-79.23-118.87-118.12-26.788-22.824-61.769-35.649-96.97-35.5-1.146-0.025-2.294-0.036-3.438-0.031" fill-opacity="0.235"/>
   <path id="path166" d="m256 1c-140.83 0-255 114.17-255 255s114.17 255 255 255 255-114.17 255-255-114.17-255-255-255m8.827 44.931c120.9 0 218.9 98 218.9 218.9s-98 218.9-218.9 218.9-218.93-98-218.93-218.9 98.03-218.9 218.93-218.9" fill-opacity="0.067"/>
   <g id="g168" fill-opacity="0.129">
@@ -201,7 +201,7 @@
  <text id="text388" font-size="4847.5" line-height="125%" y="2121.1" x="-27839.26" font-family="Gentium Book Basic" word-spacing="0" letter-spacing="0"><tspan id="tspan390" y="2121.1" x="-27839.26"/>
  </text>
  <text id="text392" transform="scale(4.0128 .2492)" font-size="1761.4" y="-4586.1" x="455.42" font-family="Arial" text-anchor="middle"/>
- <g id="g394" fill="#054D03">
+ <g id="g394" fill="#054d03">
   <text id="text396" transform="scale(1.0508 .95163)" line-height="125%" font-size="2975.6" y="-4932.81" x="-13349.95" font-family="Gentium Book Basic" word-spacing="0" letter-spacing="0"><tspan id="tspan398" y="-4932.81" x="-13349.95"/>
   </text>
   <text id="text400" transform="scale(4.2168 .23715)" font-size="1081.3" y="-27834.31" x="1211.27" font-family="Arial" text-anchor="middle"/>
@@ -220,7 +220,7 @@
   </text>
   <text id="text426" transform="scale(4.0128 .2492)" font-size="1761.4" y="-66132.37" x="916" font-family="Arial" text-anchor="middle"/>
  </g>
- <g id="g428" fill="#054D03" transform="matrix(23.268 0 0 23.268 -581.38 -175.73)" stroke="#cd1d31">
+ <g id="g428" fill="#054d03" transform="matrix(23.268 0 0 23.268 -581.38 -175.73)" stroke="#cd1d31">
   <text id="text430" transform="scale(1.0508 .95163)" line-height="125%" font-size="127.88" y="-896.71" x="-474.37" font-family="Gentium Book Basic" word-spacing="0" letter-spacing="0"><tspan id="tspan432" y="-896.71" x="-474.37"/>
   </text>
   <text id="text434" transform="scale(4.2168 .23715)" font-size="46.47" y="-3943.87" x="76.82" font-family="Arial" text-anchor="middle"/>
@@ -230,7 +230,7 @@
   <text id="text442" font-size="200" line-height="125%" y="-733.42" x="-1616.23" font-family="Gentium Book Basic" word-spacing="0" letter-spacing="0"><tspan id="tspan444" y="-733.42" x="-1616.23"/>
   </text>
  </g>
- <text id="text446" transform="scale(4.0128 .2492)" font-size="1690.9" y="-81759.64" x="-2419.36" font-family="Arial" fill="#054D03" text-anchor="middle"/>
+ <text id="text446" transform="scale(4.0128 .2492)" font-size="1690.9" y="-81759.64" x="-2419.36" font-family="Arial" fill="#054d03" text-anchor="middle"/>
  <g id="g448">
   <text id="text450" stroke-width="23.268" font-size="4653.7" line-height="125%" stroke="#cd1d31" y="-20816.52" x="-8883.58" font-family="Gentium Book Basic" word-spacing="0" letter-spacing="0"><tspan id="tspan452" y="-20816.52" x="-8883.58"/>
   </text>

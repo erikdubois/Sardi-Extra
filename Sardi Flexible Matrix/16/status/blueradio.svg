@@ -7,11 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 48 48"
+   viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="blueradio.svg">
+   sodipodi:docname="blueradio.svg"
+   width="16"
+   height="16">
   <metadata
      id="metadata57">
     <rdf:RDF>
@@ -20,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,9 +39,9 @@
      inkscape:window-height="1022"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="-10.576271"
-     inkscape:cy="24"
+     inkscape:zoom="13.906433"
+     inkscape:cx="-25.752781"
+     inkscape:cy="3.5061633"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -64,7 +66,7 @@
   <g
      id="g39"
      style="fill:#aaaaaa;fill-opacity:1"
-     transform="matrix(1.4519774,0,0,1.4519774,-10.441216,-11.659661)">
+     transform="matrix(0.46675268,0,0,0.46675268,-3.2026207,-3.2006641)">
     <g
        id="g41"
        style="fill:#aaaaaa;fill-opacity:1">

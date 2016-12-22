@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" height="512" viewBox="0 0 512 512" width="512" version="1.1">
  <metadata id="metadata156"/>
- <path id="path4" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill-rule="evenodd" fill="#054D03"/>
+ <path id="path4" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill-rule="evenodd" fill="#054d03"/>
  <path id="path6" fill-opacity="0.235" d="m199.06 95.94c-15.493 4.978-6.941 25.03-9.156 37.38v221.88c40.497 40.497 76.16 76.52 110.44 111.63 66.53-14.657 121.7-59.55 150.34-119.56-84.3-85.87-167.37-170.7-247.34-250.69l-4.25-0.625h-0.031" color="#000000"/>
  <g id="g8" fill-rule="evenodd">
   <path id="path10" fill-opacity="0.067" d="m256 1c-140.83 0-255 114.17-255 255s114.17 255 255 255 255-114.17 255-255-114.17-255-255-255m8.827 44.931c120.9 0 218.9 98 218.9 218.9s-98 218.9-218.9 218.9-218.93-98-218.93-218.9 98.03-218.9 218.93-218.9"/>
@@ -42,7 +42,7 @@
  <text id="text74" font-size="4848.4" line-height="125%" y="2199.62" x="-27842.09" font-family="Gentium Book Basic" word-spacing="0" letter-spacing="0"><tspan id="tspan76" y="2199.62" x="-27842.09"/>
  </text>
  <text id="text78" font-size="1761.7" transform="scale(4.0128 .2492)" y="-4273.4" x="456.06" font-family="Arial" text-anchor="middle"/>
- <g id="g80" fill="#054D03">
+ <g id="g80" fill="#054d03">
   <text id="text82" transform="scale(1.0508 .95163)" font-size="2976.1" y="-4851.6" x="-13350.26" font-family="Gentium Book Basic" line-height="125%" word-spacing="0" letter-spacing="0"><tspan id="tspan84" y="-4851.6" x="-13350.26"/>
   </text>
   <text id="text86" font-size="1081.5" transform="scale(4.2168 .23715)" y="-27509.9" x="1212.01" font-family="Arial" text-anchor="middle"/>
@@ -61,7 +61,7 @@
   </text>
   <text id="text112" font-size="1761.7" transform="scale(4.0128 .2492)" y="-65830.85" x="916.72" font-family="Arial" text-anchor="middle"/>
  </g>
- <g id="g114" fill="#054D03">
+ <g id="g114" fill="#054d03">
   <g id="g116" stroke="#cd1d31" stroke-width="23.273">
    <text id="text118" transform="scale(1.0508 .95163)" font-size="2976.1" y="-20971.4" x="-11591.08" font-family="Gentium Book Basic" line-height="125%" word-spacing="0" letter-spacing="0"><tspan id="tspan120" y="-20971.4" x="-11591.08"/>
    </text>

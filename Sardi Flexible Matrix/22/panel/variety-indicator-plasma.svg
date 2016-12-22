@@ -7,11 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 24 24"
+   viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="variety-indicator-plasma.svg">
+   sodipodi:docname="variety-indicator-plasma.svg"
+   width="22"
+   height="22">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -20,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,19 +38,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-height="1022"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="18.604283"
-     inkscape:cx="-14.609253"
+     inkscape:cx="-4.5416647"
      inkscape:cy="7.8081422"
      inkscape:window-x="0"
-     inkscape:window-y="13"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <g
      id="g4134"
-     transform="matrix(1.1756715,0,0,1.1756715,-2.1078821,-2.0627801)">
+     transform="matrix(1.0492823,0,0,1.0492823,-1.6126078,-2.0411743)">
     <rect
        rx="2.283572"
        width="16.111647"
