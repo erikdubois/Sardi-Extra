@@ -59,7 +59,7 @@
        width="44.30978"
        y="-8.9809551"
        x="-99.129501"
-       style="fill:#FFEDB5;fill-opacity:1" />
+       style="fill:#ffedb5;fill-opacity:1" />
     <rect
        id="rect72"
        rx="2.9430001"
@@ -68,9 +68,9 @@
        width="54.02"
        y="96.82"
        x="-2.2349999"
-       style="fill:#FFEDB5;fill-opacity:1" />
+       style="fill:#ffedb5;fill-opacity:1" />
     <rect
-       style="fill:#FFEDB5;fill-opacity:1"
+       style="fill:#ffedb5;fill-opacity:1"
        x="-74.199997"
        y="96.300003"
        width="46.48"
@@ -79,7 +79,7 @@
        rx="1.409"
        id="rect74" />
     <path
-       style="fill:#FFEDB5;fill-opacity:1"
+       style="fill:#ffedb5;fill-opacity:1"
        d="m 77.306,71.418 a 5.8915,5.8915 0 0 1 -11.783,0 5.8915,5.8915 0 1 1 11.783,0"
        id="path76"
        inkscape:connector-curvature="0" />

@@ -8,7 +8,7 @@
      d="M 11,3 11,33 37,33 37,14.71875 26.6875,3 11,3 z M 4,35 4,45 44,45 44,35 4,35 z m 32.34375,5.21875 4.6875,0 0,2.1875 -4.6875,0 0,-2.1875 z" />
 </defs>
 <acyl-settings>
-<use id="1" style="fill:#FFEDB5" xlink:href="#path-main" />
+<use id="1" style="fill:#ffedb5" xlink:href="#path-main" />
 
 
 </acyl-settings>

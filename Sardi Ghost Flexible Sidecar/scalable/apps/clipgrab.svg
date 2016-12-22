@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -33,12 +33,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
      id="namedview415"
      showgrid="false"
      inkscape:zoom="0.4609375"
-     inkscape:cx="256"
+     inkscape:cx="-101.9661"
      inkscape:cy="256"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -82,11 +82,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text17">
+     id="text17"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="231.36"
        x="729.64"
-       id="tspan19" />
+       id="tspan19"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -95,7 +97,8 @@
      x="378.91"
      font-family="Arial"
      text-anchor="middle"
-     id="text21" />
+     id="text21"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="151.36"
@@ -104,11 +107,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text23">
+     id="text23"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="151.36"
        x="1310.91"
-       id="tspan25" />
+       id="tspan25"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -117,7 +122,8 @@
      x="523.76"
      font-family="Arial"
      text-anchor="middle"
-     id="text27" />
+     id="text27"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-29.9"
@@ -126,11 +132,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text29">
+     id="text29"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-29.9"
        x="239.33"
-       id="tspan31" />
+       id="tspan31"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -139,7 +147,8 @@
      x="256.72"
      font-family="Arial"
      text-anchor="middle"
-     id="text33" />
+     id="text33"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-246.37"
@@ -148,11 +157,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text35">
+     id="text35"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-246.37"
        x="1337.38"
-       id="tspan37" />
+       id="tspan37"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -161,7 +172,8 @@
      x="530.36"
      font-family="Arial"
      text-anchor="middle"
-     id="text39" />
+     id="text39"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-326.37"
@@ -170,11 +182,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text41">
+     id="text41"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-326.37"
        x="1918.65"
-       id="tspan43" />
+       id="tspan43"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -183,7 +197,8 @@
      x="675.21"
      font-family="Arial"
      text-anchor="middle"
-     id="text45" />
+     id="text45"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-798.77"
@@ -192,11 +207,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text47">
+     id="text47"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-798.77"
        x="1529.53"
-       id="tspan49" />
+       id="tspan49"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -205,7 +222,8 @@
      x="578.24"
      font-family="Arial"
      text-anchor="middle"
-     id="text51" />
+     id="text51"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-878.78"
@@ -214,11 +232,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text53">
+     id="text53"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-878.78"
        x="2110.79"
-       id="tspan55" />
+       id="tspan55"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -227,33 +247,39 @@
      x="723.09"
      font-family="Arial"
      text-anchor="middle"
-     id="text57" />
+     id="text57"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <g
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="g59">
+     id="g59"
+     style="fill:#ffedb5;fill-opacity:1">
     <text
        y="535.94"
        x="277.99"
        font-size="208.33"
        font-family="Gentium Book Basic"
-       id="text61">
+       id="text61"
+       style="fill:#ffedb5;fill-opacity:1">
       <tspan
          y="535.94"
          x="277.99"
-         id="tspan63" />
+         id="tspan63"
+         style="fill:#ffedb5;fill-opacity:1" />
     </text>
     <text
        y="231.36"
        x="729.64"
        font-size="129.23"
        font-family="'Gentium Book Basic'"
-       id="text65">
+       id="text65"
+       style="fill:#ffedb5;fill-opacity:1">
       <tspan
          y="231.36"
          x="729.64"
-         id="tspan67" />
+         id="tspan67"
+         style="fill:#ffedb5;fill-opacity:1" />
     </text>
   </g>
   <text
@@ -263,7 +289,8 @@
      x="378.91"
      font-family="Arial"
      text-anchor="middle"
-     id="text69" />
+     id="text69"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="151.36"
@@ -272,11 +299,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text71">
+     id="text71"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="151.36"
        x="1310.91"
-       id="tspan73" />
+       id="tspan73"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -285,7 +314,8 @@
      x="523.76"
      font-family="Arial"
      text-anchor="middle"
-     id="text75" />
+     id="text75"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-29.9"
@@ -294,11 +324,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text77">
+     id="text77"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-29.9"
        x="239.33"
-       id="tspan79" />
+       id="tspan79"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -307,7 +339,8 @@
      x="256.72"
      font-family="Arial"
      text-anchor="middle"
-     id="text81" />
+     id="text81"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-246.37"
@@ -316,11 +349,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text83">
+     id="text83"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-246.37"
        x="1337.38"
-       id="tspan85" />
+       id="tspan85"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -329,7 +364,8 @@
      x="530.36"
      font-family="Arial"
      text-anchor="middle"
-     id="text87" />
+     id="text87"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-326.37"
@@ -338,11 +374,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text89">
+     id="text89"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-326.37"
        x="1918.65"
-       id="tspan91" />
+       id="tspan91"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -351,7 +389,8 @@
      x="675.21"
      font-family="Arial"
      text-anchor="middle"
-     id="text93" />
+     id="text93"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-798.77"
@@ -360,11 +399,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text95">
+     id="text95"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-798.77"
        x="1529.53"
-       id="tspan97" />
+       id="tspan97"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -373,7 +414,8 @@
      x="578.24"
      font-family="Arial"
      text-anchor="middle"
-     id="text99" />
+     id="text99"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-878.78"
@@ -382,11 +424,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text101">
+     id="text101"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-878.78"
        x="2110.79"
-       id="tspan103" />
+       id="tspan103"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -395,32 +439,38 @@
      x="723.09"
      font-family="Arial"
      text-anchor="middle"
-     id="text105" />
+     id="text105"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <g
      font-family="'Gentium Book Basic'"
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="g107">
+     id="g107"
+     style="fill:#ffedb5;fill-opacity:1">
     <text
        y="535.94"
        x="277.99"
        font-size="208.33"
-       id="text109">
+       id="text109"
+       style="fill:#ffedb5;fill-opacity:1">
       <tspan
          y="535.94"
          x="277.99"
-         id="tspan111" />
+         id="tspan111"
+         style="fill:#ffedb5;fill-opacity:1" />
     </text>
     <text
        y="231.36"
        x="729.64"
        font-size="129.23"
-       id="text113">
+       id="text113"
+       style="fill:#ffedb5;fill-opacity:1">
       <tspan
          y="231.36"
          x="729.64"
-         id="tspan115" />
+         id="tspan115"
+         style="fill:#ffedb5;fill-opacity:1" />
     </text>
   </g>
   <text
@@ -430,7 +480,8 @@
      x="378.91"
      font-family="Arial"
      text-anchor="middle"
-     id="text117" />
+     id="text117"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="151.36"
@@ -439,11 +490,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text119">
+     id="text119"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="151.36"
        x="1310.91"
-       id="tspan121" />
+       id="tspan121"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -452,7 +505,8 @@
      x="523.76"
      font-family="Arial"
      text-anchor="middle"
-     id="text123" />
+     id="text123"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-29.9"
@@ -461,11 +515,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text125">
+     id="text125"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-29.9"
        x="239.33"
-       id="tspan127" />
+       id="tspan127"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -474,7 +530,8 @@
      x="256.72"
      font-family="Arial"
      text-anchor="middle"
-     id="text129" />
+     id="text129"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-246.37"
@@ -483,11 +540,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text131">
+     id="text131"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-246.37"
        x="1337.38"
-       id="tspan133" />
+       id="tspan133"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -496,7 +555,8 @@
      x="530.36"
      font-family="Arial"
      text-anchor="middle"
-     id="text135" />
+     id="text135"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-326.37"
@@ -505,11 +565,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text137">
+     id="text137"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-326.37"
        x="1918.65"
-       id="tspan139" />
+       id="tspan139"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -518,7 +580,8 @@
      x="675.21"
      font-family="Arial"
      text-anchor="middle"
-     id="text141" />
+     id="text141"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-798.77"
@@ -527,11 +590,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text143">
+     id="text143"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-798.77"
        x="1529.53"
-       id="tspan145" />
+       id="tspan145"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -540,7 +605,8 @@
      x="578.24"
      font-family="Arial"
      text-anchor="middle"
-     id="text147" />
+     id="text147"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-878.78"
@@ -549,11 +615,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text149">
+     id="text149"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-878.78"
        x="2110.79"
-       id="tspan151" />
+       id="tspan151"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -562,32 +630,38 @@
      x="723.09"
      font-family="Arial"
      text-anchor="middle"
-     id="text153" />
+     id="text153"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <g
      font-family="'Gentium Book Basic'"
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="g155">
+     id="g155"
+     style="fill:#ffedb5;fill-opacity:1">
     <text
        y="535.94"
        x="277.99"
        font-size="208.33"
-       id="text157">
+       id="text157"
+       style="fill:#ffedb5;fill-opacity:1">
       <tspan
          y="535.94"
          x="277.99"
-         id="tspan159" />
+         id="tspan159"
+         style="fill:#ffedb5;fill-opacity:1" />
     </text>
     <text
        y="-503.34"
        x="968.53"
        font-size="129.23"
-       id="text161">
+       id="text161"
+       style="fill:#ffedb5;fill-opacity:1">
       <tspan
          y="-503.34"
          x="968.53"
-         id="tspan163" />
+         id="tspan163"
+         style="fill:#ffedb5;fill-opacity:1" />
     </text>
   </g>
   <text
@@ -597,7 +671,8 @@
      x="438.44"
      font-family="Arial"
      text-anchor="middle"
-     id="text165" />
+     id="text165"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-583.34"
@@ -606,11 +681,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text167">
+     id="text167"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-583.34"
        x="1549.8"
-       id="tspan169" />
+       id="tspan169"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -619,7 +696,8 @@
      x="583.29"
      font-family="Arial"
      text-anchor="middle"
-     id="text171" />
+     id="text171"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-764.6"
@@ -628,11 +706,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text173">
+     id="text173"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-764.6"
        x="478.22"
-       id="tspan175" />
+       id="tspan175"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -641,7 +721,8 @@
      x="316.25"
      font-family="Arial"
      text-anchor="middle"
-     id="text177" />
+     id="text177"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-981.07"
@@ -650,11 +731,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text179">
+     id="text179"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-981.07"
        x="1576.27"
-       id="tspan181" />
+       id="tspan181"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -663,7 +746,8 @@
      x="589.89"
      font-family="Arial"
      text-anchor="middle"
-     id="text183" />
+     id="text183"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-1061.07"
@@ -672,11 +756,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text185">
+     id="text185"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-1061.07"
        x="2157.54"
-       id="tspan187" />
+       id="tspan187"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -685,7 +771,8 @@
      x="734.74"
      font-family="Arial"
      text-anchor="middle"
-     id="text189" />
+     id="text189"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-1533.47"
@@ -694,11 +781,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text191">
+     id="text191"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-1533.47"
        x="1768.42"
-       id="tspan193" />
+       id="tspan193"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -707,7 +796,8 @@
      x="637.77"
      font-family="Arial"
      text-anchor="middle"
-     id="text195" />
+     id="text195"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-1613.48"
@@ -716,11 +806,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text197">
+     id="text197"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-1613.48"
        x="2349.68"
-       id="tspan199" />
+       id="tspan199"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -729,32 +821,38 @@
      x="782.62"
      font-family="Arial"
      text-anchor="middle"
-     id="text201" />
+     id="text201"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <g
      font-family="'Gentium Book Basic'"
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="g203">
+     id="g203"
+     style="fill:#ffedb5;fill-opacity:1">
     <text
        y="-198.76"
        x="516.88"
        font-size="208.33"
-       id="text205">
+       id="text205"
+       style="fill:#ffedb5;fill-opacity:1">
       <tspan
          y="-198.76"
          x="516.88"
-         id="tspan207" />
+         id="tspan207"
+         style="fill:#ffedb5;fill-opacity:1" />
     </text>
     <text
        y="231.36"
        x="729.64"
        font-size="129.23"
-       id="text209">
+       id="text209"
+       style="fill:#ffedb5;fill-opacity:1">
       <tspan
          y="231.36"
          x="729.64"
-         id="tspan211" />
+         id="tspan211"
+         style="fill:#ffedb5;fill-opacity:1" />
     </text>
   </g>
   <text
@@ -764,7 +862,8 @@
      x="378.91"
      font-family="Arial"
      text-anchor="middle"
-     id="text213" />
+     id="text213"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="151.36"
@@ -773,11 +872,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text215">
+     id="text215"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="151.36"
        x="1310.91"
-       id="tspan217" />
+       id="tspan217"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -786,7 +887,8 @@
      x="523.76"
      font-family="Arial"
      text-anchor="middle"
-     id="text219" />
+     id="text219"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-29.9"
@@ -795,11 +897,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text221">
+     id="text221"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-29.9"
        x="239.33"
-       id="tspan223" />
+       id="tspan223"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -808,7 +912,8 @@
      x="256.72"
      font-family="Arial"
      text-anchor="middle"
-     id="text225" />
+     id="text225"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-246.37"
@@ -817,11 +922,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text227">
+     id="text227"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-246.37"
        x="1337.38"
-       id="tspan229" />
+       id="tspan229"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -830,7 +937,8 @@
      x="530.36"
      font-family="Arial"
      text-anchor="middle"
-     id="text231" />
+     id="text231"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-326.37"
@@ -839,11 +947,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text233">
+     id="text233"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-326.37"
        x="1918.65"
-       id="tspan235" />
+       id="tspan235"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -852,7 +962,8 @@
      x="675.21"
      font-family="Arial"
      text-anchor="middle"
-     id="text237" />
+     id="text237"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-798.77"
@@ -861,11 +972,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text239">
+     id="text239"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-798.77"
        x="1529.53"
-       id="tspan241" />
+       id="tspan241"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -874,7 +987,8 @@
      x="578.24"
      font-family="Arial"
      text-anchor="middle"
-     id="text243" />
+     id="text243"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-878.78"
@@ -883,11 +997,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text245">
+     id="text245"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-878.78"
        x="2110.79"
-       id="tspan247" />
+       id="tspan247"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -896,32 +1012,38 @@
      x="723.09"
      font-family="Arial"
      text-anchor="middle"
-     id="text249" />
+     id="text249"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <g
      font-family="'Gentium Book Basic'"
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="g251">
+     id="g251"
+     style="fill:#ffedb5;fill-opacity:1">
     <text
        y="535.94"
        x="277.99"
        font-size="208.33"
-       id="text253">
+       id="text253"
+       style="fill:#ffedb5;fill-opacity:1">
       <tspan
          y="535.94"
          x="277.99"
-         id="tspan255" />
+         id="tspan255"
+         style="fill:#ffedb5;fill-opacity:1" />
     </text>
     <text
        y="231.36"
        x="729.64"
        font-size="129.23"
-       id="text257">
+       id="text257"
+       style="fill:#ffedb5;fill-opacity:1">
       <tspan
          y="231.36"
          x="729.64"
-         id="tspan259" />
+         id="tspan259"
+         style="fill:#ffedb5;fill-opacity:1" />
     </text>
   </g>
   <text
@@ -931,7 +1053,8 @@
      x="378.91"
      font-family="Arial"
      text-anchor="middle"
-     id="text261" />
+     id="text261"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="151.36"
@@ -940,11 +1063,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text263">
+     id="text263"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="151.36"
        x="1310.91"
-       id="tspan265" />
+       id="tspan265"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -953,7 +1078,8 @@
      x="523.76"
      font-family="Arial"
      text-anchor="middle"
-     id="text267" />
+     id="text267"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-29.9"
@@ -962,11 +1088,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text269">
+     id="text269"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-29.9"
        x="239.33"
-       id="tspan271" />
+       id="tspan271"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -975,7 +1103,8 @@
      x="256.72"
      font-family="Arial"
      text-anchor="middle"
-     id="text273" />
+     id="text273"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-246.37"
@@ -984,11 +1113,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text275">
+     id="text275"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-246.37"
        x="1337.38"
-       id="tspan277" />
+       id="tspan277"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -997,7 +1128,8 @@
      x="530.36"
      font-family="Arial"
      text-anchor="middle"
-     id="text279" />
+     id="text279"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-326.37"
@@ -1006,11 +1138,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text281">
+     id="text281"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-326.37"
        x="1918.65"
-       id="tspan283" />
+       id="tspan283"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -1019,7 +1153,8 @@
      x="675.21"
      font-family="Arial"
      text-anchor="middle"
-     id="text285" />
+     id="text285"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-798.77"
@@ -1028,11 +1163,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text287">
+     id="text287"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-798.77"
        x="1529.53"
-       id="tspan289" />
+       id="tspan289"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -1041,7 +1178,8 @@
      x="578.24"
      font-family="Arial"
      text-anchor="middle"
-     id="text291" />
+     id="text291"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-878.78"
@@ -1050,11 +1188,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text293">
+     id="text293"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-878.78"
        x="2110.79"
-       id="tspan295" />
+       id="tspan295"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -1063,32 +1203,38 @@
      x="723.09"
      font-family="Arial"
      text-anchor="middle"
-     id="text297" />
+     id="text297"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <g
      font-family="'Gentium Book Basic'"
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="g299">
+     id="g299"
+     style="fill:#ffedb5;fill-opacity:1">
     <text
        y="535.94"
        x="277.99"
        font-size="208.33"
-       id="text301">
+       id="text301"
+       style="fill:#ffedb5;fill-opacity:1">
       <tspan
          y="535.94"
          x="277.99"
-         id="tspan303" />
+         id="tspan303"
+         style="fill:#ffedb5;fill-opacity:1" />
     </text>
     <text
        y="231.36"
        x="729.64"
        font-size="129.23"
-       id="text305">
+       id="text305"
+       style="fill:#ffedb5;fill-opacity:1">
       <tspan
          y="231.36"
          x="729.64"
-         id="tspan307" />
+         id="tspan307"
+         style="fill:#ffedb5;fill-opacity:1" />
     </text>
   </g>
   <text
@@ -1098,7 +1244,8 @@
      x="378.91"
      font-family="Arial"
      text-anchor="middle"
-     id="text309" />
+     id="text309"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="151.36"
@@ -1107,11 +1254,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text311">
+     id="text311"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="151.36"
        x="1310.91"
-       id="tspan313" />
+       id="tspan313"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -1120,7 +1269,8 @@
      x="523.76"
      font-family="Arial"
      text-anchor="middle"
-     id="text315" />
+     id="text315"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-29.9"
@@ -1129,11 +1279,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text317">
+     id="text317"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-29.9"
        x="239.33"
-       id="tspan319" />
+       id="tspan319"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -1142,7 +1294,8 @@
      x="256.72"
      font-family="Arial"
      text-anchor="middle"
-     id="text321" />
+     id="text321"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-246.37"
@@ -1151,11 +1304,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text323">
+     id="text323"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-246.37"
        x="1337.38"
-       id="tspan325" />
+       id="tspan325"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -1164,7 +1319,8 @@
      x="530.36"
      font-family="Arial"
      text-anchor="middle"
-     id="text327" />
+     id="text327"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-326.37"
@@ -1173,11 +1329,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text329">
+     id="text329"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-326.37"
        x="1918.65"
-       id="tspan331" />
+       id="tspan331"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -1186,7 +1344,8 @@
      x="675.21"
      font-family="Arial"
      text-anchor="middle"
-     id="text333" />
+     id="text333"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-798.77"
@@ -1195,11 +1354,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text335">
+     id="text335"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-798.77"
        x="1529.53"
-       id="tspan337" />
+       id="tspan337"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -1208,7 +1369,8 @@
      x="578.24"
      font-family="Arial"
      text-anchor="middle"
-     id="text339" />
+     id="text339"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-878.78"
@@ -1217,11 +1379,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text341">
+     id="text341"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-878.78"
        x="2110.79"
-       id="tspan343" />
+       id="tspan343"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -1230,7 +1394,8 @@
      x="723.09"
      font-family="Arial"
      text-anchor="middle"
-     id="text345" />
+     id="text345"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="208.33"
      y="535.94"
@@ -1239,14 +1404,16 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text347">
+     id="text347"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="535.94"
        x="277.99"
-       id="tspan349" />
+       id="tspan349"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <path
-     style="fill:#FFEDB5;fill-opacity:0.65333331;stroke:#FFEDB5;stroke-opacity:1"
+     style="fill:#ffedb5;fill-opacity:1;stroke:#ffedb5;stroke-opacity:1"
      d="M 253.05078 34.150391 C 132.16078 34.150391 34.150391 132.15078 34.150391 253.05078 C 34.150391 373.94078 132.15078 471.94922 253.05078 471.94922 C 373.94078 471.94922 471.94922 373.95078 471.94922 253.05078 C 471.94922 132.16078 373.95078 34.150391 253.05078 34.150391 z M 78.810547 120.56055 L 78.810547 120.56641 C 126.88055 185.21641 184.02039 227.58855 247.15039 250.43555 C 315.75039 275.26055 391.88814 277.06155 471.86914 257.68555 C 471.68214 266.68455 470.95684 275.54805 469.71484 284.24805 C 388.55484 302.54005 310.01414 300.19255 238.49414 274.31055 C 172.89414 250.57055 113.5903 207.0618 63.904297 142.8418 C 68.425297 135.0998 73.403547 127.65955 78.810547 120.56055 z "
      id="path351" />
   <text
@@ -1257,11 +1424,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text369">
+     id="text369"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="231.36"
        x="729.64"
-       id="tspan371" />
+       id="tspan371"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -1270,7 +1439,8 @@
      x="378.91"
      font-family="Arial"
      text-anchor="middle"
-     id="text373" />
+     id="text373"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="151.36"
@@ -1279,11 +1449,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text375">
+     id="text375"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="151.36"
        x="1310.91"
-       id="tspan377" />
+       id="tspan377"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -1292,7 +1464,8 @@
      x="523.76"
      font-family="Arial"
      text-anchor="middle"
-     id="text379" />
+     id="text379"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-29.9"
@@ -1301,11 +1474,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text381">
+     id="text381"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-29.9"
        x="239.33"
-       id="tspan383" />
+       id="tspan383"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -1314,7 +1489,8 @@
      x="256.72"
      font-family="Arial"
      text-anchor="middle"
-     id="text385" />
+     id="text385"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-246.37"
@@ -1323,11 +1499,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text387">
+     id="text387"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-246.37"
        x="1337.38"
-       id="tspan389" />
+       id="tspan389"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -1336,7 +1514,8 @@
      x="530.36"
      font-family="Arial"
      text-anchor="middle"
-     id="text391" />
+     id="text391"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-326.37"
@@ -1345,11 +1524,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text393">
+     id="text393"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-326.37"
        x="1918.65"
-       id="tspan395" />
+       id="tspan395"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -1358,7 +1539,8 @@
      x="675.21"
      font-family="Arial"
      text-anchor="middle"
-     id="text397" />
+     id="text397"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-798.77"
@@ -1367,11 +1549,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text399">
+     id="text399"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-798.77"
        x="1529.53"
-       id="tspan401" />
+       id="tspan401"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -1380,7 +1564,8 @@
      x="578.24"
      font-family="Arial"
      text-anchor="middle"
-     id="text403" />
+     id="text403"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="129.23"
      y="-878.78"
@@ -1389,11 +1574,13 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text405">
+     id="text405"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="-878.78"
        x="2110.79"
-       id="tspan407" />
+       id="tspan407"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
   <text
      transform="scale(4.0128.2492)"
@@ -1402,7 +1589,8 @@
      x="723.09"
      font-family="Arial"
      text-anchor="middle"
-     id="text409" />
+     id="text409"
+     style="fill:#ffedb5;fill-opacity:1;" />
   <text
      font-size="208.33"
      y="535.94"
@@ -1411,10 +1599,12 @@
      line-height="125%"
      word-spacing="0"
      letter-spacing="0"
-     id="text411">
+     id="text411"
+     style="fill:#ffedb5;fill-opacity:1;">
     <tspan
        y="535.94"
        x="277.99"
-       id="tspan413" />
+       id="tspan413"
+       style="fill:#ffedb5;fill-opacity:1;" />
   </text>
 </svg>

@@ -276,22 +276,22 @@
   </text>
   <g
      transform="matrix(16.795759,0,0,16.795759,-147.09821,-151.43719)"
-     style="fill:#FFEDB5;fill-opacity:1"
+     style="fill:#ffedb5;fill-opacity:1"
      id="g6">
     <path
        inkscape:connector-curvature="0"
        d="m 14,14 20,0 0,4 -20,0 z"
        id="path8"
-       style="fill:#FFEDB5;fill-opacity:1" />
+       style="fill:#ffedb5;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        d="m 14,22 20,0 0,4 -20,0 z"
        id="path10-3"
-       style="fill:#FFEDB5;fill-opacity:1" />
+       style="fill:#ffedb5;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        d="m 14,30 20,0 0,4 -20,0 z"
        id="path12"
-       style="fill:#FFEDB5;fill-opacity:1" />
+       style="fill:#ffedb5;fill-opacity:1" />
   </g>
 </svg>

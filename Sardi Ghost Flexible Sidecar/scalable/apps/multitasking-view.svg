@@ -51,36 +51,36 @@
   <g
      transform="matrix(15.241024,0,0,15.241024,-104.34185,-111.24592)"
      id="g39"
-     style="fill:#FFEDB5">
+     style="fill:#ffedb5">
     <path
        inkscape:connector-curvature="0"
        d="m 24,11 c 0.734,0 1,0.266 1,1 l 0,1 c -1,1 -13,1 -14,0 l 0,-1 c 0,-0.734 0.27,-1 1,-1"
-       style="fill:#FFEDB5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#ffedb5;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path45" />
     <path
        inkscape:connector-curvature="0"
        d="m 36,13 c 0.727,0 1,0.266 1,1 l 0,1 c -1,1 -9,1 -10,0 l 0,-1 c 0,-0.734 0.278,-1 1,-1"
-       style="fill:#FFEDB5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#ffedb5;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path47" />
     <path
        inkscape:connector-curvature="0"
        d="m 25,13 0,8 c 0,0.734 -0.266,1 -1,1 l -12,0 c -0.73,0 -1,-0.266 -1,-1 l 0,-8"
-       style="fill:#FFEDB5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#ffedb5;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path49" />
     <path
        inkscape:connector-curvature="0"
        d="m 37,15 0,9 c 0,0.734 -0.274,1 -1,1 l -8,0 c -0.727,0 -1,-0.266 -1,-1 l 0,-9"
-       style="fill:#FFEDB5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#ffedb5;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path51" />
     <path
        inkscape:connector-curvature="0"
        d="m 35.007088,28 c 0.950189,0 1.294535,0.266 1.294535,1 l 0,1 C 35.007088,31 14.294535,31 13,30 l 0,-1 c 0,-0.734 0.349524,-1 1.294535,-1"
-       style="fill:#FFEDB5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#ffedb5;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path53" />
     <path
        inkscape:connector-curvature="0"
        d="m 36.301623,30 0,6 c 0,0.734 -0.344346,1 -1.294535,1 L 14.294535,37 C 13.349524,37 13,36.734 13,36 l 0,-6"
-       style="fill:#FFEDB5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#ffedb5;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path55" />
   </g>
 </svg>

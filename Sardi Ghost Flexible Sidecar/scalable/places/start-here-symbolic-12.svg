@@ -70,7 +70,7 @@
   <g
      transform="matrix(1.5858654,0,0,1.5858654,170.06522,-23.058617)"
      id="g5427-6"
-     style="fill:#FFEDB5;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none">
+     style="fill:#ffedb5;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none">
     <linearGradient
        id="linearGradient5515-4"
        gradientUnits="userSpaceOnUse"
@@ -92,21 +92,21 @@
   <path
      inkscape:connector-curvature="0"
      d="m 27.882823,161.11579 0,-138.282891 138.282907,0 69.14146,69.141474 0,138.282777 -138.282907,0 z m 69.14146,0 69.141447,0 0,-69.141417 -69.141447,0"
-     style="fill:#FFEDB5;fill-opacity:1;stroke:none"
+     style="fill:#ffedb5;fill-opacity:1;stroke:none"
      id="path4" />
   <path
      inkscape:connector-curvature="0"
      d="m 27.882823,345.4929 0,138.28294 138.282907,0 69.14146,-69.14147 0,-138.28283 -138.282907,0 z m 69.14146,0 69.141447,0 0,69.14147 -69.141447,0 z"
-     style="fill:#FFEDB5;fill-opacity:1;stroke:none"
+     style="fill:#ffedb5;fill-opacity:1;stroke:none"
      id="path6" />
   <path
      inkscape:connector-curvature="0"
      d="m 488.82585,161.11579 0,-138.282891 -138.2829,0 -69.14146,69.141474 0,138.282777 138.2829,0 z m -69.14146,0 -69.14144,0 0,-69.141417 69.14144,0 z"
-     style="fill:#FFEDB5;fill-opacity:1;stroke:none"
+     style="fill:#ffedb5;fill-opacity:1;stroke:none"
      id="path8" />
   <path
      inkscape:connector-curvature="0"
      d="m 488.82585,345.4929 0,138.28294 -138.2829,0 -69.14146,-69.14147 0,-138.28283 138.2829,0 z m -69.14146,0 -69.14144,0 0,69.14147 69.14144,0 z"
-     style="fill:#FFEDB5;fill-opacity:1;stroke:none"
+     style="fill:#ffedb5;fill-opacity:1;stroke:none"
      id="path10" />
 </svg>

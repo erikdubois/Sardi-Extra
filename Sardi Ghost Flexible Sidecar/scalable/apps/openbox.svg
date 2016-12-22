@@ -59,7 +59,7 @@
        height="42.618874"
        width="257.0246"
        id="rect4146"
-       style="opacity:1;fill:#FFEDB5;fill-opacity:1;stroke:none;stroke-width:13.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#ffedb5;fill-opacity:1;stroke:none;stroke-width:13.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        ry="3.8920007"
        rx="2.648849"
@@ -68,7 +68,7 @@
        height="157.362"
        width="255.71326"
        id="rect4148"
-       style="opacity:1;fill:#FFEDB5;fill-opacity:1;stroke:none;stroke-width:13.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#ffedb5;fill-opacity:1;stroke:none;stroke-width:13.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        ry="3.8920007"
        rx="2.648849"
@@ -77,6 +77,6 @@
        height="8.5237751"
        width="256.36893"
        id="rect4150"
-       style="opacity:1;fill:#FFEDB5;fill-opacity:1;stroke:none;stroke-width:13.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#ffedb5;fill-opacity:1;stroke:none;stroke-width:13.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
