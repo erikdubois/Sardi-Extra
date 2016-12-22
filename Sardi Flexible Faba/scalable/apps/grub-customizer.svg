@@ -8,12 +8,12 @@
 </linearGradient>
 <clipPath id="clipPath-276172342">
 <g transform="translate(0,-1004.3622)" id="g12-2">
-<path inkscape:connector-curvature="0" d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z" transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)" id="path14-9" fill="#D5C9DA" />
+<path inkscape:connector-curvature="0" d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z" transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)" id="path14-9" fill="#d5c9da" />
 </g>
 </clipPath>
 <clipPath id="clipPath-283653061">
 <g transform="translate(0,-1004.3622)" id="g17">
-<path inkscape:connector-curvature="0" d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z" transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)" id="path19" fill="#D5C9DA" />
+<path inkscape:connector-curvature="0" d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z" transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)" id="path19" fill="#d5c9da" />
 </g>
 </clipPath>
 </defs>
@@ -25,7 +25,7 @@
 </cc:Work>
 </rdf:RDF>
 </metadata>
-<path id="path4" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill-rule="evenodd" fill="#D5C9DA" />
+<path id="path4" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill-rule="evenodd" fill="#d5c9da" />
 <text id="text20" font-size="129.23" line-height="125%" y="231.36" x="729.64" font-family="Gentium Book Basic" word-spacing="0" letter-spacing="0">
 <tspan id="tspan22" y="231.36" x="729.64" />
 </text>
@@ -63,7 +63,7 @@
 </text>
 </g>
 <text id="text72" font-size="75.7" transform="scale(4.0128 .2492)" y="942.22" x="-93.25" font-family="Arial" text-anchor="middle" />
-<path style="opacity:0.25;fill:#D5C9DA;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 341.32883,152.26242 124.70835,152.36001 c 0,0 -7.92841,27.44758 -13.13258,37.8637 -40.34621,80.75264 -114.60936,121.16661 -195.94919,131.92935 -9.21243,1.21897 -15.34062,-6.13625 -15.34062,-6.13625 L 131.16232,301.83348 175.8075,138.36625 l 38.03738,-17.71017 30.83369,47.16282 c 8.43644,12.90426 20.50293,-63.41575 23.79107,-52.12126 3.16569,10.87389 20.46359,36.71404 20.46359,36.71404 3.69119,9.72062 12.18639,4.14355 17.94022,5.79961 16.69569,4.80534 34.45538,-5.94887 34.45538,-5.94887 z" id="path4206" inkscape:connector-curvature="0" sodipodi:nodetypes="ccssccccssssc" />
+<path style="opacity:0.25;fill:#d5c9da;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 341.32883,152.26242 124.70835,152.36001 c 0,0 -7.92841,27.44758 -13.13258,37.8637 -40.34621,80.75264 -114.60936,121.16661 -195.94919,131.92935 -9.21243,1.21897 -15.34062,-6.13625 -15.34062,-6.13625 L 131.16232,301.83348 175.8075,138.36625 l 38.03738,-17.71017 30.83369,47.16282 c 8.43644,12.90426 20.50293,-63.41575 23.79107,-52.12126 3.16569,10.87389 20.46359,36.71404 20.46359,36.71404 3.69119,9.72062 12.18639,4.14355 17.94022,5.79961 16.69569,4.80534 34.45538,-5.94887 34.45538,-5.94887 z" id="path4206" inkscape:connector-curvature="0" sodipodi:nodetypes="ccssccccssssc" />
 <g transform="matrix(8.7932694,0,0,8.7932694,40.308027,35.68578)" id="g61" fill="#ffffff">
 <g clip-path="url(#clipPath-283653061)" id="g63">
 <g id="g65">
