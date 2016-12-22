@@ -48,7 +48,7 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="fill:#4F4F4F;fill-opacity:1"
+     style="fill:#4f4f4f;fill-opacity:1"
      x="-351.24237"
      y="-31.82453"
      width="157.00284"
@@ -57,7 +57,7 @@
      rx="9.5420599"
      id="rect70" />
   <rect
-     style="fill:#4F4F4F;fill-opacity:1"
+     style="fill:#4f4f4f;fill-opacity:1"
      x="-7.9217806"
      y="343.05927"
      width="191.40907"
@@ -74,10 +74,10 @@
      y="341.22"
      x="-262.91"
      fill="#d23638"
-     style="fill:#4F4F4F;fill-opacity:1" />
+     style="fill:#4f4f4f;fill-opacity:1" />
   <path
      id="path76"
      fill="#dedede"
      d="m273.91 253.05a20.875 20.875 0 0 1 -41.751 0 20.875 20.875 0 1 1 41.751 0"
-     style="fill:#4F4F4F;fill-opacity:1" />
+     style="fill:#4f4f4f;fill-opacity:1" />
 </svg>

@@ -56,7 +56,7 @@
      y="211.86"
      x="81.87"
      fill="#924565"
-     style="fill:#4F4F4F;fill-opacity:1" />
+     style="fill:#4f4f4f;fill-opacity:1" />
   <rect
      id="rect10"
      rx="21.776"
@@ -66,7 +66,7 @@
      y="211.86"
      x="168.49"
      fill="#ffd459"
-     style="fill:#4F4F4F;fill-opacity:1" />
+     style="fill:#4f4f4f;fill-opacity:1" />
   <rect
      id="rect12"
      rx="21.776"
@@ -76,7 +76,7 @@
      y="211.86"
      x="255.12"
      fill="#ae4a32"
-     style="fill:#4F4F4F;fill-opacity:1" />
+     style="fill:#4f4f4f;fill-opacity:1" />
   <rect
      id="rect14"
      rx="21.776"
@@ -86,7 +86,7 @@
      y="211.86"
      x="341.74"
      fill="#68af4c"
-     style="fill:#4F4F4F;fill-opacity:1" />
+     style="fill:#4f4f4f;fill-opacity:1" />
   <rect
      id="rect16"
      rx="21.776"
@@ -96,7 +96,7 @@
      y="125.24"
      x="125.18"
      fill="#cd1d31"
-     style="fill:#4F4F4F;fill-opacity:1" />
+     style="fill:#4f4f4f;fill-opacity:1" />
   <rect
      id="rect18"
      rx="21.776"
@@ -106,7 +106,7 @@
      y="125.24"
      x="211.8"
      fill="#0078ad"
-     style="fill:#4F4F4F;fill-opacity:1" />
+     style="fill:#4f4f4f;fill-opacity:1" />
   <rect
      id="rect20"
      rx="21.776"
@@ -116,7 +116,7 @@
      y="125.24"
      x="298.43"
      fill="#c74a6c"
-     style="fill:#4F4F4F;fill-opacity:1" />
+     style="fill:#4f4f4f;fill-opacity:1" />
   <rect
      id="rect22"
      rx="21.776"
@@ -125,6 +125,6 @@
      width="312.81"
      y="298.48"
      x="89.09"
-     fill="#4F4F4F"
-     style="fill:#4F4F4F;fill-opacity:1" />
+     fill="#4f4f4f"
+     style="fill:#4f4f4f;fill-opacity:1" />
 </svg>

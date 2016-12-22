@@ -49,7 +49,7 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="fill:#4F4F4F"
+     style="fill:#4f4f4f"
      x="-98.238449"
      y="-9.1193018"
      width="53.182697"
@@ -58,7 +58,7 @@
      rx="3.2322502"
      id="rect70" />
   <rect
-     style="fill:#4F4F4F"
+     style="fill:#4f4f4f"
      x="-2.3058918"
      y="95.403557"
      width="64.837364"
@@ -74,10 +74,10 @@
      width="55.787266"
      y="95.71479"
      x="-83.843094"
-     style="fill:#4F4F4F" />
+     style="fill:#4f4f4f" />
   <path
      id="path76"
      d="m 78.341735,70.742 a 7.0712572,7.0712572 0 0 1 -14.142514,0 7.0712572,7.0712572 0 1 1 14.142514,0"
-     style="fill:#4F4F4F"
+     style="fill:#4f4f4f"
      inkscape:connector-curvature="0" />
 </svg>

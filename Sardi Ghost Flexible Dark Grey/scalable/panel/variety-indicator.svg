@@ -48,7 +48,7 @@
      inkscape:current-layer="svg2" />
   <rect
      id="rect6"
-     style="fill:none;stroke:#4F4F4F;stroke-width:2.11062765;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#4f4f4f;stroke-width:2.11062765;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      ry="3.3552942"
      y="5.1432486"
      x="3.9431784"
@@ -58,6 +58,6 @@
   <path
      inkscape:connector-curvature="0"
      id="path8"
-     style="fill:#4F4F4F;fill-opacity:1;stroke:none"
+     style="fill:#4f4f4f;fill-opacity:1;stroke:none"
      d="m 6.0197012,11.565456 0,4.252481 11.9354828,0 0,-2.638918 c 0.04221,-2.129674 -5.347096,-6.0251108 -5.844617,-4.4722 -0.564863,1.761186 -1.674486,5.109614 -2.8001903,4.911638 C 8.4691136,13.443368 7.6278505,13.26828 6.0197012,11.565456" />
 </svg>

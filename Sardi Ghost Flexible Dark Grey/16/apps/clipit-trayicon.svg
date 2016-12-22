@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 128 128"
+   viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="clipit-trayicon.svg"
-   width="128"
-   height="128">
+   width="16"
+   height="16">
   <metadata
      id="metadata97">
     <rdf:RDF>
@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1024"
+     inkscape:window-height="1022"
      id="namedview95"
      showgrid="false"
-     inkscape:zoom="2.0310058"
-     inkscape:cx="-146.38335"
-     inkscape:cy="54.316564"
+     inkscape:zoom="32.496093"
+     inkscape:cx="11.849034"
+     inkscape:cy="6.1607899"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -193,14 +193,13 @@
   </defs>
   <g
      id="g33"
-     transform="translate(0,80)"
-     style="fill:#aaaaaa;fill-opacity:1" />
+     transform="translate(0,80)" />
   <path
      style="opacity:1;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:1.98402464;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3360)"
      d="m 38.574822,16.15277 0,3.924284 23.241681,0 0,-3.924284 -23.241681,0 z m -14.595699,-2.983678 54.071884,0 c 4.128681,0 7.452243,3.483535 7.452243,7.810799 l 0,21.704055 -28.442726,0 c -3.657366,0 -6.60179,3.087272 -6.60179,6.920551 l 0,50.713533 -26.479611,0 c -4.12868,0 -7.452243,-3.483537 -7.452243,-7.810795 l 0,-71.527344 c 0,-4.327264 3.323563,-7.810799 7.452243,-7.810799 z"
      id="rect3437"
      inkscape:connector-curvature="0"
-     transform="matrix(0.90265546,0,0,0.91521151,4.1545687,3.7892745)" />
+     transform="matrix(0.09710058,0,0,0.09845125,1.643628,1.0332774)" />
   <rect
      style="opacity:1;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:1.71347582;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3354)"
      id="rect4239-7"
@@ -208,7 +207,7 @@
      height="8.452817"
      x="43.833321"
      y="9.6615515"
-     transform="matrix(0.90265546,0,0,0.91521151,4.1545687,3.7892745)" />
+     transform="matrix(0.09710058,0,0,0.09845125,1.643628,1.0332774)" />
   <rect
      style="opacity:1;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:2.16439056;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3348)"
      id="rect4170"
@@ -217,5 +216,5 @@
      x="58.455208"
      y="50.261017"
      ry="8.1032314"
-     transform="matrix(0.90265546,0,0,0.91521151,4.1545687,3.7892745)" />
+     transform="matrix(0.09710058,0,0,0.09845125,1.643628,1.0332774)" />
 </svg>

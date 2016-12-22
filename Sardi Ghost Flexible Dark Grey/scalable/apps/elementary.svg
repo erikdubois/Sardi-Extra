@@ -63,49 +63,49 @@
        inkscape:corner7="0.26004385 : 0.041097675 : 0.28010926 : 1"
        inkscape:corner0="0.75464051 : 0.16130424 : 0 : 1"
        inkscape:perspectiveID="#perspective4438"
-       style="opacity:1;fill:#4F4F4F;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#4f4f4f;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="g4440"
        sodipodi:type="inkscape:box3d">
       <path
          points="249.25529,405.64384 347.16902,394.51353 237.27888,382.3431 149.42222,388.39314 "
          d="m 149.42222,388.39314 99.83307,17.2507 97.91373,-11.13031 -109.89014,-12.17043 z"
          inkscape:box3dsidetype="13"
-         style="fill:#4F4F4F;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#4f4f4f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
          id="path4450"
          sodipodi:type="inkscape:box3dside" />
       <path
          points="149.42222,388.39314 237.27888,382.3431 237.27888,279.35803 149.42222,268.96762 "
          d="m 149.42222,268.96762 0,119.42552 87.85666,-6.05004 0,-102.98507 z"
          inkscape:box3dsidetype="6"
-         style="fill:#4F4F4F;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#4f4f4f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
          id="path4442"
          sodipodi:type="inkscape:box3dside" />
       <path
          points="347.16902,258.45638 347.16902,394.51353 237.27888,382.3431 237.27888,279.35803 "
          d="m 237.27888,279.35803 109.89014,-20.90165 0,136.05715 -109.89014,-12.17043 z"
          inkscape:box3dsidetype="11"
-         style="fill:#4F4F4F;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#4f4f4f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
          id="path4452"
          sodipodi:type="inkscape:box3dside" />
       <path
          points="249.25529,239.34103 347.16902,258.45638 237.27888,279.35803 149.42222,268.96762 "
          d="m 149.42222,268.96762 99.83307,-29.62659 97.91373,19.11535 -109.89014,20.90165 z"
          inkscape:box3dsidetype="5"
-         style="fill:#4F4F4F;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#4f4f4f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
          id="path4444"
          sodipodi:type="inkscape:box3dside" />
       <path
          points="249.25529,405.64384 347.16902,394.51353 347.16902,258.45638 249.25529,239.34103 "
          d="m 249.25529,239.34103 0,166.30281 97.91373,-11.13031 0,-136.05715 z"
          inkscape:box3dsidetype="14"
-         style="fill:#4F4F4F;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#4f4f4f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
          id="path4448"
          sodipodi:type="inkscape:box3dside" />
       <path
          points="249.25529,239.34103 249.25529,405.64384 149.42222,388.39314 149.42222,268.96762 "
          d="m 149.42222,268.96762 99.83307,-29.62659 0,166.30281 -99.83307,-17.2507 z"
          inkscape:box3dsidetype="3"
-         style="fill:#4F4F4F;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#4f4f4f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
          id="path4446"
          sodipodi:type="inkscape:box3dside" />
     </g>
@@ -114,6 +114,6 @@
        cy="160.54744"
        cx="253.95941"
        id="path4454"
-       style="opacity:1;fill:#4F4F4F;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#4f4f4f;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

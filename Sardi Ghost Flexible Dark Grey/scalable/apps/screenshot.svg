@@ -36,12 +36,12 @@
 </cc:Work>
 </rdf:RDF>
 </metadata>
-<ellipse cy="192.23651" cx="213.38846" id="path6689" style="color:#000000;fill:#4F4F4F;stroke-width:16" rx="61.893898" ry="53.654972" />
-<rect style="color:#000000;fill:none;stroke:#4F4F4F;stroke-width:27.05599022" id="rect7283" width="352.2496" height="305.36038" x="83.129471" y="96.811348" rx="19.199656" ry="16.643917" />
-<path style="fill:#4F4F4F" d="m 403.41469,284.62107 c -13.07292,-0.19019 -25.44411,4.36266 -36.21037,15.15392 l -76.96124,77.14728 92.25047,0 c 5.26439,-10.22704 12.52598,-15.60188 23.87247,-19.93602 l 0,-72.16838 c -0.9842,-0.0668 -1.97406,-0.18263 -2.95133,-0.1968 z" id="path7395" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccc" />
-<path style="fill:#4F4F4F" d="m 159.02302,303.51428 c -15.18786,0.14046 -31.1239,3.55324 -46.88056,9.4466 l 0,42.41133 c 8.97931,3.78701 18.76791,10.18719 24.85917,21.55006 l 153.24145,0 C 272.56634,323.12719 196.47942,303.16805 159.02302,303.51428 Z" id="path7393" inkscape:connector-curvature="0" sodipodi:nodetypes="sccccs" />
-<ellipse cy="96.811348" cx="435.37909" style="color:#000000;fill:#4F4F4F;stroke-width:8" id="path7287" rx="45.404865" ry="39.360855" />
-<ellipse cy="96.811348" cx="83.129402" id="path7289" style="color:#000000;fill:#4F4F4F;stroke-width:8" rx="45.404865" ry="39.360855" />
-<ellipse cy="402.17172" cx="435.37909" id="path7291" style="color:#000000;fill:#4F4F4F;stroke-width:8" rx="45.404865" ry="39.360855" />
-<ellipse cy="402.17172" cx="83.129402" style="color:#000000;fill:#4F4F4F;stroke-width:8" id="path7293" rx="45.404865" ry="39.360855" />
+<ellipse cy="192.23651" cx="213.38846" id="path6689" style="color:#000000;fill:#4f4f4f;stroke-width:16" rx="61.893898" ry="53.654972" />
+<rect style="color:#000000;fill:none;stroke:#4f4f4f;stroke-width:27.05599022" id="rect7283" width="352.2496" height="305.36038" x="83.129471" y="96.811348" rx="19.199656" ry="16.643917" />
+<path style="fill:#4f4f4f" d="m 403.41469,284.62107 c -13.07292,-0.19019 -25.44411,4.36266 -36.21037,15.15392 l -76.96124,77.14728 92.25047,0 c 5.26439,-10.22704 12.52598,-15.60188 23.87247,-19.93602 l 0,-72.16838 c -0.9842,-0.0668 -1.97406,-0.18263 -2.95133,-0.1968 z" id="path7395" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccc" />
+<path style="fill:#4f4f4f" d="m 159.02302,303.51428 c -15.18786,0.14046 -31.1239,3.55324 -46.88056,9.4466 l 0,42.41133 c 8.97931,3.78701 18.76791,10.18719 24.85917,21.55006 l 153.24145,0 C 272.56634,323.12719 196.47942,303.16805 159.02302,303.51428 Z" id="path7393" inkscape:connector-curvature="0" sodipodi:nodetypes="sccccs" />
+<ellipse cy="96.811348" cx="435.37909" style="color:#000000;fill:#4f4f4f;stroke-width:8" id="path7287" rx="45.404865" ry="39.360855" />
+<ellipse cy="96.811348" cx="83.129402" id="path7289" style="color:#000000;fill:#4f4f4f;stroke-width:8" rx="45.404865" ry="39.360855" />
+<ellipse cy="402.17172" cx="435.37909" id="path7291" style="color:#000000;fill:#4f4f4f;stroke-width:8" rx="45.404865" ry="39.360855" />
+<ellipse cy="402.17172" cx="83.129402" style="color:#000000;fill:#4f4f4f;stroke-width:8" id="path7293" rx="45.404865" ry="39.360855" />
 </svg>

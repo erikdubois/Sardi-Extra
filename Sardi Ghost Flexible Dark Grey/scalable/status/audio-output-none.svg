@@ -48,12 +48,12 @@
      inkscape:current-layer="svg2" />
   <path
      d="m 6.3481248,1.6611538 -4,4 0,4 4,4.0000002 0,-5.0000002 1,-1 -1,-1 z"
-     style="fill:#4F4F4F;fill-opacity:1"
+     style="fill:#4f4f4f;fill-opacity:1"
      id="path4"
      inkscape:connector-curvature="0" />
   <path
      d="m 1.6481248,4.6611538 c -1.08299999,0 -1.29999999,1.163 -1.29999999,2.4 l 0,1.2 c 0,1.237 0.243,2.4000002 1.29999999,2.4000002 l 1.7,0 0,-6.0000002"
-     style="fill:#4F4F4F;fill-opacity:1"
+     style="fill:#4f4f4f;fill-opacity:1"
      id="path6"
      inkscape:connector-curvature="0" />
   <rect
@@ -63,7 +63,7 @@
      y="7.2275176"
      rx="0.17976065"
      ry="0.14803818"
-     style="fill:#4F4F4F;fill-opacity:1"
+     style="fill:#4f4f4f;fill-opacity:1"
      id="rect10" />
   <rect
      ry="0.14803818"
@@ -72,7 +72,7 @@
      x="10.658281"
      height="0.98692119"
      width="2.2156379"
-     style="fill:#4F4F4F;fill-opacity:1"
+     style="fill:#4f4f4f;fill-opacity:1"
      id="rect12" />
   <rect
      width="2.2156379"
@@ -81,6 +81,6 @@
      y="7.2275176"
      rx="0.17976065"
      ry="0.14803818"
-     style="fill:#4F4F4F;fill-opacity:1"
+     style="fill:#4f4f4f;fill-opacity:1"
      id="rect14" />
 </svg>

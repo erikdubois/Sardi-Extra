@@ -62,7 +62,7 @@
        letter-spacing="0"
        id="text3708"
        sodipodi:linespacing="125%"
-       style="font-weight:bold;font-size:318.65426636px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;fill:#4F4F4F">
+       style="font-weight:bold;font-size:318.65426636px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;fill:#4f4f4f">
       <tspan
          y="361.05466"
          x="178.0177"
@@ -72,6 +72,6 @@
        d="m 307.94937,137.13806 106.06314,0 0,227.47596 -106.06314,0 z"
        id="path3706"
        inkscape:connector-curvature="0"
-       style="fill:#4F4F4F;fill-opacity:1;fill-rule:evenodd" />
+       style="fill:#4f4f4f;fill-opacity:1;fill-rule:evenodd" />
   </g>
 </svg>

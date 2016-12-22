@@ -57,11 +57,11 @@
        x="56.707962"
        y="92.747833"
        ry="83.006218"
-       style="fill:none;stroke:#4F4F4F;stroke-width:52.21456146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#4f4f4f;stroke-width:52.21456146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6" />
     <path
        d="m 108.07893,251.62607 0,105.20174 295.27067,0 0,-65.28391 c 1.04249,-52.68563 -132.28144,-149.05442 -144.58946,-110.63727 -13.97411,43.56972 -41.42485,126.40611 -69.27357,121.50831 -20.81177,-4.33124 -41.62384,-8.6628 -81.40764,-50.78887"
-       style="fill:#4F4F4F;fill-opacity:1;stroke:none"
+       style="fill:#4f4f4f;fill-opacity:1;stroke:none"
        id="path8"
        inkscape:connector-curvature="0" />
   </g>

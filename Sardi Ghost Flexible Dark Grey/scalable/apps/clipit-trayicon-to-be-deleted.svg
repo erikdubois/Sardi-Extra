@@ -148,7 +148,7 @@
        inkscape:connector-curvature="0"
        id="rect3437"
        d="m 38.574822,16.15277 0,3.924284 23.241681,0 0,-3.924284 -23.241681,0 z m -14.595699,-2.983678 54.071884,0 c 4.128681,0 7.452243,3.483535 7.452243,7.810799 l 0,21.704055 -28.442726,0 c -3.657366,0 -6.60179,3.087272 -6.60179,6.920551 l 0,50.713533 -26.479611,0 c -4.12868,0 -7.452243,-3.483537 -7.452243,-7.810795 l 0,-71.527344 c 0,-4.327264 3.323563,-7.810799 7.452243,-7.810799 z"
-       style="opacity:1;fill:#4F4F4F;fill-opacity:1;stroke:none;stroke-width:1.98402464;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3360)" />
+       style="opacity:1;fill:#4f4f4f;fill-opacity:1;stroke:none;stroke-width:1.98402464;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3360)" />
     <rect
        transform="matrix(3.6491296,0,0,3.6998895,25.642877,1131.6967)"
        y="9.6615515"
@@ -156,7 +156,7 @@
        height="8.452817"
        width="12.529412"
        id="rect4239-7"
-       style="opacity:1;fill:#4F4F4F;fill-opacity:1;stroke:none;stroke-width:1.71347582;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3354)" />
+       style="opacity:1;fill:#4f4f4f;fill-opacity:1;stroke:none;stroke-width:1.71347582;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3354)" />
     <rect
        transform="matrix(3.6491296,0,0,3.6998895,25.642877,1131.6967)"
        ry="8.1032314"
@@ -165,6 +165,6 @@
        height="74.691109"
        width="58.431263"
        id="rect4170"
-       style="opacity:1;fill:#4F4F4F;fill-opacity:1;stroke:none;stroke-width:2.16439056;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3348)" />
+       style="opacity:1;fill:#4f4f4f;fill-opacity:1;stroke:none;stroke-width:2.16439056;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3348)" />
   </g>
 </svg>

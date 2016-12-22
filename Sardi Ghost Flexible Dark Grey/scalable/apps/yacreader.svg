@@ -50,7 +50,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#4F4F4F;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#4f4f4f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 87.923592,166.21473 C 110.31851,76.061906 214.22482,81.687143 294.28126,87.652166 377.25002,100.95211 457.15821,127.73834 446.05695,213.77522 437.25134,276.86855 368.35732,329.56143 316.80253,332.76736 297.86533,366.63463 247.68932,446.67737 204.19619,454.27746 223.78663,417.87475 264.03976,394.75413 226.1937,332.24361 118.85367,314.90906 62.761864,278.96327 87.923592,166.21473 Z"
      id="path4299"
      inkscape:connector-curvature="0"
