@@ -117,7 +117,7 @@
   <radialGradient id="9" xlink:href="#2" gradientUnits="userSpaceOnUse" cy="8.319" cx="-1.256" gradientTransform="matrix(.9996 -.0276 .0138 .4998 -.115 4.127)" r="20.795"/>
   <radialGradient id="f" xlink:href="#2" gradientUnits="userSpaceOnUse" cy="8.358" cx="-1.369" gradientTransform="matrix(.9996 -.0276 .0138 .4998 -.116 4.143)" r="21.236"/>
  </defs>
- <path id="path148" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill-rule="evenodd" fill="#F06ACB"/>
+ <path id="path148" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill-rule="evenodd" fill="#f06acb"/>
   <g id="g152" transform="translate(2106,-33.418)">
   <symbol id="symbol154" viewBox="-14.006 -13.196 28.013 26.392">
    <use id="use156" xlink:href="#u" height="512" width="512" fill="url(#0)"/>

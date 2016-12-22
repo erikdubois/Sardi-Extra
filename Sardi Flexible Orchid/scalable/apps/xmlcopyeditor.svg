@@ -73,7 +73,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#F06ACB;fill-rule:evenodd"
+     style="fill:#f06acb;fill-rule:evenodd"
      inkscape:connector-curvature="0"
      d="m 471.95,253.05 c 0,120.9 -98.01,218.9 -218.9,218.9 -120.9,0 -218.9,-98.01 -218.9,-218.9 0,-120.9 98.01,-218.9 218.9,-218.9 120.9,0 218.9,98.01 218.9,218.9"
      id="path6" />
@@ -124,7 +124,7 @@
   <path
      inkscape:connector-curvature="0"
      d="M 430.60961,121.23547 69.537469,133.19836 C 46.934505,167.81213 33.76383,209.12628 33.76383,253.54617 c 0,121.76647 98.7034,220.46988 220.46988,220.46988 121.7665,0 220.46986,-98.70341 220.46986,-220.46988 0,-49.64407 -16.40101,-95.45388 -44.09396,-132.3107"
-     style="fill:#F06ACB;fill-opacity:1"
+     style="fill:#f06acb;fill-opacity:1"
      id="path17" />
   <path
      inkscape:connector-curvature="0"
@@ -134,12 +134,12 @@
   <path
      inkscape:connector-curvature="0"
      d="m 254.23371,33.076273 c -7.4097,0 -14.64687,0.488868 -21.86487,1.198206 l -3.29746,150.379641 94.65827,42.83826 106.93753,-106.30484 C 390.43621,67.718802 326.2986,33.114616 254.23371,33.114616 Z"
-     style="fill:#F06ACB;fill-opacity:1;stroke:none"
+     style="fill:#f06acb;fill-opacity:1;stroke:none"
      id="path21" />
   <path
      inkscape:connector-curvature="0"
      d="M 231.64033,34.216966 C 163.7452,41.128217 105.01394,78.876492 69.547044,133.19836 l 108.308226,64.0513 50.93814,-12.59554 3.89177,-150.379641 c -0.29716,0.02876 -0.62307,-0.02876 -0.92022,0 -0.048,-0.01917 -0.0863,-0.03834 -0.13421,-0.05751 z"
-     style="fill:#F06ACB;fill-opacity:1;stroke:none"
+     style="fill:#f06acb;fill-opacity:1;stroke:none"
      id="path25" />
   <path
      inkscape:connector-curvature="0"

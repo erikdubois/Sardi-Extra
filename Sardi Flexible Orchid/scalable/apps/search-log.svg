@@ -206,14 +206,14 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#F06ACB;fill-rule:evenodd"
+     style="fill:#f06acb;fill-rule:evenodd"
      inkscape:connector-curvature="0"
      id="path484"
      d="m 472.7873,252.1413 c 0,120.9 -98.01,218.9 -218.9,218.9 -120.9,0 -218.900006,-98.01 -218.900006,-218.9 0,-120.9 98.010006,-218.899999 218.900006,-218.899999 120.9,0 218.9,98.009999 218.9,218.899999"
      inkscape:transform-center-x="26.079057"
      inkscape:transform-center-y="-16.107653" />
   <path
-     style="fill:#F06ACB;fill-rule:evenodd;fill-opacity:1"
+     style="fill:#f06acb;fill-rule:evenodd;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 471.95,253.05 c 0,120.9 -98.01,218.9 -218.9,218.9 -120.9,0 -218.9,-98.01 -218.9,-218.9 0,-120.9 98.01,-218.9 218.9,-218.9 120.9,0 218.9,98.01 218.9,218.9"
      id="path6" />
