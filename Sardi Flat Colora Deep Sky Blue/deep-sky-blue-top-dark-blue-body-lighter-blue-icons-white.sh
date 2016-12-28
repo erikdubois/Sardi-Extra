@@ -65,15 +65,15 @@ oldcolourdobody=ffaa41
 # Icons
 ##################################################################################################
 ##################################################################################################
-# New colours
+# New colours - named as Sardi Flat Deep Sky Blue
 
 # bulk of the icons
-newcolourtop=79bff8
-newcolourbody=5491d6
-newcolouricons=ebebeb
+newcolourtop=1266bb
+newcolourbody=2ca7ef
+newcolouricons=eeefef
 #document-open
-newcolourdotop=79bff8
-newcolourdobody=5491d6
+newcolourdotop=1266bb
+newcolourdobody=2ca7ef
 
 
 ##################################################################################################
