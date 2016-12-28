@@ -1,0 +1,30 @@
+<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a">
+    <stop offset="0" stop-color="#ffffff"/>
+    <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="b" gradientTransform="matrix(.54054015 0 0 .73912986 -.70269091 -8.8260729)" gradientUnits="userSpaceOnUse" x1="25" x2="25" y1="16" y2="39">
+    <stop offset="0" stop-color="#53585d"/>
+    <stop offset="1" stop-color="#414247"/>
+  </linearGradient>
+  <linearGradient id="c" gradientTransform="matrix(.32203389 0 0 .3478261 1.6949149 6.4565214)" gradientUnits="userSpaceOnUse" x1="30" x2="30" y1="-8" y2="-5">
+    <stop offset="0" stop-color="#ffffff" stop-opacity=".66666669"/>
+    <stop offset="1" stop-opacity=".17484662"/>
+  </linearGradient>
+  <radialGradient id="d" cx="-31.125002" cy="-17.499994" gradientTransform="matrix(.48888918 0 0 .34964553 27.216677 9.1187952)" gradientUnits="userSpaceOnUse" r="29.999994" xlink:href="#a"/>
+  <linearGradient id="e" gradientTransform="matrix(1.6216214 0 0 .73913018 -46.108095 -8.826083)" gradientUnits="userSpaceOnUse" x1="25" x2="25" xlink:href="#a" y1="16" y2="39"/>
+  <linearGradient id="f" gradientTransform="matrix(.35483871 0 0 .38775516 -.35483871 4.4897946)" gradientUnits="userSpaceOnUse" x1="32" x2="32" y1="39.000195" y2="33.000195">
+    <stop offset="0" stop-color="#0f0f10" stop-opacity=".91411042"/>
+    <stop offset="1" stop-color="#161618" stop-opacity=".87116563"/>
+  </linearGradient>
+  <rect fill="url(#f)" height="19" rx="1" width="22" y="1"/>
+  <g transform="translate(-1.0000103 -1.000005)">
+    <rect height="19.99999" opacity=".15" rx="1.9999999" ry="2" width="21.99999" x="1.000005" y="2.0000045"/>
+    <rect fill="url(#b)" height="16.99999" rx=".99999225" ry=".99999517" width="19.999985" x="2.0000103" y="3.000005"/>
+    <path d="m12 2.9999992h9.000005c.55399 0 .99999.2853302.99999.4857121v16.1525837c0 .200382-.446.3617-.99999.3617h-4.000005c-1-6.510636 0-10.127657-5-16.9999958z" fill="url(#e)" opacity=".1"/>
+    <rect fill="url(#d)" height="17" opacity=".2" rx=".99999249" ry=".99999523" width="20" x="2" y="3"/>
+    <rect fill-opacity=".49079757" height="4.000001" rx=".99999207" ry=".99999505" width="19.999994" x="2.0000057" y="3"/>
+    <path d="m2.5 3.5h19v16h-19z" fill="none" opacity=".3" stroke="url(#c)" stroke-width=".99999988"/>
+    <circle cx="5" cy="5.5" fill="#ffffff" r="1"/>
+  </g>
+</svg>

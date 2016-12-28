@@ -1,0 +1,31 @@
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(.48648651 0 0 .39130432 .5675679 3.7391304)" gradientUnits="userSpaceOnUse" x2="0" y1="16" y2="39">
+    <stop offset="0" stop-color="#f1f2f3"/>
+    <stop offset="1" stop-color="#e4e5e7"/>
+  </linearGradient>
+  <linearGradient id="b" gradientTransform="matrix(.5128205 0 0 .44 -1.5897432 -2.8799994)" gradientUnits="userSpaceOnUse" x2="0" y1="27" y2="52">
+    <stop offset="0" stop-color="#ffffff"/>
+    <stop offset="1" stop-color="#e4e5e7"/>
+  </linearGradient>
+  <linearGradient id="c" gradientTransform="matrix(.48888887 0 0 .41935482 .5111116 3.8064519)" gradientUnits="userSpaceOnUse" x2="0" y1="11.03" y2="13.1">
+    <stop offset="0" stop-opacity=".51"/>
+    <stop offset="1" stop-opacity=".392"/>
+  </linearGradient>
+  <linearGradient id="d" gradientTransform="matrix(.44999999 0 0 .5 1.2000007 2.5)" gradientUnits="userSpaceOnUse" x2="0" y1="11" y2="9">
+    <stop offset="0"/>
+    <stop offset="1" stop-opacity="0"/>
+  </linearGradient>
+  <g transform="translate(.00287947)">
+    <path d="m6 2c-1.108 0-2 .892-2 2-1.108 0-1 .892-1 2v5c0 1.108.892 2 2 2h14c1.108 0 2-.892 2-2v-5c0-1.108-.892-2-2-2h-8c0-1.108-.892-2-2-2z" fill-opacity=".659"/>
+    <rect fill="#8b8b8d" height="7" rx="1" width="16" x="4" y="5"/>
+    <path d="m10 5v1h9c .554 0 1 .446 1 1v-1c0-.554-.446-1-1-1z" fill="#ffffff" opacity=".15"/>
+    <rect fill="#8b8b8d" height="3" rx="1" width="5" x="5" y="3"/>
+    <path d="m5 6c-.554 0-1 .446-1 1v-1c0-.554.446-1 1-1z" fill="#ffffff" opacity=".15"/>
+    <path d="m6 3c-.554 0-1 .446-1 1v1c0-.554.446-1 1-1h3c .554 0 1 .446 1 1v-1c0-.554-.446-1-1-1z" fill="#ffffff" opacity=".15"/>
+  </g>
+  <path d="m3 7h18v1h-18z" fill="url(#d)" opacity=".173"/>
+  <rect height="16" opacity=".13" rx="2" ry="2.52" transform="matrix(1 0 0 .79375007 0 4.4756236)" width="22" x="1" y="5.7"/>
+  <path d="m2 8h20c1.108 0 2.122358.8987768 2 2l-1 9c-.122358 1.101223-.892 2-2 2h-18c-1.108 0-1.8776419-.898777-2-2l-1-9c-.12235813-1.1012232.892-2 2-2z" fill="url(#c)"/>
+  <path d="m2 9h20c .554 0 1.061179.4493884 1 1l-1 9c-.06118.550612-.446 1-1 1h-18c-.554 0-.9388209-.449388-1-1l-1-9c-.06117907-.5506116.446-1 1-1z" fill="url(#b)"/>
+  <path d="m2 10h20l-1 9h-18z" fill="url(#a)"/>
+</svg>
