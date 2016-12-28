@@ -65,15 +65,15 @@ oldcolourdobody=ffaa41
 # Icons
 ##################################################################################################
 ##################################################################################################
-# New colours
+# New colours - named as Sardi Flat Havelock Blue
 
 # bulk of the icons
-newcolourtop=dbdbdb
-newcolourbody=b41919
-newcolouricons=f1f1f1
+newcolourtop=e1e1e1
+newcolourbody=B41919
+newcolouricons=ebebeb
 #document-open
-newcolourdotop=dbdbdb
-newcolourdobody=b41919
+newcolourdotop=e1e1e1
+newcolourdobody=B41919
 
 
 ##################################################################################################
