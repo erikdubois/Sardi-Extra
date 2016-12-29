@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>Paper Symbolic Icon Theme</dc:title>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <title id="title8473">Paper Symbolic Icon Theme</title>
- <g id="layer12" transform="translate(-265 19.003)">
-  <path id="path4167" opacity=".72" d="m280.71-14.855c0-0.26796-0.15146-0.51289-0.39133-0.63249l-6.897-3.4415c-0.19866-0.09916-0.4324-0.09916-0.63111 0l-6.8971 3.4415c-0.23974 0.1196-0.39125 0.35053-0.39125 0.64098v7.6538c0 0.26671 0.15022 0.51071 0.38827 0.63093l6.8971 3.4826c0.1004 0.050756 0.20955 0.075867 0.31849 0.075867 0.17164 0 0.34729-0.090756 0.34724-0.090311l6.8685-3.4682c0.23809-0.12022 0.38826-0.36422 0.38826-0.63093v-7.6622zm-7.6039-2.6515 5.3139 2.6515-5.3139 2.6515-5.3139-2.6515 5.3139-2.6515zm-6.1902 3.7941 5.4834 2.736v6.1175l-5.4834-2.7688v-6.0848zm12.38 6.0848-5.4834 2.7688v-6.1175l5.4834-2.736v6.0848z" fill="#fff"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; }
+  </style>
+ </defs>
+ <path id="path7" d="M 7.6035156,0 C 7.4954087,0 7.3884192,0.02464035 7.2890625,0.07421875 L 0.39257813,3.515625 C 0.1528418,3.6352265 0,3.8658019 0,4.15625 l 0,7.654297 c 0,0.266714 0.15062446,0.510636 0.38867187,0.630859 L 7.2851562,15.923828 C 7.3855575,15.974584 7.4945809,16 7.6035156,16 c 0.1716466,0 0.3477007,-0.09029 0.3476562,-0.08984 l 6.8691402,-3.46875 c 0.238092,-0.120223 0.388672,-0.364145 0.388672,-0.630859 l 0,-7.6621095 c 0,-0.2679589 -0.152708,-0.513211 -0.392578,-0.6328125 L 7.9199218,0.07421875 C 7.8205873,0.02464035 7.7116225,0 7.6035156,0 Z m 0,1.4960938 5.3144524,2.6523437 -5.3144524,2.6523437 -5.3125,-2.6523437 5.3125,-2.6523437 z m -6.1894531,3.7949218 5.4824218,2.7363282 0,6.1171872 -5.4824218,-2.769531 0,-6.0839844 z m 12.3808595,0 0,6.0839844 -5.4843751,2.769531 0,-6.1171872 5.4843751,-2.7363282 z" class="ColorScheme-Text" style="opacity:1;fill:currentColor"/>
 </svg>
