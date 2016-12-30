@@ -27,6 +27,8 @@
 
 ### You can only have 6 alfanumeric positions
 ### Do not use short colour description like "fff" instead of 'ffffff'. It will confuse you over time.
+### Use no capital letters and use only small letters. It will confuse you over time.
+### Use 'a1a1a1' rather than 'A1A1A1'.
 
 ### Beneath is the old colour we are going to change.
 ### With the help of inkscape or other tools we know the colour of the original icons.
