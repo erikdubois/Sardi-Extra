@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="512" viewBox="0 0 512 512" height="512">
+ <g transform="matrix(1.4680404,0,0,1.3823318,-112.36689,-94.999353)">
+  <text font-weight="bold" font-size="322.19" y="361.06" x="178.02" line-height="125%" text-align="center" word-spacing="0" letter-spacing="0" style="font-weight:bold;font-size:318.65426636px;line-height:125%;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;fill:#b7b7b7">
+   <tspan y="361.06" x="178.02">#</tspan>
+  </text>
+  <path d="m 307.94937,137.13806 106.06314,0 0,227.47596 -106.06314,0 z" style="fill:#b7b7b7;fill-opacity:1;fill-rule:evenodd"/>
+ </g>
+</svg>
