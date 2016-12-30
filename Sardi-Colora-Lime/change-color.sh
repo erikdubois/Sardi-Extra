@@ -54,7 +54,6 @@ find scalable/places -name "*.svg" -type f -exec sed -i '/fill="#ffffff"/!s/fill
 find scalable/places -name "*.svg" -type f -exec sed -i '/fill:#ffffff/!s/fill:#'$oldcolour'/fill:#'$newcolour'/g' {}  \;
 
 ### Auto update the iconcache
-### Automatic installation of 'basename' if not installed
 ### Do a manual update with following code in a terminal if you get errors
 ### gtk-update-icon-cache -f iconthemefolder
 
