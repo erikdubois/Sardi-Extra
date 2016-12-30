@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <g transform="translate(-326,-534.3622)">
+  <g transform="matrix(1.2000987,0,0,1.2000987,-68.633361,-107.92617)">
+   <g transform="matrix(0.8332648,0,0,0.8332648,57.189768,89.931093)">
+    <g transform="translate(-25.299998,0.29999811)">
+     <g transform="translate(-21,2)">
+      <g transform="translate(-94.71429,7.57146)">
+       <rect style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;" width="16" height="16" x="470.01" y="527.49" ry="1"/>
+       <g style="fill:#2ecc71;fill-opacity:1" transform="matrix(0.62500001,0,0,0.62500001,267.38928,194.63936)">
+        <g style="fill:#2ecc71;fill-opacity:1" transform="matrix(1.0667544,0,0,1.0667544,-23.562987,-35.338572)">
+         <g style="fill:#2ecc71;fill-opacity:1" transform="matrix(1.9044871,0,0,1.9044871,-265.78146,-509.74653)">
+          <g style="fill:#2ecc71;fill-opacity:1">
+           <g style="fill:#2ecc71;fill-opacity:1" transform="translate(-3.1521836e-8,-5.8750002)">
+            <circle r="1" cy="556.425" cx="313.975" style="opacity:1;fill:#2ecc71;fill-opacity:1;fill-rule:evenodd;"/>
+            <circle r="1" cy="556.425" cx="317.025" style="opacity:1;fill:#2ecc71;fill-opacity:1;fill-rule:evenodd;"/>
+            <circle r="1" cy="556.424" cx="320.087" style="opacity:1;fill:#2ecc71;fill-opacity:1;fill-rule:evenodd;"/>
+           </g>
+           <g style="fill:#2ecc71;fill-opacity:1" transform="translate(-3.1521836e-8,-2.9624802)">
+            <circle r="1" cy="556.425" cx="313.975" style="opacity:1;fill:#2ecc71;fill-opacity:1;fill-rule:evenodd;"/>
+            <circle r="1" cy="556.425" cx="317.025" style="opacity:1;fill:#2ecc71;fill-opacity:1;fill-rule:evenodd;"/>
+            <circle r="1" cy="556.424" cx="320.087" style="opacity:1;fill:#2ecc71;fill-opacity:1;fill-rule:evenodd;"/>
+           </g>
+           <circle r="1" cy="556.425" cx="313.975" style="opacity:1;fill:#2ecc71;fill-opacity:1;fill-rule:evenodd;"/>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

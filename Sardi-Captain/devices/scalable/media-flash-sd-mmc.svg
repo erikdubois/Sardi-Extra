@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient4289">
+   <stop offset="0" style="stop-color:#151515;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#3f3f3f;stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(1.0271756,0,0,1,-394.97889,-499.79799)" gradientUnits="userSpaceOnUse" y2="506.141" x2="415.934" y1="556.869" x1="416.054" id="linearGradient4158" xlink:href="#linearGradient4289"/>
+  <linearGradient xlink:href="#linearGradient5322" id="linearGradient4183" x1="408.571" y1="518.775" x2="408.571" y2="505.648" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9930282,0,0,0.75337939,3.0659989,124.76599)"/>
+  <linearGradient id="linearGradient5322">
+   <stop offset="0" style="stop-color:#0088ff;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#02c3ff;stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4298-7">
+   <stop style="stop-color:#e4bd27;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#fff360;stop-opacity:1" offset="1"/>
+  </linearGradient>
+  <linearGradient xlink:href="#linearGradient4298-7" id="linearGradient4348" x1="388.805" y1="518.997" x2="388.845" y2="512.092" gradientUnits="userSpaceOnUse" gradientTransform="translate(0,-1.4)"/>
+  <linearGradient id="linearGradient4303-1">
+   <stop offset="0" style="stop-color:#bfc1c1;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#f1f2f3;stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient xlink:href="#linearGradient4303-1" id="linearGradient4844" x1="407.525" y1="546.599" x2="407.438" y2="506.141" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.98795181,0,0,1,5.1835909,0)"/>
+ </defs>
+ <g transform="translate(-376.57144,-491.79797)">
+  <g>
+   <path d="m 388.57144,509.39797 c -0.554,0 -1,0.446 -1,1 l 0,7 c 0,0.554 0.446,1 1,1 l 2,0 0,-9 -2,0 z" style="opacity:1;fill:url(#linearGradient4348);fill-opacity:1;"/>
+   <path transform="translate(376.57144,491.79797)" d="M 11,8.1089918 11,20 l 2,0 0,13 -1.512262,0 c 0,0 -0.461833,-0.0091 -0.487738,0.613079 l 0,21.786036 C 11.079535,57.895207 13.192,58 13.192,58 l 37.467401,0 C 50.659401,58 53,58.095423 53,55.803815 L 53,28.186101 C 52.998992,27.983365 52.799875,28 52.799875,28 L 52,28 l 0,-5 0.697548,0 c 0,0 0.309156,0.0033 0.302452,-0.307902 l 0,-9.395095 c 0.0084,-0.318819 -0.188011,-0.485014 -0.188011,-0.485014 L 46.144414,6.1444142 C 46.033282,5.9891033 45.754768,6 45.754768,6 L 12.992,6 C 12.992,6 11,6.0669052 11,8.1089918 Z" style="opacity:1;fill:url(#linearGradient4158);fill-opacity:1;"/>
+   <rect style="opacity:1;fill:#abb9be;fill-opacity:1;" width="15.6" height="15.6" x="400.77" y="506.9" ry="7.8"/>
+   <rect style="opacity:1;fill:url(#linearGradient4844);fill-opacity:1;fill-rule:evenodd;" width="35.749" height="37.929" x="390.92" y="505.84" ry="1.3"/>
+   <rect y="505.82" x="390.91" height="8.287" width="35.749" style="opacity:1;fill:url(#linearGradient4183);fill-opacity:1;" ry="1.295"/>
+   <path d="m 424.18256,512.07497 -1.45308,-4.00235 -1.45304,4.00235 z" style="fill:#edefef;fill-opacity:1;fill-rule:evenodd;"/>
+   <g style="fill:#343434;fill-opacity:1" transform="matrix(0.73558062,0,0,0.73558062,390.4965,-230.66482)">
+    <g style="fill:#343434;fill-opacity:1" transform="matrix(0.60167895,0,0,0.59982444,282.37579,1122.3229)">
+     <ellipse ry="2.5" rx="2.5" cy="-130.507" cx="-462.608" style="fill:#343434;fill-opacity:1;"/>
+     <ellipse ry="3" rx="3" cy="-123.007" cx="-458.108" style="fill:#343434;fill-opacity:1;"/>
+     <ellipse ry="1.5" rx="1.5" cy="-138.507" cx="-460.608" style="fill:#343434;fill-opacity:1;"/>
+     <path style="fill:#343434;fill-opacity:1;" d="m -452.10784,-140.00692 -2.84375,2.84374 4.375,4.375 -4.53125,5.15625 3,2.625 7.00002,-8 0,0 -7.00002,-6.99999 z"/>
+    </g>
+   </g>
+   <rect style="opacity:1;fill:#0198ff;fill-opacity:1;fill-rule:evenodd;" width="35.749" height="1.348" x="390.91" y="512.85"/>
+  </g>
+ </g>
+</svg>

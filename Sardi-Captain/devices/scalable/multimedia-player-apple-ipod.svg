@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient4503">
+   <stop style="stop-color:#141414;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#2d2d2f;stop-opacity:1" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4288">
+   <stop style="stop-color:#ff3069;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#ffa548;stop-opacity:1" offset="1"/>
+  </linearGradient>
+  <linearGradient xlink:href="#linearGradient4288" id="linearGradient4307-6" x1="169.501" y1="624.716" x2="159.237" y2="63.269" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.93022459,0,0,0.91890978,14.81504,32.586917)"/>
+  <linearGradient xlink:href="#linearGradient4503" id="linearGradient4334" x1="8.167" y1="1050.466" x2="8.115" y2="1038.352" gradientUnits="userSpaceOnUse"/>
+  <linearGradient xlink:href="#linearGradient4503" id="linearGradient4336" gradientUnits="userSpaceOnUse" x1="8.167" y1="1050.466" x2="8.115" y2="1038.352"/>
+  <linearGradient xlink:href="#linearGradient4288" id="linearGradient4324-2" x1="159.463" y1="668.026" x2="160.663" y2="596.966" gradientUnits="userSpaceOnUse"/>
+ </defs>
+ <g transform="translate(-376.57144,-491.79797)">
+  <g transform="matrix(0.07516574,0,0,0.07516574,394.63267,497.76714)">
+   <g transform="matrix(1.1496222,0,0,1,-0.04211555,0)">
+    <g transform="translate(3.0206508e-6,3.4800411)">
+     <g transform="translate(4.4522701e-6,-4.2380186e-4)">
+      <rect style="opacity:1;fill:url(#linearGradient4307-6);fill-opacity:1;fill-rule:evenodd;" width="292.693" height="525.809" x="18.55" y="87.91" ry="9.302"/>
+      <g style="fill:url(#linearGradient4334);fill-opacity:1" transform="matrix(42.98335,0,0,49.41461,-182.5246,-51263.918)">
+       <path d="m 11.403509,1037.3622 -6.807018,0 c -0.310036,0 -0.561404,0.2514 -0.561404,0.5614 l 0,12.8772 c 0,0.31 0.251368,0.5614 0.561404,0.5614 l 6.807018,0 c 0.310035,0 0.561404,-0.2514 0.561404,-0.5614 l 0,-12.8772 c 0,-0.31 -0.251369,-0.5614 -0.561404,-0.5614 z m -0.08154,11.7777 -6.643931,0 0,-9.5554 6.643931,0 z" style="fill:url(#linearGradient4336);fill-opacity:1"/>
+      </g>
+      <ellipse style="opacity:1;fill:url(#linearGradient4324-2);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient4317-6);stroke-width:7.41089296;stroke-linecap:round;stroke-opacity:1" cx="161.342" cy="637.978" rx="25.226" ry="29"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

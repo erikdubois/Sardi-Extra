@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <g transform="translate(-544.57141,-742.93359)">
+  <g>
+   <g transform="translate(-9.1511199,159.81433)">
+    <g>
+     <g transform="translate(214.3973,51.795449)">
+      <g transform="translate(11.99004,-1.3297466)">
+       <g transform="matrix(0.66666666,0,0,0.66666666,70.952385,189.83024)">
+        <g transform="translate(27.682101,0.12839698)">
+         <g transform="matrix(0.97603016,0,0,-0.97603016,8.9380976,1042.0695)">
+          <g transform="translate(0,2.1929912e-5)">
+           <g transform="matrix(0.0251118,0,0,-0.0251118,366.74154,529.08232)" style="fill:#4d4d4d;fill-opacity:1;">
+            <path style="fill:#4d4d4d;fill-opacity:1;" d="m -169.86859,-288.15295 870.39778,0 c 30.13725,0 54.39957,21.83612 54.39957,48.9599 l 0,881.27765 c 0,27.12379 -24.26232,48.95965 -54.39957,48.95965 l -870.39778,0 c -30.13752,0 -54.39985,-21.83586 -54.39985,-48.95965 l 0,-881.27765 c 0,-27.12378 24.26233,-48.9599 54.39985,-48.9599 z"/>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+   <rect y="755.93" x="557.57" height="2" width="2" style="opacity:1;fill:#da4453;fill-opacity:1;"/>
+  </g>
+ </g>
+</svg>

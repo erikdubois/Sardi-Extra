@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1">
+ <title>
+  Paper Symbolic Icon Theme
+ </title>
+ <g transform="translate(-345 -40.997)">
+  <path style="fill:#555" d="m360 41.997v2h-14v-2zm0 4.003v2h-8v-2zm0.00063 3.9967v2l-8.0006 0.0033v-2zm0 4v2h-14v-2z"/>
+  <path style="fill:#555;fill-rule:evenodd" d="m346 46v6l5-3z"/>
+ </g>
+</svg>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient7568">
+   <stop offset="0" style="stop-color:#161719;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#424649;stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient xlink:href="#linearGradient7568" id="linearGradient7637" gradientUnits="userSpaceOnUse" x1="-53.412" y1="-130.384" x2="40.658" y2="-130.384"/>
+  <linearGradient id="linearGradient8467-5">
+   <stop style="stop-color:#d8d8d8;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#ffffff;stop-opacity:1" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4470-8">
+   <stop offset="0" style="stop-color:#ac92ec;stop-opacity:1"/>
+   <stop style="stop-color:#64a9ff;stop-opacity:1" offset=".137"/>
+   <stop style="stop-color:#4cdbb7;stop-opacity:1" offset=".268"/>
+   <stop style="stop-color:#aee672;stop-opacity:1" offset=".494"/>
+   <stop style="stop-color:#ffce53;stop-opacity:1" offset=".741"/>
+   <stop style="stop-color:#fb6e51;stop-opacity:1" offset=".93"/>
+   <stop offset="1" style="stop-color:#ed5565;stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient xlink:href="#linearGradient4470-8" id="linearGradient4468-6" x1="384.658" y1="531.636" x2="415.935" y2="531.464" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y2="517.721" x2="400.368" y1="545.861" x1="400.323" gradientTransform="matrix(1.0624791,0,0,1.0624791,-24.979704,-33.286509)" gradientUnits="userSpaceOnUse" id="linearGradient4458" xlink:href="#linearGradient8467-5"/>
+  <linearGradient xlink:href="#linearGradient7568" id="linearGradient4596" gradientUnits="userSpaceOnUse" x1="-53.412" y1="-130.384" x2="40.658" y2="-130.384"/>
+ </defs>
+ <g transform="translate(-326,-534.3622)">
+  <g transform="matrix(0.66666667,0,0,0.66666667,69.952376,190.8302)">
+   <g transform="matrix(0.5,0,0,0.5,196.24122,269.88099)">
+    <g transform="matrix(1.1580164,0,0,1.1580164,-64.546672,-82.758972)">
+     <g transform="matrix(0.28241161,0,0,0.28241161,342.79502,402.75561)">
+      <g transform="matrix(0.96045985,0,0,0.96045985,9.0002177,19.09919)">
+       <g transform="matrix(-1.6074788,0.29923613,-0.29923613,-1.6074788,175.25807,214.99157)" style="fill:#000000;">
+        <flowRoot xml:space="preserve" style="font-size:12.5px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;">
+         <flowRegion style="stroke:url(#linearGradient4596)">
+          <rect width="100.147" height="116.761" x="-427.82" y="-178.14"/>
+         </flowRegion>
+         <flowPara/>
+        </flowRoot>
+        <g transform="matrix(0.95126249,0,0,0.95126249,2.2341504,-8.4379658)">
+         <g transform="translate(-2.8633216,1.9646179)">
+          <g transform="matrix(0.99254353,0,0,0.99254353,0.10564195,-1.1289042)">
+           <circle r="67.571" cy="426.282" cx="235.789" style="opacity:1;fill:none;fill-opacity:1;" transform="matrix(-0.60125698,-0.11192546,0.11192546,-0.60125698,81.312108,148.88102)"/>
+           <circle cy="531.729" cx="400.619" style="opacity:1;fill:url(#linearGradient4458);fill-opacity:1;stroke:url(#linearGradient4468);stroke-width:1.75913525;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" transform="matrix(-3.0885015,-0.57493214,0.57493214,-3.0885015,920.16046,1738.7484)" r="0"/>
+           <g transform="matrix(-3.04106,-0.56610081,0.56610081,-3.04106,905.67883,1710.772)">
+            <g transform="matrix(0.66666666,0,0,0.66666666,128.17748,182.51767)">
+             <g transform="matrix(1.1580164,0,0,1.1580164,-64.546672,-82.758972)">
+              <g transform="matrix(0.28241161,0,0,0.28241161,342.79502,402.75561)">
+               <g transform="matrix(0.96045985,0,0,0.96045985,9.0002177,19.09919)">
+                <g transform="matrix(-1.6074788,0.29923613,-0.29923613,-1.6074788,175.25807,214.99157)" style="fill:#000000;">
+                 <flowRoot xml:space="preserve" style="font-size:12.5px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;">
+                  <flowRegion style="stroke:url(#linearGradient7637)">
+                   <rect width="100.147" height="116.761" x="-427.82" y="-178.14"/>
+                  </flowRegion>
+                  <flowPara/>
+                 </flowRoot>
+                 <g transform="matrix(0.95126249,0,0,0.95126249,2.2341504,-8.4379658)">
+                  <g transform="translate(-2.8633216,1.9646179)">
+                   <g transform="matrix(0.99254353,0,0,0.99254353,0.10564195,-1.1289042)">
+                    <circle r="67.571" cy="426.282" cx="235.789" style="opacity:1;fill:none;fill-opacity:1;" transform="matrix(-0.60125698,-0.11192546,0.11192546,-0.60125698,81.312108,148.88102)"/>
+                    <circle r="14.875" cy="531.729" cx="400.619" style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient4468-6);stroke-width:1.75913525;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" transform="matrix(-3.0885015,-0.57493214,0.57493214,-3.0885015,920.16046,1738.7484)"/>
+                    <g style="opacity:0.9;fill:#3d4245;fill-opacity:1" transform="matrix(-0.0597844,-0.01112901,0.01112901,-0.0597844,9.886693,-105.56311)">
+                     <path d="m 405.68226,6.232096 -232.65,405.741004 c -48.889,85.779 -52.665,194.85 0,286.697 79.169,138.07 255.277,185.82 393.348,106.65 138.071,-79.169 185.821,-255.276 106.651,-393.348 L 440.38126,6.232096 c -7.685,-13.4029988 -27.015,-13.4029988 -34.699,0 z M 1158.9922,392.73228 A 729.09532,729.09532 0 0 1 429.89701,1121.8274 729.09532,729.09532 0 0 1 -299.19812,392.73221 729.09532,729.09532 0 0 1 429.89708,-336.36293 729.09532,729.09532 0 0 1 1158.9922,392.73228 Z" style="fill:#4d4d4d;fill-opacity:1"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

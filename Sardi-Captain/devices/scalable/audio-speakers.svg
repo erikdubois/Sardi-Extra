@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" id="svg5453" version="1.1">
+ <defs id="defs5455">
+  <linearGradient id="linearGradient6088">
+   <stop style="stop-color:#1365f4;stop-opacity:1" offset="0" id="stop6090"/>
+   <stop style="stop-color:#05b2fc;stop-opacity:1" offset="1" id="stop6092"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4232-2">
+   <stop id="stop4234-0" offset="0" style="stop-color:#3889e9;stop-opacity:1"/>
+   <stop id="stop4236-5" offset="1" style="stop-color:#5ea5fb;stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient gradientUnits="userSpaceOnUse" y2="517.798" x2="399.571" y1="545.798" x1="399.571" id="linearGradient3426" xlink:href="#linearGradient4232-2"/>
+  <linearGradient y2="517.773" x2="400.699" y1="546.074" x1="400.512" gradientUnits="userSpaceOnUse" id="linearGradient4181" xlink:href="#linearGradient6088"/>
+  <linearGradient id="linearGradient4271">
+   <stop id="stop4273" offset="0" style="stop-color:#e3e3e3;stop-opacity:1"/>
+   <stop id="stop4275" offset="1" style="stop-color:#fffcff;stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient gradientUnits="userSpaceOnUse" y2="20.836" x2="54.039" y1="89.364" x1="41.165" id="linearGradient4544" xlink:href="#linearGradient4271"/>
+  <linearGradient xlink:href="#linearGradient4271" id="linearGradient4901" gradientUnits="userSpaceOnUse" x1="41.165" y1="89.364" x2="54.039" y2="20.836"/>
+  <linearGradient xlink:href="#linearGradient4271" id="linearGradient4903" gradientUnits="userSpaceOnUse" x1="41.165" y1="89.364" x2="54.039" y2="20.836"/>
+  <linearGradient xlink:href="#linearGradient4271" id="linearGradient4905" gradientUnits="userSpaceOnUse" x1="41.165" y1="89.364" x2="54.039" y2="20.836"/>
+  <linearGradient xlink:href="#linearGradient4271" id="linearGradient4907" gradientUnits="userSpaceOnUse" x1="41.165" y1="89.364" x2="54.039" y2="20.836"/>
+  <linearGradient xlink:href="#linearGradient4271" id="linearGradient4909" gradientUnits="userSpaceOnUse" x1="41.165" y1="89.364" x2="54.039" y2="20.836"/>
+  <linearGradient xlink:href="#linearGradient4271" id="linearGradient4911" gradientUnits="userSpaceOnUse" x1="41.165" y1="89.364" x2="54.039" y2="20.836"/>
+  <linearGradient xlink:href="#linearGradient4271" id="linearGradient4913" gradientUnits="userSpaceOnUse" x1="41.165" y1="89.364" x2="54.039" y2="20.836"/>
+  <linearGradient xlink:href="#linearGradient4271" id="linearGradient4915" gradientUnits="userSpaceOnUse" x1="41.165" y1="89.364" x2="54.039" y2="20.836"/>
+  <linearGradient xlink:href="#linearGradient4271" id="linearGradient4917" gradientUnits="userSpaceOnUse" x1="41.165" y1="89.364" x2="54.039" y2="20.836"/>
+  <linearGradient xlink:href="#linearGradient4271" id="linearGradient4919" gradientUnits="userSpaceOnUse" x1="41.165" y1="89.364" x2="54.039" y2="20.836"/>
+  <linearGradient xlink:href="#linearGradient4271" id="linearGradient4921" gradientUnits="userSpaceOnUse" x1="41.165" y1="89.364" x2="54.039" y2="20.836"/>
+  <linearGradient xlink:href="#linearGradient4271" id="linearGradient4923" gradientUnits="userSpaceOnUse" x1="41.165" y1="89.364" x2="54.039" y2="20.836"/>
+  <linearGradient xlink:href="#linearGradient4271" id="linearGradient4925" gradientUnits="userSpaceOnUse" x1="41.165" y1="89.364" x2="54.039" y2="20.836"/>
+  <linearGradient xlink:href="#linearGradient4271" id="linearGradient4927" gradientUnits="userSpaceOnUse" x1="41.165" y1="89.364" x2="54.039" y2="20.836"/>
+  <linearGradient xlink:href="#linearGradient4271" id="linearGradient4929" gradientUnits="userSpaceOnUse" x1="41.165" y1="89.364" x2="54.039" y2="20.836"/>
+  <linearGradient xlink:href="#linearGradient4271" id="linearGradient4931" gradientUnits="userSpaceOnUse" x1="41.165" y1="89.364" x2="54.039" y2="20.836"/>
+  <linearGradient xlink:href="#linearGradient4271" id="linearGradient4933" gradientUnits="userSpaceOnUse" x1="41.165" y1="89.364" x2="54.039" y2="20.836"/>
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#eff0f1; } .ColorScheme-ViewText { color:#31363b; } .ColorScheme-ViewBackground{ color:#fcfcfc; } .ColorScheme-ViewHover { color:#3daee9; } .ColorScheme-ViewFocus{ color:#3daee9; } .ColorScheme-ButtonText { color:#31363b; } .ColorScheme-ButtonBackground{ color:#eff0f1; } .ColorScheme-ButtonHover { color:#3daee9; } .ColorScheme-ButtonFocus{ color:#3daee9; }
+  </style>
+  <style type="text/css" id="current-color-scheme-8">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#eff0f1; } .ColorScheme-ViewText { color:#31363b; } .ColorScheme-ViewBackground{ color:#fcfcfc; } .ColorScheme-ViewHover { color:#3daee9; } .ColorScheme-ViewFocus{ color:#3daee9; } .ColorScheme-ButtonText { color:#31363b; } .ColorScheme-ButtonBackground{ color:#eff0f1; } .ColorScheme-ButtonHover { color:#3daee9; } .ColorScheme-ButtonFocus{ color:#3daee9; }
+  </style>
+  <style type="text/css" id="current-color-scheme-7">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#eff0f1; } .ColorScheme-ViewText { color:#31363b; } .ColorScheme-ViewBackground{ color:#fcfcfc; } .ColorScheme-ViewHover { color:#3daee9; } .ColorScheme-ViewFocus{ color:#3daee9; } .ColorScheme-ButtonText { color:#31363b; } .ColorScheme-ButtonBackground{ color:#eff0f1; } .ColorScheme-ButtonHover { color:#3daee9; } .ColorScheme-ButtonFocus{ color:#3daee9; }
+  </style>
+  <linearGradient id="linearGradient4207" osb:paint="gradient">
+   <stop style="stop-color:#3498db;stop-opacity:1;" offset="0" id="stop3371"/>
+   <stop style="stop-color:#3498db;stop-opacity:0;" offset="1" id="stop3373"/>
+  </linearGradient>
+  <style type="text/css" id="current-color-scheme-71">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#eff0f1; } .ColorScheme-ViewText { color:#31363b; } .ColorScheme-ViewBackground{ color:#fcfcfc; } .ColorScheme-ViewHover { color:#3daee9; } .ColorScheme-ViewFocus{ color:#3daee9; } .ColorScheme-ButtonText { color:#31363b; } .ColorScheme-ButtonBackground{ color:#eff0f1; } .ColorScheme-ButtonHover { color:#3daee9; } .ColorScheme-ButtonFocus{ color:#3daee9; }
+  </style>
+  <style type="text/css" id="current-color-scheme-8-4">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#eff0f1; } .ColorScheme-ViewText { color:#31363b; } .ColorScheme-ViewBackground{ color:#fcfcfc; } .ColorScheme-ViewHover { color:#3daee9; } .ColorScheme-ViewFocus{ color:#3daee9; } .ColorScheme-ButtonText { color:#31363b; } .ColorScheme-ButtonBackground{ color:#eff0f1; } .ColorScheme-ButtonHover { color:#3daee9; } .ColorScheme-ButtonFocus{ color:#3daee9; }
+  </style>
+  <style type="text/css" id="current-color-scheme-7-2">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#eff0f1; } .ColorScheme-ViewText { color:#31363b; } .ColorScheme-ViewBackground{ color:#fcfcfc; } .ColorScheme-ViewHover { color:#3daee9; } .ColorScheme-ViewFocus{ color:#3daee9; } .ColorScheme-ButtonText { color:#31363b; } .ColorScheme-ButtonBackground{ color:#eff0f1; } .ColorScheme-ButtonHover { color:#3daee9; } .ColorScheme-ButtonFocus{ color:#3daee9; }
+  </style>
+  <linearGradient xlink:href="#linearGradient6088" id="linearGradient6080" x1="394.818" y1="546.728" x2="396.73" y2="518.37" gradientUnits="userSpaceOnUse"/>
+  <style type="text/css" id="current-color-scheme-2">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#eff0f1; } .ColorScheme-ViewText { color:#31363b; } .ColorScheme-ViewBackground{ color:#fcfcfc; } .ColorScheme-ViewHover { color:#3daee9; } .ColorScheme-ViewFocus{ color:#3daee9; } .ColorScheme-ButtonText { color:#31363b; } .ColorScheme-ButtonBackground{ color:#eff0f1; } .ColorScheme-ButtonHover { color:#3daee9; } .ColorScheme-ButtonFocus{ color:#3daee9; }
+  </style>
+  <style type="text/css" id="current-color-scheme-8-48">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#eff0f1; } .ColorScheme-ViewText { color:#31363b; } .ColorScheme-ViewBackground{ color:#fcfcfc; } .ColorScheme-ViewHover { color:#3daee9; } .ColorScheme-ViewFocus{ color:#3daee9; } .ColorScheme-ButtonText { color:#31363b; } .ColorScheme-ButtonBackground{ color:#eff0f1; } .ColorScheme-ButtonHover { color:#3daee9; } .ColorScheme-ButtonFocus{ color:#3daee9; }
+  </style>
+  <style type="text/css" id="current-color-scheme-7-5">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#eff0f1; } .ColorScheme-ViewText { color:#31363b; } .ColorScheme-ViewBackground{ color:#fcfcfc; } .ColorScheme-ViewHover { color:#3daee9; } .ColorScheme-ViewFocus{ color:#3daee9; } .ColorScheme-ButtonText { color:#31363b; } .ColorScheme-ButtonBackground{ color:#eff0f1; } .ColorScheme-ButtonHover { color:#3daee9; } .ColorScheme-ButtonFocus{ color:#3daee9; }
+  </style>
+  <style type="text/css" id="current-color-scheme-71-1">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#eff0f1; } .ColorScheme-ViewText { color:#31363b; } .ColorScheme-ViewBackground{ color:#fcfcfc; } .ColorScheme-ViewHover { color:#3daee9; } .ColorScheme-ViewFocus{ color:#3daee9; } .ColorScheme-ButtonText { color:#31363b; } .ColorScheme-ButtonBackground{ color:#eff0f1; } .ColorScheme-ButtonHover { color:#3daee9; } .ColorScheme-ButtonFocus{ color:#3daee9; }
+  </style>
+  <style type="text/css" id="current-color-scheme-8-4-7">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#eff0f1; } .ColorScheme-ViewText { color:#31363b; } .ColorScheme-ViewBackground{ color:#fcfcfc; } .ColorScheme-ViewHover { color:#3daee9; } .ColorScheme-ViewFocus{ color:#3daee9; } .ColorScheme-ButtonText { color:#31363b; } .ColorScheme-ButtonBackground{ color:#eff0f1; } .ColorScheme-ButtonHover { color:#3daee9; } .ColorScheme-ButtonFocus{ color:#3daee9; }
+  </style>
+  <style type="text/css" id="current-color-scheme-7-2-0">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#eff0f1; } .ColorScheme-ViewText { color:#31363b; } .ColorScheme-ViewBackground{ color:#fcfcfc; } .ColorScheme-ViewHover { color:#3daee9; } .ColorScheme-ViewFocus{ color:#3daee9; } .ColorScheme-ButtonText { color:#31363b; } .ColorScheme-ButtonBackground{ color:#eff0f1; } .ColorScheme-ButtonHover { color:#3daee9; } .ColorScheme-ButtonFocus{ color:#3daee9; }
+  </style>
+ </defs>
+ <g id="layer1" transform="translate(-376.57144,-491.79797)">
+  <g transform="matrix(1.6773543,0,0,1.6773543,-263.44026,-368.29195)" id="layer1-5">
+   <circle style="opacity:1;fill:url(#linearGradient3426);fill-opacity:1;" id="ellipse4233" cx="400.571" cy="531.798" r="0"/>
+   <g transform="matrix(1.0753113,0,0,1.0753113,-30.117002,-39.985805)" id="g4265">
+    <g transform="matrix(1.039268,0,0,1.039268,-15.714789,-20.900341)" id="g4277">
+     <circle r="14" cy="531.798" cx="400.571" id="path3377-1" style="opacity:1;fill:url(#linearGradient4181);fill-opacity:1.0;stroke:url(#linearGradient6080);stroke-width:0.80769163;stroke-opacity:1"/>
+     <circle style="opacity:1;fill:#5ea5fb;fill-opacity:0;" id="circle4174" cx="400.571" cy="531.798" r="14"/>
+    </g>
+   </g>
+  </g>
+  <path d="m 399.83811,507.79797 c -4.26667,0 -4.26667,4.26667 -4.26667,4.26667 l 0,23.46666 c 0,4.26667 4.03898,4.25893 4.26667,4.26667 l 17.06666,0 c 0,0 4.26667,-0.009 4.26667,-4.26667 l 0,-23.46666 c 0,-4.26667 -4.26667,-4.26667 -4.26667,-4.26667 l -17.06666,0 z m 8.53333,4.26667 c 1.18202,0 2.13333,0.95882 2.13333,2.13333 0,1.1747 -0.95131,2.13333 -2.13333,2.13333 -1.18238,0 -2.13333,-0.95863 -2.13333,-2.13333 0,-1.17451 0.95095,-2.13333 2.13333,-2.13333 z m 0,6.4 c 4.71283,0 8.53333,3.8205 8.53333,8.53333 0,4.71283 -3.8205,8.53333 -8.53333,8.53333 -4.71283,0 -8.53333,-3.8205 -8.53333,-8.53333 0,-4.71283 3.8205,-8.53333 8.53333,-8.53333 z m 0,4.26666 c -2.35641,0 -4.26667,1.91025 -4.26667,4.26667 0,2.35642 1.91026,4.26667 4.26667,4.26667 2.35641,0 4.26667,-1.91025 4.26667,-4.26667 0,-2.35642 -1.91026,-4.26667 -4.26667,-4.26667 z" id="path10508" style="fill:#000000;fill-opacity:1;filter:url(#filter7554);enable-background:new"/>
+ </g>
+ <style id="style26" type="text/css">
+  .specularity {opacity:0.5;} .low-specularity {opacity:0.25;} .full-specularity {opacity:1;} .black {fill:#000000;} .white {fill:#ffffff;} .outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;} .outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;} .stroke-highlight {fill:none;stroke:none;opacity:0.2;} .base-shadow {fill:black;opacity:75;}
+ </style>
+ <style id="style26-7" type="text/css">
+  .specularity {opacity:0.5;} .low-specularity {opacity:0.25;} .full-specularity {opacity:1;} .black {fill:#000000;} .white {fill:#ffffff;} .outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;} .outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;} .stroke-highlight {fill:none;stroke:none;opacity:0.2;} .base-shadow {fill:black;opacity:75;}
+ </style>
+ <style type="text/css" id="style26-9">
+  .specularity {opacity:0.5;} .low-specularity {opacity:0.25;} .full-specularity {opacity:1;} .black {fill:#000000;} .white {fill:#ffffff;} .outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;} .outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;} .stroke-highlight {fill:none;stroke:none;opacity:0.2;} .base-shadow {fill:black;opacity:75;}
+ </style>
+ <style id="style26-5" type="text/css">
+  .specularity {opacity:0.5;} .low-specularity {opacity:0.25;} .full-specularity {opacity:1;} .black {fill:#000000;} .white {fill:#ffffff;} .outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;} .outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;} .stroke-highlight {fill:none;stroke:none;opacity:0.2;} .base-shadow {fill:black;opacity:75;}
+ </style>
+ <style id="style26-7-6" type="text/css">
+  .specularity {opacity:0.5;} .low-specularity {opacity:0.25;} .full-specularity {opacity:1;} .black {fill:#000000;} .white {fill:#ffffff;} .outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;} .outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;} .stroke-highlight {fill:none;stroke:none;opacity:0.2;} .base-shadow {fill:black;opacity:75;}
+ </style>
+ <style type="text/css" id="style26-9-6">
+  .specularity {opacity:0.5;} .low-specularity {opacity:0.25;} .full-specularity {opacity:1;} .black {fill:#000000;} .white {fill:#ffffff;} .outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;} .outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;} .stroke-highlight {fill:none;stroke:none;opacity:0.2;} .base-shadow {fill:black;opacity:75;}
+ </style>
+</svg>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" style="enable-background:new" version="1.1" width="16">
+ <title>
+  Paper Symbolic Icon Theme
+ </title>
+ <g transform="translate(-705.00018,331.00336)">
+  <g transform="matrix(0.67055605,0,0,0.67055605,853.76494,-319.62466)">
+   <g transform="translate(-232.1406,-31.981236)">
+    <g transform="translate(-400.92463,-509.18113)">
+     <g transform="translate(0.41988239,0.03484499)">
+      <g transform="matrix(1.0037077,0,0,1.0037077,11.267145,17.846026)">
+       <g transform="matrix(1.5263052,0,0,1.5263052,376.49864,-1040.1735)">
+        <g transform="matrix(1.1526351,0,0,1.1526351,-4.8344134,-156.43331)">
+         <g transform="matrix(0.49019093,0,0,0.49019093,12.268743,518.1207)">
+          <path style="opacity:1;fill:#555555;fill-opacity:1;fill-rule:evenodd;" d="m 11.447345,1036.9442 11.636697,0 -3.21e-4,-24.4983 -11.533282,3e-4 c -1.268259,-0.094 -1.7825661,0.023 -1.7825661,1.1721 l 0,22.0916 c -0.07966,1.261 0.4462081,1.2343 1.6794721,1.2343 z"/>
+          <path style="opacity:1;fill:none;fill-opacity:1;stroke:#555555;stroke-width:0.8117075;stroke-opacity:1" d="m 33.843953,1036.9367 -5.282394,0 -2.708421,-2.2737 0,-19.9506 1.855796,-2.2737 6.135019,0 c 0.848365,-0.094 0.916631,0.023 0.916631,1.1721 l 0,22.0916 c 0.05328,1.261 -0.09168,1.2343 -0.916631,1.2343 z"/>
+          <path style="opacity:1;fill:#555555;fill-opacity:1;fill-rule:evenodd;" d="m 31.841628,1038.1035 -10.029586,-1.1715 -2e-5,-24.4861 9.945926,-0.9324 c 1.230149,-0.094 1.296492,0.2446 1.296492,1.3937 l -0.08368,23.3688 c 0.07726,1.261 0.06707,1.8275 -1.129132,1.8275 z"/>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(867.63159,-350.87145)" style="fill:#ffffff;fill-opacity:1">
+   <g transform="translate(-181.1199,0.54435317)" style="fill:#ffffff;fill-opacity:1">
+    <g transform="translate(-400.92463,-509.18113)" style="fill:#ffffff;fill-opacity:1">
+     <g style="fill:#ffffff;fill-opacity:1;enable-background:new" transform="matrix(0.55666083,0,0,0.55666083,163.34358,236.36892)">
+      <g style="fill:#ffffff;fill-opacity:1" transform="translate(0.41988239,0.03484499)">
+       <g transform="matrix(0.55195686,0,0,0.55195686,213.80421,250.4843)" style="fill:#ffffff;fill-opacity:1">
+        <g transform="matrix(1.5263052,0,0,1.5263052,376.31698,-1040.1258)" style="fill:#ffffff;fill-opacity:1">
+         <g transform="matrix(1.3252588,0,0,1.3252588,19.110416,-348.87075)" style="fill:#ffffff;fill-opacity:1">
+          <path style="fill:#ffffff;fill-opacity:1" d="m 27.811111,1031.7185 c 2.099214,0 3.801279,1.6989 3.801279,3.798 l -3.801279,0 c 7.86e-4,0 7.86e-4,-3.798 0,-3.798 z m -1.068518,1.0329 0,3.8014 3.801279,0 c 0,2.1016 -1.701278,3.8013 -3.801279,3.8013 -2.100003,0 -3.799704,-1.6997 -3.799704,-3.8013 0,-2.1 1.700489,-3.8014 3.799704,-3.8014 z"/>
+          <g transform="matrix(0.65517696,0,0,0.65517696,-269.19476,689.44552)" style="fill:#ffffff;fill-opacity:1">
+           <g transform="matrix(1.5263052,0,0,1.5263052,376.49864,-1040.1735)" style="fill:#ffffff;fill-opacity:1">
+            <g style="fill:#ffffff;fill-opacity:1" transform="matrix(0.58108546,0,0,0.58108546,60.115518,434.2178)">
+             <rect style="opacity:1;fill:#ffffff;fill-opacity:1;" width="11.898" height="2.23" x="-8.02" y="1018.1" rx="0" ry=".312"/>
+             <rect style="opacity:1;fill:#ffffff;fill-opacity:1;" width="11.898" height="2.23" x="-8.01" y="1021.97" rx="0" ry=".312"/>
+             <rect style="opacity:1;fill:#ffffff;fill-opacity:1;" width="11.898" height="2.23" x="-7.99" y="1025.56" rx="0" ry=".312"/>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

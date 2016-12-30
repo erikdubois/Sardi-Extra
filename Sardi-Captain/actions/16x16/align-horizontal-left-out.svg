@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22">
+ <g transform="translate(1,-1031.3622)">
+  <g transform="matrix(0,0.66625002,-0.66625002,0,364.35107,775.48647)">
+   <rect ry="1.026" y="520.4" x="389.07" height="10.971" width="8.971" style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:1.02941477;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"/>
+   <rect ry=".848" y="520.4" x="403.01" height="9.06" width="9.06" style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:0.94012839;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"/>
+   <rect ry=".493" y="538.2" x="402.9" height="5.274" width="9.274" style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:0.72574675;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"/>
+   <rect ry=".3" y="533.8" x="388.57" height="2.274" width="24" style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;"/>
+  </g>
+ </g>
+</svg>

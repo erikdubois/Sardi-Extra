@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" style="enable-background:new" height="16" width="16" version="1.1">
+ <title>
+  Paper Symbolic Icon Theme
+ </title>
+ <g transform="matrix(-1,0,0,1,336.9707,-124)" style="fill:#4d4d4d;fill-opacity:1">
+  <path style="fill:#4d4d4d;fill-opacity:1;" d="m 330.5,125.5 6.4707,4.5 -6.4707,4.5 0,-1.043 4.9707,-3.457 -4.9707,-3.457 z"/>
+  <path style="fill:#4d4d4d;fill-opacity:1;" d="m 327,125.5 0,2.5 -1,0 c -3,0 -5,2.1265 -5,5.25 0,3.25 4,4.75 4,4.75 0,0 -1.8751,-2.6525 -1.4375,-4 0.36589,-1.1266 1.5726,-2 2.9375,-2 l 0.5,0 0,2.5 6.4688,-4.5 z"/>
+ </g>
+</svg>
