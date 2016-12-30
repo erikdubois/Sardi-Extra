@@ -41,7 +41,7 @@ oldcolour=ef7e2c
 ### With the help of tools like gpick you have decided for an hexadecimal colour.
 ### Copy/paste this hexadecimal code in the next line replacing the colour.
 
-newcolour=239800
+newcolour=645eC6
 
 ### Do not change the next lines
 ### Now all the icons will change colour.
