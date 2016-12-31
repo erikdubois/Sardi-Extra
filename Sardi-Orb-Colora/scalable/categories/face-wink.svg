@@ -1,0 +1,8 @@
+<svg height="512" viewBox="0 0 512 512" width="512" xmlns="http://www.w3.org/2000/svg">
+ <path d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill="#ffe912" fill-rule="evenodd"/>
+ <circle cx="253.853" cy="250.528" fill="none" r="146.024" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="round" stroke-width="10"/>
+ <ellipse cx="307.386" cy="202.599" rx="18.498" ry="29.709" style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-linecap:square;stroke-linejoin:round"/>
+ <path d="m171.73204 296.21259c77.74194 65.36504 119.01423 33.71039 166.48423-1.68167" fill="none" stroke="#ffffff" stroke-width="6.4"/>
+ <path d="m232.38844 205.4137c-11.7579-19.68038-31.99308-28.71498-63.96411-23.01166" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-miterlimit="4.3" stroke-width="8.2"/>
+ <path d="m232.43128 205.87772c-19.62594-11.84855-41.7334-10.31654-67.27622 9.73937" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-miterlimit="4.3" stroke-width="8.2"/>
+<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>
