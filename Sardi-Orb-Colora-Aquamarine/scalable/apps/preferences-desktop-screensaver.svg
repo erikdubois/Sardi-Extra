@@ -1,0 +1,14 @@
+<svg height="512" viewBox="0 0 512 512" width="512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <path id="a" d="m261.63 150.37l-21.929 5.586-7.83 21.23-12.09-19.13-22.612-.886 14.457-17.409-6.145-21.779 21.02 8.37 18.814-12.574-1.464 22.582z" fill="#ffffff" fill-rule="evenodd" stroke="#ffffff"/>
+ </defs>
+ <path d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill="#55405f" fill-rule="evenodd"/>
+ <g fill="#ffffff" stroke="#ffffff" transform="matrix(.88635 0 0 .88635 -782.19 -449.81)">
+  <path d="m1106.2 720.77c-54.02 9.261-95.12 56.31-95.12 112.97 0 63.31 51.31 114.63 114.63 114.63 56.663 0 103.71-41.1 112.97-95.12-15.08 37.35-51.654 63.719-94.41 63.719-56.21 0-101.78-45.568-101.78-101.78 0-42.752 26.367-79.33 63.719-94.41z" fill-rule="evenodd"/>
+  <use height="1" transform="translate(871.76 530.26)" width="1" xlink:href="#a"/>
+  <use height="1" transform="translate(1044.5 565.62)" width="1" xlink:href="#a"/>
+  <use height="1" transform="translate(971.77 501.98)" width="1" xlink:href="#a"/>
+  <use height="1" transform="translate(1075.8 660.57)" width="1" xlink:href="#a"/>
+  <use height="1" transform="translate(944.49 604)" width="1" xlink:href="#a"/>
+ </g>
+<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>

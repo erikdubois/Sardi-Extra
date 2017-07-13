@@ -1,0 +1,13 @@
+<svg height="512" viewBox="0 0 512 512" width="512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <path id="a" d="m21.812 1023h22.625l-8.813-8.813z" fill="#ffffff"/>
+ </defs>
+ <path d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill="#0078ad" fill-rule="evenodd"/>
+ <path d="m28.875 24.625c0 2.554-2.071 4.625-4.625 4.625s-4.625-2.071-4.625-4.625 2.071-4.625 4.625-4.625 4.625 2.071 4.625 4.625" fill="#ffffff" transform="matrix(6.4502 0 0 6.3527 98.7 98.63)"/>
+ <use height="1" transform="matrix(8.0695 0 0 7.9474 53.53 -7920.1)" width="1" xlink:href="#a"/>
+ <use height="1" transform="matrix(4.0348 -6.8827 6.9884 3.9737 -7034.7 -3659.3)" width="1" xlink:href="#a"/>
+ <use height="1" transform="matrix(-4.0348 -6.8827 6.9884 -3.9737 -6832.2 4516.7)" width="1" xlink:href="#a"/>
+ <use height="1" transform="matrix(-8.0695 0 0 -7.9474 458.47 8432.1)" width="1" xlink:href="#a"/>
+ <use height="1" transform="matrix(-4.0348 6.8827 -6.9884 -3.9737 7546.7 4171.3)" width="1" xlink:href="#a"/>
+ <use height="1" transform="matrix(4.0348 6.8827 -6.9884 3.9737 7344.2 -4004.7)" width="1" xlink:href="#a"/>
+<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>
