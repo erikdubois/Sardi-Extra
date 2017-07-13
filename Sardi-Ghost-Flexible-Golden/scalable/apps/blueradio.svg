@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="24"
+   viewBox="0 0 24 24"
+   width="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="blueradio.svg">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     fill="#aaaaaa"
+     transform="matrix(.7427261 0 0 .7427261 -5.6217292 -5.8261985)"
+     id="g4"
+     style="fill:#fefefe;fill-opacity:1">
+    <path
+       d="m23.473 18.551v4.344l-2.43-1.816-.82.645 3.02 2.277-3.07 2.277.961.711 2.34-1.848v4.309l4.352-3.172-2.883-2.242 2.789-2.211-4.258-3.273m1.188 2.102l1.43 1.207-1.43 1.07m-.047 2.246l1.523 1.066-1.422.961m-.102-2.027"
+       fill-rule="evenodd"
+       id="path6"
+       style="fill:#fefefe;fill-opacity:1" />
+    <path
+       d="m18.961 19.08c-2.777 2.723-2.789 7.141-.012 9.852l1.32-1.293c-2.059-2.01-2.051-5.242.016-7.27m7.434-.012c2.059 2.023 2.074 5.273.012 7.289l1.32 1.289c2.781-2.715 2.766-7.156-.012-9.867m-1.32 1.289"
+       id="path8"
+       style="fill:#fefefe;fill-opacity:1" />
+    <path
+       d="m14.813 15.02c-5.07 4.953-5.086 13.01-.023 17.957l2.41-2.355c-3.762-3.676-3.742-9.57.023-13.246l-2.414-2.355m15.973 2.332c3.758 3.676 3.785 9.609.02 13.289l2.41 2.355c5.07-4.953 5.04-13.05-.02-18m-2.41 2.355"
+       id="path10"
+       style="fill:#fefefe;fill-opacity:1" />
+  </g>
+</svg>

@@ -1,0 +1,52 @@
+<svg height="512" viewBox="0 0 512 512" width="512" xmlns="http://www.w3.org/2000/svg">
+ <clipPath id="a">
+  <path d="m11 8.523h20v20.954h-20z"/>
+ </clipPath>
+ <clipPath id="b">
+  <path d="m4.156 8.523h12.844v20.954h-12.844z"/>
+ </clipPath>
+ <clipPath id="c">
+  <path d="m25 19h8.844v5h-8.844z"/>
+ </clipPath>
+ <clipPath id="d">
+  <path d="m22 14h11.844v5h-11.844z"/>
+ </clipPath>
+ <text x="729.64" y="231.36">
+  
+ </text>
+ <text x="1310.91" y="151.36">
+  
+ </text>
+ <text x="239.33" y="-29.9">
+  
+ </text>
+ <text x="1337.38" y="-246.37">
+  
+ </text>
+ <text x="1918.65" y="-326.38">
+  
+ </text>
+ <text x="1529.53" y="-798.78">
+  
+ </text>
+ <text x="2110.79" y="-878.78">
+  
+ </text>
+ <text x="277.99" y="535.94">
+  
+ </text>
+ <g fill="#d44e2b" transform="matrix(13.088433 0 0 13.088433 7.3212452 7.3112452)">
+  <g clip-path="url(#b)">
+   <path d="m4.156 29.477l6.985-10.477-6.985-10.477h5.238l6.985 10.477-6.985 10.477z"/>
+  </g>
+  <g clip-path="url(#a)">
+   <path d="m11.141 29.477l6.984-10.477-6.984-10.477h5.238l13.973 20.954h-5.239l-4.367-6.547-4.367 6.547z"/>
+  </g>
+  <g clip-path="url(#c)">
+   <path d="m28.02 23.367l-2.328-3.492 8.149-.004v3.496z"/>
+  </g>
+  <g clip-path="url(#d)">
+   <path d="m24.531 18.13l-2.328-3.492h11.641v3.492z"/>
+  </g>
+ </g>
+</svg>

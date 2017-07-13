@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="guake.svg">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:current-layer="svg2" />
+  <g
+     style="fill-opacity:0.12900002;fill-rule:evenodd"
+     id="g10" />
+  <path
+     d="m 243.07052,94.988582 a 5.6158163,5.6158163 0 0 0 -5.13515,5.727728 l 0,89.76679 -49.34869,0 a 5.6158163,5.6158163 0 0 0 -4.21349,9.5133 l 120.89442,137.39739 a 5.6158163,5.6158163 0 0 0 8.49268,-0.19751 L 432.52251,199.79889 a 5.6158163,5.6158163 0 0 0 -4.2464,-9.31573 l -49.54589,0 0,-89.76679 a 5.6158163,5.6158163 0 0 0 -5.72784,-5.727726 l -129.33694,0 a 5.6158163,5.6158163 0 0 0 -0.59252,0 M 78.092523,295.05788 l 0,27.12698 54.278627,20.93622 -54.278627,20.57387 0,26.2359 80.949597,-33.31406 0.36235,-26.0424 -81.307017,-35.51898 m 81.307017,94.86928 0,27.09124 81.27373,0 0,-27.09124 z"
+     id="path20"
+     inkscape:connector-curvature="0"
+     style="fill:#62c5df" />
+</svg>
