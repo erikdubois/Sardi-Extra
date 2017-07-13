@@ -56,10 +56,10 @@ oldcolouricons=ebebeb
 ### Back
 ### Icon
 
-newbodycolour=a1a1a1
-newpapercolour=feccce
-newbackcolour=a1a1a1
-newcolouricons=dbdbdb
+newbodycolour=4378C4
+newpapercolour=A3C0E8
+newbackcolour=2C5CA4
+newcolouricons=BBD0EF
 
 ### Do not change the next lines
 ### Now all the icons will change colour.
