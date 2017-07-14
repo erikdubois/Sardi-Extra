@@ -1,6 +1,0 @@
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 22 22">
- <g transform="matrix(.5 0 0 .5 -1 -1)">
-  <circle cy="24" cx="24" r="20" fill="#505050"/>
-  <path d="m11 27.222 4.243 4.242 3.535 3.536 18.385-18.385-3.536-3.535-14.849 14.849-4.242-4.243-3.536 3.536z" fill="#ffffff"/>
- </g>
-</svg>

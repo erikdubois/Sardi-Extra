@@ -1,8 +1,0 @@
-<svg height="512" viewBox="0 0 512 512" width="512" xmlns="http://www.w3.org/2000/svg">
- <path d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill="#f38725" fill-rule="evenodd"/>
- <g fill="#ffffff" fill-rule="evenodd" transform="matrix(-.4565 .88972 -.4565 -.88972 0 -519.15)">
-  <path d="m244.02-651.05h112.14v112.14h-112.14z"/>
-  <path d="m-21.877-916.94h112.14v112.14h-112.14z"/>
-  <path d="m87.23-760.15h112.14v112.14h-112.14z"/>
- </g>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>

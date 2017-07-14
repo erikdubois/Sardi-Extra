@@ -1,9 +1,0 @@
-<svg height="512" viewBox="0 0 512 512" width="512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <path id="a" d="m293.81 491.89c0 28.02-22.716 50.738-50.738 50.738-28.02 0-50.738-22.716-50.738-50.738 0-28.02 22.716-50.738 50.738-50.738 28.02 0 50.738 22.716 50.738 50.738" fill="#ffffff" fill-rule="evenodd"/>
- </defs>
- <path d="m471.87681 253.07066c0 120.89974-98.00789 218.91223-218.91223 218.91223-120.89975 0-218.912237-98.00789-218.912237-218.91223 0-120.89975 98.007897-218.91224 218.912237-218.91224 120.89974 0 218.91223 98.00789 218.91223 218.91224" fill="#62c0dc" fill-rule="evenodd"/>
- <use height="1" transform="matrix(.98077 0 0 .98077 -111.85001 -229.36959)" width="1" xlink:href="#a"/>
- <use height="1" transform="matrix(.98077 0 0 .98077 14.571238 -229.36959)" width="1" xlink:href="#a"/>
- <use height="1" transform="matrix(.98077 0 0 .98077 139.61941 -229.36959)" width="1" xlink:href="#a"/>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>

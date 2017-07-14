@@ -1,6 +1,0 @@
-<svg height="512" viewBox="0 0 512 512" width="512" xmlns="http://www.w3.org/2000/svg">
- <path d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill="#3888b0" fill-rule="evenodd"/>
- <rect fill="#ffffff" height="42.619" rx="2.649" ry="3.892" width="257.025" x="128.73" y="129.87"/>
- <rect fill="#ffffff" height="157.362" rx="2.649" ry="3.892" width="255.713" x="129.39" y="182.33"/>
- <rect fill="#ffffff" height="8.524" rx="2.649" ry="3.892" width="256.369" x="129.39" y="346.9"/>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>

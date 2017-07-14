@@ -1,8 +1,7 @@
 [Icon Theme]
 Name=Sardi Evopop
 Comment=evopop icon theme
-
-Inherits=Sardi,Numix-Circle,Numix,gnome,hicolor
+Inherits=Sardi-Flat,Sardi,Numix-Circle,Numix,Papirus,Moka,Surfn,breeze,gnome,hicolor
 
 # Directory list
 Directories=scalable/actions,scalable/places,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
