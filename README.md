@@ -1,15 +1,58 @@
 # Sardi Extras
 
-These icons are the result of the many scripting possibilities in Sardi icons to be downloaded at sourceforge.
+This is the large collection github. Some of them you can find also in smaller githubs
 
-Articles are to be found http://www.erikdubois.be.
 
-These are all scripting results of the Sardi icons. They were made at some point in time. They are not part of the sardi core.
-You can remake them by using the same colouring and the scripts. They will not be updated.
+https://github.com/erikdubois?utf8=✓&tab=repositories&q=sardi&type=&language=
+
+
+Sardi consists of 6 major icon themes and 10 different kind of folders.
+
+You can change all icon themes with the words **flexible** and **colora** in them.
+Sardi comes with many coloring scripts. You can color the icons any way you see fit.
+
+These icons are an example what you can do with the Sardi icons.
+
+
+**More information about Sardi**
+
+
+What can I tell you about Sardi icons? 
+
+http://erikdubois.be/overview-sardi-icons-version-9-sardi-extra-icons/
+
+
+Personalize the Sardi icon theme like you want it.
+
+http://erikdubois.be/personalize-sardi-icon-theme-overview/
+
+
+
+If you want to change the colours of the Sardi icons, check the articles about the flexibility of Sardi.
+
+http://erikdubois.be/category/sardi-icons/flexibility/
+
+
+
+If you want to mix parts of the icon themes with other parts, check the articles about the modularity of Sardi.
+
+http://erikdubois.be/category/sardi-icons/modularity/
+
+
+
+If you want to know on what systems/distro's Sardi has been tested, check here.
+
+
+These are all scripting results of the Sardi icons. They will be updated together with the sardi icons.
+But as such they are not part of the sardi core.
+
+You can make more icon themes by using the other colour combinations and the scripts. 
 
 IF you want to try them then 
 
 copy/paste the folders in your ./icons folder.
+
+
 
 Have fun.
 
