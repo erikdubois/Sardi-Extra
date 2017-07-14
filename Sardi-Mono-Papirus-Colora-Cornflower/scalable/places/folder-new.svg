@@ -567,13 +567,13 @@
      id="g210">
     <path
        d="m4 35.005v-28c0-1.108.89878-2.1224 2-2h16l4 4h16.103s1.8975 0 1.8975 2v24c0 1.108-.892 2-2 2h-36c-1.108 0-2-.892-2-2z"
-       fill="#284B87"
+       fill="#284b87"
        id="path212" />
     <path
        d="m44 39.005v-28c0-1.108-.89878-2.1224-2-2h-16l-4 4h-16c-2 0-2 1.9167-2 1.9167v24.083c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2z"
        fill="#acacac"
        id="path214"
-       style="fill:#3360AE;fill-opacity:1" />
+       style="fill:#3360ae;fill-opacity:1" />
     <path
        d="m6 5.005c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h16l4 4v-1l-4-4z"
        fill="#ffffff"
@@ -594,7 +594,7 @@
        id="path222" />
   </g>
   <g
-     fill="#4d4d4d"
+     fill="#fafafa"
      fill-rule="evenodd"
      transform="matrix(1.5001531 0 0 1.5001531 -19.122518 -15.771044)"
      id="g224">

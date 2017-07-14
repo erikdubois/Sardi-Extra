@@ -1,0 +1,43 @@
+<svg height="512" viewBox="0 0 512 512" width="512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill="#a39ea5" fill-rule="evenodd"/>
+ <g fill="#ffffff" transform="matrix(.81875 0 0 .81875 44.68 -396.75)">
+  <g transform="matrix(1.2002 0 0 1.2002 -1.786 -164.81)">
+   <g transform="translate(-48.19)">
+    <path id="a" d="m321.36 659.56h18.314v64.65h-18.31z" fill="#ffffff" fill-rule="evenodd"/>
+    <path id="b" d="m347.67 659.56h18.314v64.65h-18.31z" fill="#ffffff" fill-rule="evenodd"/>
+    <path id="c" d="m321.36 732.21h18.314v64.65h-18.31z" fill="#ffffff" fill-rule="evenodd"/>
+    <path id="d" d="m347.67 732.21h18.314v64.65h-18.31z" fill="#ffffff" fill-rule="evenodd"/>
+    <path id="e" d="m321.36 804.86h18.314v64.65h-18.31z" fill="#ffffff" fill-rule="evenodd"/>
+    <path id="f" d="m347.67 804.86h18.314v64.65h-18.31z" fill="#ffffff" fill-rule="evenodd"/>
+    <path id="g" d="m321.36 877.51h18.314v64.65h-18.31z" fill="#ffffff" fill-rule="evenodd"/>
+    <path id="h" d="m347.67 877.51h18.314v64.65h-18.31z" fill="#ffffff" fill-rule="evenodd"/>
+   </g>
+   <g transform="translate(-206.07)">
+    <use height="1" width="1" xlink:href="#a"/>
+    <use height="1" width="1" xlink:href="#b"/>
+    <use height="1" width="1" xlink:href="#c"/>
+    <use height="1" width="1" xlink:href="#d"/>
+    <use height="1" width="1" xlink:href="#e"/>
+    <use height="1" width="1" xlink:href="#f"/>
+    <use height="1" width="1" xlink:href="#g"/>
+    <use height="1" width="1" xlink:href="#h"/>
+   </g>
+   <g fill-rule="evenodd" transform="translate(0 27.27)">
+    <path d="m167.91 738.35h18.314v64.65h-18.31z"/>
+    <path d="m194.23 738.35h18.314v64.65h-18.31z"/>
+    <g transform="translate(52.628 -72.65)">
+     <path d="m167.91 811h18.314v64.65h-18.31z"/>
+     <path d="m194.23 811h18.314v64.65h-18.31z"/>
+    </g>
+   </g>
+  </g>
+  <g font-family="Sans" font-size="88.65" font-weight="bold" letter-spacing="0" line-height="125%" transform="translate(7.258 -.039)" word-spacing="0">
+   <g transform="translate(0 176.27)">
+   </g>
+  </g>
+  <g font-family="Sans" font-size="88.65" font-weight="bold" letter-spacing="0" line-height="125%" transform="matrix(-1 0 0 1 508.95 -.039)" word-spacing="0">
+   <g transform="translate(0 176.27)">
+   </g>
+  </g>
+ </g>
+<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>

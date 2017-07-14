@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Sardi Flexible Luv Colora Niagara
 Comment=Simple and flat icon theme with long shadow
-Inherits=Sardi-Flexible,Sardi,Numix-Circle,Numix,breeze,gnome,hicolor
+Inherits=Sardi-Flexible,Sardi,Numix-Circle,Numix,Papirus,Moka,Surfn,breeze,gnome,hicolor
 Example=folder
 
 

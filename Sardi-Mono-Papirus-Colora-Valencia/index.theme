@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Sardi Mono Papirus Colora Valencia
 Comment=Simple and flat icon theme with long shadow 
-Inherits=Sardi-Mono,Sardi,Numix-Circle,Numix,breeze,gnome,hicolor
+Inherits=Sardi-Mono,Sardi,Numix-Circle,Numix,Papirus,Moka,Surfn,breeze,gnome,hicolor
 Example=folder
 
 
