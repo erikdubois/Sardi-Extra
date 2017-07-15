@@ -54,7 +54,7 @@ oldcolouricons=4d4d4d
 ### Body
 ### Icons
 
-newcolourtop=FD8FD5
+newcolourtop=fd84d5
 newcolourbody=EE8FFD
 newcolouricons=4d4d4d
 

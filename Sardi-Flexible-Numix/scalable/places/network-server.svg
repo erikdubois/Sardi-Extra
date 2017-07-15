@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <g transform="translate(0,-1004.3622)">
+  <rect y="1032.36" x="22" height="5" width="4" style="fill:#42a5f5;fill-opacity:1;"/>
+  <rect style="fill:#42a5f5;fill-opacity:1;" width="4" height="5" x="22" y="1019.36"/>
+  <rect style="fill:#09b69e;fill-opacity:1;" width="42" height="10" x="3" y="1036.36" rx="2" ry="2"/>
+  <rect ry="2" rx="2" y="1023.36" x="3" height="10" width="42" style="opacity:1;fill:#42a5f5;fill-opacity:1;"/>
+  <rect style="fill:#486cd7;fill-opacity:1;" width="42" height="10" x="3" y="1010.36" rx="2" ry="2"/>
+  <rect style="fill:#f9f9f9;fill-opacity:1;" width="21" height="4" x="6" y="1013.36"/>
+  <path style="fill:#f9f9f9;fill-opacity:1;" d="m -5,17 c 0,1.104569 -0.8954305,2 -2,2 -1.1045695,0 -2,-0.895431 -2,-2 0,-1.104569 0.8954305,-2 2,-2 1.1045695,0 2,0.895431 2,2 z" transform="translate(40,998.3622)"/>
+  <path transform="translate(47,998.3622)" d="m -5,17 c 0,1.104569 -0.8954305,2 -2,2 -1.1045695,0 -2,-0.895431 -2,-2 0,-1.104569 0.8954305,-2 2,-2 1.1045695,0 2,0.895431 2,2 z" style="fill:#f9f9f9;fill-opacity:1;"/>
+  <rect y="1039.36" x="6" height="4" width="21" style="fill:#f9f9f9;fill-opacity:1;"/>
+  <path transform="translate(40,1024.3622)" d="m -5,17 c 0,1.104569 -0.8954305,2 -2,2 -1.1045695,0 -2,-0.895431 -2,-2 0,-1.104569 0.8954305,-2 2,-2 1.1045695,0 2,0.895431 2,2 z" style="fill:#f9f9f9;fill-opacity:1;"/>
+  <path style="fill:#f9f9f9;fill-opacity:1;" d="m -5,17 c 0,1.104569 -0.8954305,2 -2,2 -1.1045695,0 -2,-0.895431 -2,-2 0,-1.104569 0.8954305,-2 2,-2 1.1045695,0 2,0.895431 2,2 z" transform="translate(47,1024.3622)"/>
+  <rect style="fill:#f9f9f9;fill-opacity:1;" width="21" height="4" x="6" y="1026.36"/>
+  <path style="fill:#f9f9f9;fill-opacity:1;" d="m -5,17 c 0,1.104569 -0.8954305,2 -2,2 -1.1045695,0 -2,-0.895431 -2,-2 0,-1.104569 0.8954305,-2 2,-2 1.1045695,0 2,0.895431 2,2 z" transform="translate(40,1011.3622)"/>
+  <path transform="translate(47,1011.3622)" d="m -5,17 c 0,1.104569 -0.8954305,2 -2,2 -1.1045695,0 -2,-0.895431 -2,-2 0,-1.104569 0.8954305,-2 2,-2 1.1045695,0 2,0.895431 2,2 z" style="fill:#f9f9f9;fill-opacity:1;"/>
+ </g>
+</svg>

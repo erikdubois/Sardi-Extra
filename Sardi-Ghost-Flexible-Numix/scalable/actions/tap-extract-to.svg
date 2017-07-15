@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="tap-extract-to.svg"
+   inkscape:version="0.92.1 r">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <path
+     id="path2"
+     style="fill:#8a8a8a;opacity:1"
+     d="m 6.289 4 c -1.145 0 -2.289 1.145 -2.289 2.289 l 0 35.488 c 0 1.078 1.145 2.223 2.223 2.223 l 35.555 0 c 1.078 0 2.223 -1.145 2.223 -2.223 l 0 -35.555 c 0 -1.078 -1.145 -2.223 -2.223 -2.223" />
+  <path
+     id="path4"
+     style="fill:#ffffff;fill-opacity:0.196;opacity:1"
+     d="m 6.289 4 c -1.145 0 -2.289 1.145 -2.289 2.289 l 0 13.711 c 4.441 0 35.559 0 40 0 l 0 -13.777 c 0 -1.078 -1.145 -2.223 -2.223 -2.223" />
+  <path
+     id="path6"
+     style="fill:#ffffff;opacity:1"
+     d="m 24,8 -4,0 0,-4 4,0 0,8 -4,0 0,4 4,0 0,8.03125 L 20,24 l 0,8 8,0 0,-8 -4,0.03125 L 24,20 l 4,0 0,-4 -4,0 0,-4 4,0 0,-4 z" />
+  <path
+     id="path8"
+     style="fill:#7c7c7c;fill-rule:evenodd;opacity:1"
+     d="m 29.18 16.707 l 13.75 11 c 2.758 2.758 2.75 2.75 0 5.5 l -13.75 11 c -1.914 1.535 -1.914 0.965 -1.914 -2.828 c -0.039 -1.375 -0.086 -2.922 0 -4.922 c -0.031 0 0.031 0 0 0 c -13.664 0 -20.09 -8.75 -20 -19.836 c 5.414 5.586 11.75 8.01 20 7.836 c 0 -1.969 -0.039 -2.672 0 -4 c 0 -2 0 -5.109 1.914 -3.75 Z" />
+</svg>
