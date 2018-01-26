@@ -1,13 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
-<defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="conky.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ff7975"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0.49019608"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
   <path
-     d="M 11.226723,2.0030443 A 6.4258434,6.4258434 0 0 0 6.3007364,12.564469 l 9.3700846,11.47166 -9.3700846,11.471664 a 6.4265429,6.4265429 0 1 0 9.9590616,8.125198 l 7.696855,-9.437015 7.710241,9.437015 a 6.4265429,6.4265429 0 1 0 9.959062,-8.125198 L 32.255871,24.036129 41.625956,12.564469 A 6.4258434,6.4258434 0 0 0 36.512567,2.0030443 6.4258434,6.4258434 0 0 0 31.666894,4.4258802 L 23.956653,13.862894 16.259798,4.4258802 A 6.4258434,6.4258434 0 0 0 11.226723,2.0030443 z"
-     id="path-main"
-      />
-</defs>
-<acyl-settings>
-<use id="1" style="fill:#b7b7b7" xlink:href="#path-main" />
-
-
-</acyl-settings>
+     style="fill:#b7b7b7;stroke-width:1.31895375"
+     d="m 211.03674,54.588718 c -24.11131,0 -43.7234,22.054194 -43.7234,49.080712 v 278.63245 c 0,27.02651 19.61006,49.08072 43.7234,49.08072 h 71.95656 v -56.234 H 259.92012 V 110.82728 H 282.9933 V 54.593295 h -71.95862 m 86.55755,0 v 56.233985 h 61.31431 V 54.593295 h -61.31431 m 0,320.559885 v 56.23401 h 61.31431 v -56.23401 h -61.31431"
+     id="path2"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csssccccccccccccccccc" />
 </svg>
