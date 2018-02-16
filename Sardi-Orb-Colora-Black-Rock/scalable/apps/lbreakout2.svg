@@ -6,4 +6,5 @@
   <path d="m25.932272 33.787053c1.990286-1.981714 15.858858-16.027714 16.918286-14.847429.848572 1.319143-5.142857 9.888-8.918571 14.847429"/>
   <rect fill-rule="evenodd" height="4" rx=".688" width="24.751" x="11.88" y="35.07"/>
  </g>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>
+ <circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none"/>
+</svg>

@@ -6,4 +6,5 @@
  <circle cx="165.695" cy="237.61" fill="#ffffff" r="35.79"/>
  <circle cx="250.53" cy="299.911" fill="#ffffff" r="35.79"/>
  <circle cx="339.343" cy="177.96" fill="#ffffff" r="35.79"/>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>
+ <circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none"/>
+</svg>

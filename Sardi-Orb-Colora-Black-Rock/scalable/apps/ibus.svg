@@ -27,4 +27,5 @@
  <text line-height="125%" style="font-weight:bold;font-size:340.32998657;font-family:Serif;letter-spacing:0;word-spacing:0;fill:#ffffff;stroke:#ffffff;stroke-width:.995" x="199.34" y="378.52">
   <tspan x="199.34" y="378.52">i</tspan>
  </text>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>
+ <circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none"/>
+</svg>

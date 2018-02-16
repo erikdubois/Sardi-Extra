@@ -26,4 +26,5 @@
   <path d="m43.833321 9.6615515h12.529412v8.452817h-12.529412z" filter="url(#b)" transform="matrix(3.6491296 0 0 3.6998895 25.642877 1131.6967)"/>
   <rect filter="url(#c)" height="74.691" ry="8.103" transform="matrix(3.6491296 0 0 3.6998895 25.642877 1131.6967)" width="58.431" x="58.45" y="50.26"/>
  </g>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>
+ <circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none"/>
+</svg>

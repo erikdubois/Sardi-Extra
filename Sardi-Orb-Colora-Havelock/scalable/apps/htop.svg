@@ -31,13 +31,6 @@
     </g>
    </g>
   </g>
-  <g font-family="Sans" font-size="88.65" font-weight="bold" letter-spacing="0" line-height="125%" transform="translate(7.258 -.039)" word-spacing="0">
-   <g transform="translate(0 176.27)">
-   </g>
-  </g>
-  <g font-family="Sans" font-size="88.65" font-weight="bold" letter-spacing="0" line-height="125%" transform="matrix(-1 0 0 1 508.95 -.039)" word-spacing="0">
-   <g transform="translate(0 176.27)">
-   </g>
-  </g>
  </g>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>
+ <circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none"/>
+</svg>

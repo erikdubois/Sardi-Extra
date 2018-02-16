@@ -191,4 +191,5 @@
   <path d="m25.3 63.833h49.4v27.18h-49.4z"/>
   <path d="m64 37.75v-23.73h4.997v-3h-58.997v80h12.3v-30.19h55.4v30.19h12.3v-58.94l-21-21v29.587h-46.867v-26.647h26.87v23.73z"/>
  </g>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>
+ <circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none"/>
+</svg>

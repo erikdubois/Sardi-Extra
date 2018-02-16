@@ -6,4 +6,5 @@
  <use height="1" transform="matrix(.98077 0 0 .98077 -111.85001 -229.36959)" width="1" xlink:href="#a"/>
  <use height="1" transform="matrix(.98077 0 0 .98077 14.571238 -229.36959)" width="1" xlink:href="#a"/>
  <use height="1" transform="matrix(.98077 0 0 .98077 139.61941 -229.36959)" width="1" xlink:href="#a"/>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>
+ <circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none"/>
+</svg>

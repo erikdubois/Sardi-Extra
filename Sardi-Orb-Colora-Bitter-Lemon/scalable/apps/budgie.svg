@@ -5,4 +5,5 @@
   <path id="a" d="m349.773-45.412539a21.624751 21.624751 0 0 1 -43.2495 0 21.624751 21.624751 0 1 1 43.2495 0" fill="#282629" fill-rule="evenodd"/>
   <use height="512" transform="translate(-144.29 -2.8570132)" width="512" xlink:href="#a"/>
  </g>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>
+ <circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none"/>
+</svg>

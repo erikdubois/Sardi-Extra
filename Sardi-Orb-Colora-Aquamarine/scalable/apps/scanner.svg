@@ -7,4 +7,5 @@
  </g>
  <path id="a" d="m372.75 312.75c0 3.487-2.827 6.313-6.313 6.313-3.487 0-6.313-2.827-6.313-6.313 0-3.487 2.827-6.313 6.313-6.313 3.487 0 6.313 2.827 6.313 6.313z" fill="#ffffff" fill-rule="evenodd" stroke="#ffffff"/>
  <use height="1" transform="matrix(.68495 0 0 .68495 95.12 98.529582)" width="1" xlink:href="#a"/>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>
+ <circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none"/>
+</svg>

@@ -10,4 +10,5 @@
  <use height="1" transform="matrix(-8.0695 0 0 -7.9474 458.47 8432.1)" width="1" xlink:href="#a"/>
  <use height="1" transform="matrix(-4.0348 6.8827 -6.9884 -3.9737 7546.7 4171.3)" width="1" xlink:href="#a"/>
  <use height="1" transform="matrix(4.0348 6.8827 -6.9884 3.9737 7344.2 -4004.7)" width="1" xlink:href="#a"/>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>
+ <circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none"/>
+</svg>

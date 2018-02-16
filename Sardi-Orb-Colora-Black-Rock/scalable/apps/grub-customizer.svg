@@ -8,8 +8,6 @@
   </clipPath>
  </defs>
  <path d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill-rule="evenodd" fill="#0078ad"/>
- <g font-family="Gentium Book Basic" font-size="208.33" line-height="125%" word-spacing="0" letter-spacing="0">
- </g>
  <g transform="matrix(8.7932694,0,0,8.7932694,40.308027,35.68578)" fill="#ffffff">
   <g clip-path="url(#clipPath-283653061)">
    <g>
@@ -24,4 +22,5 @@
    </g>
   </g>
  </g>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>
+ <circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none"/>
+</svg>

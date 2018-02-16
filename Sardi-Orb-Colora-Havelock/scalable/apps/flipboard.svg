@@ -5,4 +5,5 @@
   <path d="m219.75 106v100h172.5v-100z" transform="matrix(.4997 0 0 .4997 -402.23 32.887)"/>
   <path d="m-292.42 235.77h-49.966v-149.91h49.966z"/>
  </g>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>
+ <circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none"/>
+</svg>

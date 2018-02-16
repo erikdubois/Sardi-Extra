@@ -1,7 +1,7 @@
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 512 512">
- <g fill="#fff" transform="matrix(9.8074 0 0 9.8074 20.622 20.642)">
-  <g fill="#fff">
-   <g fill="#fff">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 512 512">
+ <g fill="#b7b7b7" transform="matrix(9.8074 0 0 9.8074 20.622 20.642)">
+  <g fill="#b7b7b7">
+   <g fill="#b7b7b7">
     <path d="m39.625 15-12.219 18h5.406l12.188-18m-5.375 0"/>
     <path d="m15.188 15-12.188 18l5.406-0.004 12.188-18m-5.406 0.004"/>
     <path d="m20.602 33h-5.391l12.191-18h5.387m-12.188 18"/>

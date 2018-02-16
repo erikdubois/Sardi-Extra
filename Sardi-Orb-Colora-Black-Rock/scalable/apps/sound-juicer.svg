@@ -12,4 +12,5 @@
   <path d="m-266.85458-359.71108a124.40063 124.40063 0 0 1 124.40062 124.40062 124.40063 124.40063 0 0 1 -124.40062 124.40063" fill="none" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="round" stroke-width="3.463" transform="matrix(-.99996722 .00809648 -.00809648 -.99996722 0 0)"/>
   <path d="m266.34839 124.39585a109.27354 109.27354 0 0 0 -109.27128 109.2713 109.27354 109.27354 0 0 0 109.27128 109.27504 109.27354 109.27354 0 0 0 .78611-.0265v-218.48209a109.27354 109.27354 0 0 0 -.78611-.0377z" fill="#ffffff"/>
  </g>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>
+ <circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none"/>
+</svg>

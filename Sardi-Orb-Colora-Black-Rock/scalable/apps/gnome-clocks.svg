@@ -1,4 +1,4 @@
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 144.5 144.5">
+<svg xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.1" viewBox="0 0 144.5 144.5">
  <path fill-rule="evenodd" d="m133.19 71.42c0 34.12-27.66 61.779-61.779 61.779-34.12 0-61.779-27.66-61.779-61.779 0-34.12 27.66-61.779 61.779-61.779 34.12 0 61.779 27.66 61.779 61.779" fill="#d70d0d"/>
  <g fill="#ffffff">
   <rect rx="2.693" transform="matrix(-.74940 -.66211 .66211 -.74940 0 0)" height="5.386" width="44.31" y="-8.98" x="-99.13"/>

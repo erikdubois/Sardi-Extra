@@ -4,4 +4,5 @@
  <rect fill="#ffffff" height="106.283" rx=".97" ry="1.045" transform="matrix(.70234364 -.71183805 .70497629 .70923088 0 0)" width="72.104" x="-101.01" y="349.15"/>
  <rect fill="#ffffff" height="82.793" rx=".746" ry=".821" transform="matrix(.70428387 .70991847 -.69380982 .72015827 0 0)" width="56.128" x="263.01" y="13.52"/>
  <rect fill="#ffffff" height="110.34" rx=".896" ry=".747" transform="matrix(.70774951 .70646346 -.69463399 .71936334 0 0)" width="48.735" x="413" y="-96.14"/>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>
+ <circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none"/>
+</svg>

@@ -1,15 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
-<defs>
-<defs
-     id="defs4">
-  </defs>
-  <path
-     id="path-main"
-     d="M 10.226526,3.0085226 29.162025,3 40,14.110962 39.96077,42.709443 C 39.96077,43.978413 38.967737,45 37.734244,45 L 10.226526,45 C 8.9930297,45 8,43.978413 8,42.709443 L 8,5.299083 C 8,4.0301136 8.9930297,3.0085226 10.226526,3.0085226 z" />
-</defs>
-<acyl-settings>
-<use id="1" style="fill:#d44e2b" xlink:href="#path-main" />
-
-
-</acyl-settings>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m10.4 4.6038 15.2-0.00376c3.8 0 3.8 0 3.8 3.85v23.1c0 3.85 0 3.85-3.8 3.85h-15.2c-3.8 0-3.8 0-3.8-3.85v-23.096c0-3.85 0-3.85 3.8-3.85z" fill="#d44e2b" fill-rule="evenodd"/>
+ <path d="m22 12.004h16c4 0 4 0 4 4v23.996c0 4 0 4-4 4h-16c-4 0-4 0-4-4v-23.996c0-4 0-4 4-4z" fill="#d44e2b" fill-rule="evenodd"/>
 </svg>

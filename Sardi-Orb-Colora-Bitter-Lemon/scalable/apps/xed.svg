@@ -8,4 +8,5 @@
  </g>
  <rect fill="#ffffff" fill-rule="evenodd" height="37.824" rx="0" ry="15.783" transform="matrix(.70710678 .70710678 -.70710678 .70710678 0 0)" width="163.672" x="154.4" y="-50.01"/>
  <rect fill="#ffffff" fill-rule="evenodd" height="37.824" rx="0" ry="15.783" transform="matrix(-.70710678 .70710678 -.70710678 -.70710678 0 0)" width="163.672" x="-112.94" y="-255.15"/>
-<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>
+ <circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none"/>
+</svg>
