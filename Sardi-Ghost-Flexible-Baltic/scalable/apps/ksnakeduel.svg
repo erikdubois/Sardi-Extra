@@ -1,0 +1,6 @@
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(14.258 0 0 14.258 -77.364 -60.285)" fill="#3a3a3a" fill-rule="evenodd">
+  <path d="m13.78 11.966c-0.552 0-1 0.448-1 1v10c-0.019 1.352 2.02 1.352 2 0v-9h6v18h-9c-1.352-0.019-1.352 2.02 0 2h10c0.552 0 1-0.448 1-1v-20c0-0.552-0.448-1-1-1z" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
+  <path d="m20.78 7.9661c-1.352-0.019-1.352 2.02 0 2h4v23c0 0.552 0.448 1 1 1h8c0.552 0 1-0.448 1-1v-10c0-0.552-0.448-1-1-1h-4c-1.352-0.019-1.352 2.02 0 2h3v8h-6v-23c0-0.552-0.448-1-1-1z" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
+ </g>
+</svg>
