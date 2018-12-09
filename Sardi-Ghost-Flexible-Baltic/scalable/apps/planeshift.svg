@@ -1,0 +1,15 @@
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.3332 0 0 1.3332 -86.65 -83.738)" fill="#3a3a3a" stroke-width="11.125">
+  <path d="m201.22 117.85c-1.4908 0.14463-2.8703 0.90113-3.8048 2.0804l-72.691 91.27c-1.0458 1.335-1.4351 3.0816-1.0346 4.7281l25.921 113.89c0.36713 1.6576 1.4685 3.0594 2.9926 3.8048l105.06 50.652c1.5241 0.74538 3.3153 0.74538 4.8394 0l105.06-50.652c1.5241-0.74538 2.6255-2.1471 2.9926-3.8048l25.921-113.89c0.38937-1.6576 0-3.3931-1.0346-4.7281l-72.691-91.27c-1.068-1.3239-2.6811-2.0915-4.3721-2.0804h-116.58-0.5785zm3.2262 11.081h111.25l69.353 87.12-24.764 108.69-100.24 48.349-100.24-48.349-24.764-108.69z" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
+  <path d="m225.96 173.48c-1.0458 0.10013-2.0025 0.623-2.6589 1.4462l-42.097 52.833c-0.74538 0.92338-1.0235 2.136-0.7565 3.293l15.019 65.849c0.267 1.157 1.0569 2.1249 2.1249 2.6366l60.821 29.292c1.068 0.52288 2.3251 0.52288 3.3931 0l60.821-29.292c1.0791-0.51175 1.8579-1.4796 2.1249-2.6366l15.019-65.849c0.25588-1.157-0.0222-2.3696-0.7565-3.293l-42.097-52.833c-0.74538-0.91225-1.8579-1.4462-3.0371-1.4462h-67.529-0.37825zm2.2584 7.7764h63.769l39.772 49.862-14.207 62.2-57.45 27.701-57.45-27.701-14.207-62.2" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
+  <g fill-rule="evenodd">
+   <path d="m208.01 127.36-7.0866 3.2151 23.73 52.277 7.1089-3.2151z" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
+   <path d="m136.13 212.32-2.1026 7.4983 53.367 15.063 2.1026-7.4983z" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
+   <path d="m200.35 290.18-42.809 31.439 4.6058 6.2745 42.809-31.439z" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
+   <path d="m256.21 320.99v52.087h7.7764v-52.087z" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
+   <path d="m319.85 290.18-4.6058 6.2745 42.742 31.439 4.628-6.2745z" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
+   <path d="m312.19 127.36-23.752 52.277 7.1089 3.2151 23.73-52.277z" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
+   <path d="m384.03 212.32-53.322 15.063 2.1026 7.4983 53.322-15.063z" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;white-space:normal" isolation="auto" mix-blend-mode="normal"/>
+  </g>
+ </g>
+</svg>
