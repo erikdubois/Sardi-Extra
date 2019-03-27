@@ -28,12 +28,12 @@
   <rect y="501.7" x="377.57" height="5" width="5" style="opacity:1;fill:#e8e5dc;fill-opacity:1"/>
   <path style="opacity:1;fill:#039be5;fill-opacity:1" d="m 396.57146,496.69801 c -1.66199,10e-6 -3,1.33797 -3,2.99991 l 0,32.00017 c 0,1.66194 1.33801,2.99991 3,2.99991 l 15,0 6,0 19,0 c 1.66199,0 3,-1.33797 3,-2.99991 l 0,-24.00017 c 0,-1.66194 -1.33801,-2.99998 -3,-2.99991 l -19,0 -2,-7.00005 c -0.15219,-0.53267 -0.446,-1.00029 -1,-0.99998 l -2,0 -1,0 z"/>
   <path style="opacity:1;fill:#1793d1;fill-opacity:1" d="m 396.57146,497.69911 c -1.10799,0 -2,0.89198 -2,1.99993 l 0,31.99902 c 0,1.10796 0.89201,1.99994 2,1.99994 l 15,0 5,0 20,0 c 1.108,0 2,-0.89198 2,-1.99994 l 0,-23.99927 c 0,-1.10795 -0.89201,-2.00547 -2,-1.99994 l -20,0 -2,-6.99977 c -0.15219,-0.53267 -0.44669,-1.02764 -1,-0.99997 l -2,0 z"/>
-  <rect y="493.7" x="385.57" height="5" width="5" style="opacity:1;fill:#ffffff;fill-opacity:1"/>
+  <rect y="493.7" x="385.57" height="5" width="5" style="opacity:1;fill:#b3e5fc;fill-opacity:1"/>
   <path style="fill:url(#linearGradient4271);fill-opacity:1;fill-rule:evenodd;opacity:0.5" d="m 412.57144,513.798 -4,3 4,2 4,-3 -4,-2 z"/>
   <path style="fill:url(#linearGradient4273);fill-opacity:1;fill-rule:evenodd;opacity:0.5" d="m 416.57144,515.798 4,3 4,-2 -4,-3 -4,2 z"/>
   <path style="fill:url(#linearGradient4275);fill-opacity:1;fill-rule:evenodd" d="m 412.57144,519.798 -4,2 4,3 4,-2 -4,-3 z"/>
   <path style="fill:url(#linearGradient4277);fill-opacity:1;fill-rule:evenodd" d="m 416.57144,522.798 4,2 4,-3 -4,-2 -4,3 z"/>
   <path style="fill:url(#linearGradient4259);fill-opacity:1;fill-rule:evenodd" d="m 416.57144,523.798 -3.48828,2.90625 -1.51172,-0.90625 0,1 0.81445,0.48828 4.18555,2.51172 4.18555,-2.51172 0.81445,-0.48828 0,-1 -1.51172,0.90625 -3.48828,-2.90625 z"/>
-  <path style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1" d="M 20 21 L 16 24 L 20 26 L 24 23 L 20 21 z M 24 23 L 28 26 L 32 24 L 28 21 L 24 23 z M 20 27 L 16 29 L 20 32 L 24 30 L 20 27 z M 24 30 L 28 32 L 32 29 L 28 27 L 24 30 z M 24 31 L 20.511719 33.90625 L 19 33 L 19 34 L 19.814453 34.488281 L 24 37 L 28.185547 34.488281 L 29 34 L 29 33 L 27.488281 33.90625 L 24 31 z" transform="translate(392.57144,491.798)"/>
+  <path style="fill:#b3e5fc;fill-rule:evenodd;fill-opacity:1" d="M 20 21 L 16 24 L 20 26 L 24 23 L 20 21 z M 24 23 L 28 26 L 32 24 L 28 21 L 24 23 z M 20 27 L 16 29 L 20 32 L 24 30 L 20 27 z M 24 30 L 28 32 L 32 29 L 28 27 L 24 30 z M 24 31 L 20.511719 33.90625 L 19 33 L 19 34 L 19.814453 34.488281 L 24 37 L 28.185547 34.488281 L 29 34 L 29 33 L 27.488281 33.90625 L 24 31 z" transform="translate(392.57144,491.798)"/>
  </g>
 </svg>

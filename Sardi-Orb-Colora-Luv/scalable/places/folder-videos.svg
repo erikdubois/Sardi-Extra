@@ -28,12 +28,12 @@
   <rect y="501.8" x="377.57" height="5" width="5" style="opacity:1;fill:#e8e5dc;fill-opacity:1"/>
   <path style="opacity:1;fill:#039be5;fill-opacity:1" d="m 396.57144,496.79803 c -1.66199,1e-5 -3,1.33797 -3,2.99992 l 0,32.00014 c 0,1.66194 1.33801,2.99991 3,2.99991 l 15.00001,0 6,0 19.00003,0 c 1.66199,0 3,-1.33797 3,-2.99991 l 0,-24.00016 c 0,-1.66194 -1.33801,-2.99998 -3,-2.99991 l -19.00003,0 -2,-7.00004 c -0.15219,-0.53267 -0.446,-1.00029 -1,-0.99998 l -2,0 -1,0 z"/>
   <path style="opacity:1;fill:#1793d1;fill-opacity:1" d="m 396.57144,497.79913 c -1.10799,0 -2,0.89199 -2,1.99994 l 0,31.99899 c 0,1.10796 0.89201,1.99994 2,1.99994 l 15.00001,0 5,0 20.00003,0 c 1.108,0 2,-0.89198 2,-1.99994 l 0,-23.99926 c 0,-1.10795 -0.89201,-2.00547 -2,-1.99994 l -20.00003,0 -2,-6.99975 c -0.15219,-0.53268 -0.44669,-1.02765 -1,-0.99998 l -2,0 z"/>
-  <rect y="493.8" x="385.57" height="5" width="5" style="opacity:1;fill:#ffffff;fill-opacity:1"/>
+  <rect y="493.8" x="385.57" height="5" width="5" style="opacity:1;fill:#b3e5fc;fill-opacity:1"/>
   <path style="opacity:1;fill:url(#linearGradient4239);fill-opacity:1" d="M 16 36 L 16 37 L 32 37 L 32 36 L 16 36 z" transform="translate(392.57144,491.798)"/>
   <rect style="opacity:1;fill:url(#linearGradient4264);fill-opacity:1" width="12" height="1" x="410.57" y="513.8"/>
   <rect y="518.8" x="410.57" height="1" width="12" style="opacity:1;fill:url(#linearGradient4268);fill-opacity:1"/>
   <rect style="opacity:1;fill:url(#linearGradient4272);fill-opacity:1" width="12" height="1" x="410.57" y="523.8"/>
   <rect style="opacity:1;fill:url(#linearGradient4276);fill-opacity:1" width="12" height="1" x="410.57" y="520.8"/>
-  <path style="opacity:0.99999999;fill:#ffffff;fill-opacity:1" d="M 16 20 L 16 36 L 32 36 L 32 20 L 16 20 z M 18 22 L 20 22 L 20 24 L 18 24 L 18 22 z M 21 22 L 27 22 L 27 27 L 21 27 L 21 22 z M 28 22 L 30 22 L 30 24 L 28 24 L 28 22 z M 18 27 L 20 27 L 20 29 L 18 29 L 18 27 z M 28 27 L 30 27 L 30 29 L 28 29 L 28 27 z M 21 29 L 27 29 L 27 34 L 21 34 L 21 29 z M 18 32 L 20 32 L 20 34 L 18 34 L 18 32 z M 28 32 L 30 32 L 30 34 L 28 34 L 28 32 z" transform="translate(392.57144,491.798)"/>
+  <path style="opacity:0.99999999;fill:#b3e5fc;fill-opacity:1" d="M 16 20 L 16 36 L 32 36 L 32 20 L 16 20 z M 18 22 L 20 22 L 20 24 L 18 24 L 18 22 z M 21 22 L 27 22 L 27 27 L 21 27 L 21 22 z M 28 22 L 30 22 L 30 24 L 28 24 L 28 22 z M 18 27 L 20 27 L 20 29 L 18 29 L 18 27 z M 28 27 L 30 27 L 30 29 L 28 29 L 28 27 z M 21 29 L 27 29 L 27 34 L 21 34 L 21 29 z M 18 32 L 20 32 L 20 34 L 18 34 L 18 32 z M 28 32 L 30 32 L 30 34 L 28 34 L 28 32 z" transform="translate(392.57144,491.798)"/>
  </g>
 </svg>
