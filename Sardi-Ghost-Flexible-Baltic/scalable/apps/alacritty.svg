@@ -1,0 +1,7 @@
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.0449 0 0 1.0449 -47.64 47.436)" clip-rule="evenodd" fill="#3a3a3a" fill-rule="evenodd" stroke-width="14.851">
+  <path d="m325.77 226.74v2e-3l-30.719 76.811-30.717-76.805-13.832 32.248 44.555 133.66 44.555-133.66-13.838-32.256z" enable-background="new" style="paint-order:normal"/>
+  <path d="m265.35 6.5255-133.66 341.58h59.406l103.96-252.47 103.96 252.47h59.406l-133.66-341.58z" enable-background="new" style="paint-order:normal"/>
+  <path d="m294.32 135.5-30.719 71.704 30.719 76.81 30.719-76.81z" enable-background="new" style="paint-order:normal"/>
+ </g>
+</svg>

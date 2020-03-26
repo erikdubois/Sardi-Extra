@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   id="svg865"
+   sodipodi:docname="teams.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata871">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs869">
+    <linearGradient
+       id="SVGID_1_"
+       gradientUnits="userSpaceOnUse"
+       x1="198.099"
+       y1="1683.0726"
+       x2="942.23438"
+       y2="394.26071"
+       gradientTransform="matrix(0.13171066,0,0,-0.13171066,103.81965,393.29566)">
+      <stop
+         offset="0"
+         style="stop-color:#5A62C3"
+         id="stop28" />
+      <stop
+         offset="0.5"
+         style="stop-color:#4D55BD"
+         id="stop30" />
+      <stop
+         offset="1"
+         style="stop-color:#3940AB"
+         id="stop32" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_1_-3"
+       gradientUnits="userSpaceOnUse"
+       x1="198.099"
+       y1="1683.0726"
+       x2="942.23438"
+       y2="394.26071"
+       gradientTransform="matrix(0.17147303,0,0,-0.17147303,-774.036,426.24457)">
+      <stop
+         offset="0"
+         style="stop-color:#5A62C3"
+         id="stop28-6" />
+      <stop
+         offset="0.5"
+         style="stop-color:#4D55BD"
+         id="stop30-7" />
+      <stop
+         offset="1"
+         style="stop-color:#3940AB"
+         id="stop32-5" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_1_-6"
+       gradientUnits="userSpaceOnUse"
+       x1="198.099"
+       y1="1683.0726"
+       x2="942.23438"
+       y2="394.26071"
+       gradientTransform="matrix(0.13171066,0,0,-0.13171066,99.669918,397.6043)">
+      <stop
+         offset="0"
+         style="stop-color:#5A62C3"
+         id="stop28-1" />
+      <stop
+         offset="0.5"
+         style="stop-color:#4D55BD"
+         id="stop30-8" />
+      <stop
+         offset="1"
+         style="stop-color:#3940AB"
+         id="stop32-7" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_1_-6-2"
+       gradientUnits="userSpaceOnUse"
+       x1="198.099"
+       y1="1683.0726"
+       x2="942.23438"
+       y2="394.26071"
+       gradientTransform="matrix(0.13171066,0,0,-0.13171066,-411.34202,104.63067)">
+      <stop
+         offset="0"
+         style="stop-color:#5A62C3"
+         id="stop28-1-3" />
+      <stop
+         offset="0.5"
+         style="stop-color:#4D55BD"
+         id="stop30-8-7" />
+      <stop
+         offset="1"
+         style="stop-color:#3940AB"
+         id="stop32-7-5" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview867"
+     showgrid="false"
+     inkscape:zoom="0.94733975"
+     inkscape:cx="-3.2694155"
+     inkscape:cy="294.7055"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg865" />
+  <path
+     d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9"
+     fill="#CF0808"
+     fill-rule="evenodd"
+     id="path849" />
+  <path
+     d="m256 1c-140.83 0-255 114.17-255 255 0 140.83 114.17 255 255 255 140.83 0 255-114.17 255-255 0-140.83-114.17-255-255-255m8.827 44.931c120.9 0 218.9 98 218.9 218.9 0 120.9-98 218.9-218.9 218.9-120.9 0-218.93-98-218.93-218.9 0-120.9 98.03-218.9 218.93-218.9"
+     fill-opacity=".067"
+     fill-rule="evenodd"
+     id="path851" />
+  <g
+     fill-opacity=".129"
+     fill-rule="evenodd"
+     id="g857">
+    <path
+       d="m256 4.433c-138.94 0-251.57 112.63-251.57 251.57 0 138.94 112.63 251.57 251.57 251.57 138.94 0 251.57-112.63 251.57-251.57 0-138.94-112.63-251.57-251.57-251.57m5.885 38.556c120.9 0 218.9 98 218.9 218.9 0 120.9-98 218.9-218.9 218.9-120.9 0-218.93-98-218.93-218.9 0-120.9 98.03-218.9 218.93-218.9"
+       id="path853" />
+    <path
+       d="m256 8.356c-136.77 0-247.64 110.87-247.64 247.64 0 136.77 110.87 247.64 247.64 247.64 136.77 0 247.64-110.87 247.64-247.64 0-136.77-110.87-247.64-247.64-247.64m2.942 31.691c120.9 0 218.9 98 218.9 218.9 0 120.9-98 218.9-218.9 218.9-120.9 0-218.93-98-218.93-218.9 0-120.9 98.03-218.9 218.93-218.9"
+       id="path855" />
+  </g>
+  <path
+     d="m 370.9134,140.25491 -87.57048,-52.847655 -61.52831,59.321475 11.38769,4.41488 -11.93599,0.5608 2.554,27.69012 0.6862,13.39783 -34.55507,-22.50563 -53.99944,-3.0211 -25.42065,21.27083 -2.13019,109.44506 75.23602,49.04309 4.26832,46.46991 116.71786,72.39329 c 61.41947,-10.48218 100.00974,-50.81794 135.94141,-94.63032 29.56659,-47.24322 55.70667,-127.01495 28.70355,-191.81429 l -93.20847,-61.82812"
+     id="path859"
+     inkscape:connector-curvature="0"
+     style="opacity:0.25"
+     sodipodi:nodetypes="ccccccccccccccccc" />
+  <path
+     d="m253.04 7.859c-135.42 0-245.19 109.78-245.19 245.19 0 135.42 109.78 245.19 245.19 245.19 135.42 0 245.19-109.78 245.19-245.19 0-135.42-109.78-245.19-245.19-245.19zm0 26.297c120.9 0 218.9 98 218.9 218.9 0 120.9-98 218.9-218.9 218.9-120.9 0-218.93-98-218.93-218.9 0-120.9 98.03-218.9 218.93-218.9z"
+     fill="#ffffff"
+     fill-rule="evenodd"
+     stroke="#000000"
+     stroke-opacity=".31"
+     stroke-width="4.904"
+     id="path863" />
+  <g
+     id="g1880"
+     transform="translate(-2.0057,-32.6658)">
+    <path
+       sodipodi:nodetypes="cccccssssc"
+       inkscape:connector-curvature="0"
+       id="path4-3"
+       d="m 322.44008,214.59083 c 9.21547,0.22806 16.5045,7.87599 16.29102,17.0918 v 102.55859 c 0.35923,15.43975 -1.73983,30.40901 -7.67293,43.61742 8.00302,3.75959 15.88028,5.60661 25.3077,5.60524 h 0.29296 c 34.27763,0 62.06446,-27.78878 62.06446,-62.06641 v -89.91992 c 0,-9.32659 -7.56013,-16.88672 -16.88672,-16.88672 z"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.17147303" />
+    <circle
+       id="circle6"
+       r="30.721512"
+       cy="174.23515"
+       cx="358.55411"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.13171066" />
+    <path
+       inkscape:connector-curvature="0"
+       id="circle8"
+       d="m 262.97656,114.20508 a 44.375561,44.375561 0 0 0 -44.37695,44.37695 44.375561,44.375561 0 0 0 5.2207,20.8125 h 19.67774 c 6.91126,0 12.51562,5.60254 12.51562,12.51367 v 10.44336 a 44.375561,44.375561 0 0 0 6.96289,0.60547 44.375561,44.375561 0 0 0 44.375,-44.375 44.375561,44.375561 0 0 0 -44.375,-44.37695 z"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.13171066" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path35-2"
+       d="m 116.18311,181.70354 c -6.91112,0 -12.51367,5.60254 -12.51367,12.51367 v 125.16602 c 0,6.91112 5.60242,12.51368 12.51367,12.51368 h 125.16601 c 6.91112,0 12.51563,-5.60243 12.51563,-12.51368 V 194.21721 c 0,-6.91113 -5.60437,-12.51367 -12.51563,-12.51367 z m 29.65039,34.42187 h 65.86719 v 13.21681 H 186.6792 v 68.13477 h -15.9414 v -68.13477 h -24.9043 z"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.13171066" />
+    <path
+       sodipodi:nodetypes="cssccccccc"
+       inkscape:connector-curvature="0"
+       id="path10-2-2-0-8"
+       d="m 256.69197,217.5909 v 104.79297 c 0,6.91125 -5.6045,12.51367 -12.51562,12.51367 h -104.1543 v 2.34375 c -1.2869,55.30332 42.46581,101.19734 97.76758,102.55078 55.30175,-1.35344 99.05626,-47.24746 97.76953,-102.55078 V 234.6827 c 0.21348,-9.21581 -7.0775,-16.86374 -16.29297,-17.0918 z"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.17147303" />
+  </g>
+</svg>
