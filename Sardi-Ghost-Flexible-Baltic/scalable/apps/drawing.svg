@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <style/>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="matrix(1.2446 0 0 1.2446 -77.249 -36.497)" fill="#fff" stroke-width="9.256">
+  <path d="m332 188.33c-3.1308 0.0194-6.1633 1.0958-8.6053 3.0552l-41.652 32.396c-7.4777 5.8159-7.0505 17.252 0.83156 22.507l19.688 13.125-44.907 17.97c-10.111 4.0462-11.901 17.728-3.0552 24.081l35.975 25.834h-101.82c-11.76 0-18.512-3.9348-18.512-11.1 0-3.8372 0-7.4121 9.256-16.668l27.768-27.768-18.512-18.512-27.768 27.768c-18.512 18.512-18.512 27.768-18.512 37.024 0 27.768 27.768 37.024 46.28 37.024h143.47c13.406 0 19.064-17.21 8.2075-25.075l-49.86-36.12 46.804-18.476c10.396-4.1038 11.993-18.464 2.549-24.442l-25.617-16.217 26.448-21.441c10.668-8.0559 4.907-25.055-8.4606-24.966z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path d="m205.34 249.16c0-37.024 9.256-74.048 46.28-74.048h27.768v27.768c0 37.024-37.024 46.28-74.048 46.28z" style="paint-order:normal"/>
+  <path d="m358.86 82.548c-3.6142 0-6.7732 1.5843-9.256 3.8326l-97.985 88.728 27.768 30.327 88.728-100.54c2.2163-2.5114 3.8326-5.6418 3.8326-9.256 0-7.2283-5.8603-13.089-13.089-13.089z" style="paint-order:normal"/>
+ </g>
+</svg>
