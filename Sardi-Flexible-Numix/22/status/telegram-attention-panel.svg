@@ -1,3 +1,62 @@
-<svg height="22" viewBox="0 0 6.21 6.21" width="22" xmlns="http://www.w3.org/2000/svg">
- <path d="m5.0546459 1.2359701c-.037873-.00462-.080364.00277-.1219313.022169l-3.6948872 1.4336167c-.25217609.1016094-.25032859.2438625-.0461861.3066756l.9477386.2974384 2.194763-1.3929725c.1034568-.062813.1986002-.029559.1210075.040644l-1.7781644 1.6137418-.0508047.4202934-.2577184-.8258073-.2281593.1450243c.1117703.3547092.2207695.7103421.3334636 1.0641276.036025.095143.1265498.1210075.2069136.122855.1210076.00369.3242264-.1653462.3242264-.1653462l.3260738-.2752691.8923153.6632322c.1764308.097914.3039044.04711.3473194-.1653462l.6290545-2.9826977c.0480335-.1949053-.0314065-.3103706-.1450243-.322379m-2.1365686 2.500515l.1976765.1468718-.2401677.2022951z" fill="#54cdee"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1"
+   id="svg7"
+   sodipodi:docname="telegram-attention-panel.svg.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="35.708333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#5294e2; }</style>
+  </defs>
+  <path
+     class="ColorScheme-Text"
+     d="m19.816 2.9883c-0.51284-0.031335-0.79124 0.058272-8.2979 2.6836-4.2717 1.4941-7.8632 2.7793-7.9798 2.8552-0.33904 0.22058-0.55477 0.64494-0.55477 1.0875 0 0.95023 0.34773 1.217 3.782 2.8927 1.7381 0.84898 2.903 1.4682 3.0446 1.618 0.12624 0.13317 0.86217 1.52 1.6334 3.0821 1.3955 2.8202 1.7147 3.3484 2.2168 3.6521 0.53346 0.32379 1.2589 0.13436 1.6863-0.44028 0.20063-0.26938 5.5882-15.49 5.6548-15.976 0.063119-0.45186-0.081153-0.87533-0.40012-1.1801-0.21303-0.20334-0.34265-0.24819-0.78561-0.27524zm-13.451 12.394a2.2542 2.2542 0 0 0-2.2542 2.2542 2.2542 2.2542 0 0 0 2.2542 2.2542 2.2542 2.2542 0 0 0 2.2542-2.2542 2.2542 2.2542 0 0 0-2.2542-2.2542z"
+     color="#ffffff"
+     fill="currentColor"
+     stroke-width="1.1271"
+     id="path5"
+     style="fill:#54cdee;fill-opacity:1" />
 </svg>
