@@ -1,5 +1,16 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
- <path d="m471.95 253.05c0 120.9-98.01 218.91-218.91 218.91-120.9 0-218.91-98.01-218.91-218.91 0-120.9 98.01-218.91 218.91-218.91 120.9 0 218.91 98.01 218.91 218.91" fill="#e59c00" fill-rule="evenodd"/>
- <path d="m125.59 125.59v68.938h26.625v-42.31h42.31v-26.625h-68.938m191.88 0v26.625h42.31v42.31h26.625v-68.938h-68.938m-61.47 64.75c-36.27 0-65.66 29.389-65.66 65.66 0 36.27 29.389 65.66 65.66 65.66 36.27 0 65.66-29.389 65.66-65.66 0-36.27-29.389-65.66-65.66-65.66m-130.41 127.13v68.938h68.938v-26.625h-42.31v-42.31h-26.625m234.19 0v42.31h-42.31v26.625h68.938v-68.938h-26.625" fill="#ffffff"/>
- <circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <style/>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m471.95 253.05c0 120.9-98.01 218.91-218.91 218.91s-218.91-98.01-218.91-218.91 98.01-218.91 218.91-218.91 218.91 98.01 218.91 218.91" fill="#e59c00" fill-rule="evenodd"/>
+ <path d="m142.11 142.11v60.203h23.251v-36.949h36.949v-23.251h-60.203m167.57 0v23.251h36.949v36.949h23.251v-60.203h-60.203m-53.681 56.545c-31.674 0-57.34 25.665-57.34 57.34 0 31.674 25.665 57.34 57.34 57.34 31.674 0 57.34-25.665 57.34-57.34 0-31.674-25.665-57.34-57.34-57.34m-113.89 111.02v60.203h60.203v-23.251h-36.949v-36.949h-23.251m204.52 0v36.949h-36.949v23.251h60.203v-60.203h-23.251" fill="#fff" stroke-width=".87329"/>
+ <circle cx="256" cy="256" r="181.13" fill="none" stroke="#fefefe" stroke-width="18.771"/>
 </svg>
