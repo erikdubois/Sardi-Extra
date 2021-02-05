@@ -1,4 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
- id=&quot;defs3306&quot;&gt;
- <path fill="#62c5df" d="m 14.651166,2 c -1.1591,2.7784723 -1.767444,5.8539909 -1.767444,9.05925 2e-6,12.821035 10.245278,23.21433 22.88372,23.21433 3.691078,0 7.143872,-0.877524 10.232558,-2.453546 C 42.522711,40.155447 34.362551,45.975113 24.883721,45.975113 12.245279,45.975113 2,35.581817 2,22.760782 2,13.684153 7.1640362,5.8203578 14.651166,2 z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>id="defs3306"&gt;
+ <path d="m16.029 5.2415c-0.98822 2.3689-1.5069 4.991-1.5069 7.7237 2e-6 10.931 8.7349 19.792 19.51 19.792 3.1469 0 6.0907-0.74816 8.724-2.0918-2.9646 7.1066-9.9218 12.068-18.003 12.068-10.775 0-19.51-8.8611-19.51-19.792 0-7.7385 4.4027-14.443 10.786-17.7z" fill="#62c5df" stroke-width=".85258"/>
 </svg>
