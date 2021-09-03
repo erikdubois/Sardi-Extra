@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+ <path d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill="#ab3d3d" fill-rule="evenodd"/>
+ <path class="ColorScheme-Text" d="m212.99 119.55v86.929h-86.929v86.929h86.929v86.929h86.929v-86.929h86.929v-86.929h-86.929v-86.929zm21.732 21.732h43.464v86.929h86.929v43.464h-86.929v86.929h-43.464v-86.929h-86.929v-43.464h86.929v-21.732z" color="#eff0f1" fill="#ffffff" stroke-width="21.732"/>
+ <circle cx="256" cy="256" r="181.13" fill="none" stroke="#fefefe" stroke-width="18.771"/>
+</svg>

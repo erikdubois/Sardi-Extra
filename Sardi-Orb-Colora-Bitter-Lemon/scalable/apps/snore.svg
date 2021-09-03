@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+ <path d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill="#4f4f4f" fill-rule="evenodd"/>
+ <g transform="matrix(.77377 0 0 .77377 63.217 72.697)" font-family="sans-serif" letter-spacing="0px" word-spacing="0px">
+  <text x="113.85747" y="283.32178" font-size="266.67px" style="line-height:1.25" xml:space="preserve"><tspan x="113.85747" y="283.32178" fill="#ffffff">Z</tspan></text>
+  <text transform="rotate(9.3409)" x="283.85431" y="274.97757" font-size="187.18px" stroke-width=".70191" style="line-height:1.25" xml:space="preserve"><tspan x="283.85431" y="274.97757" fill="#ffffff" stroke-width=".70191">Z</tspan></text>
+  <text transform="rotate(32.285)" x="452.40787" y="135.66997" font-size="114.51px" stroke-width=".42941" style="line-height:1.25" xml:space="preserve"><tspan x="452.40787" y="135.66997" fill="#ffffff" stroke-width=".42941">Z</tspan></text>
+ </g>
+ <circle cx="256" cy="256" r="181.13" fill="none" stroke="#fefefe" stroke-width="18.771"/>
+</svg>

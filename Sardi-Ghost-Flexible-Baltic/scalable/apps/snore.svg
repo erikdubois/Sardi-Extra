@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.3532 0 0 1.3532 -103.7 -75.925)" font-family="sans-serif" letter-spacing="0px" word-spacing="0px">
+  <text x="113.85747" y="283.32178" font-size="266.67px" style="line-height:1.25" xml:space="preserve"><tspan x="113.85747" y="283.32178" fill="#3a3a3a">Z</tspan></text>
+  <text transform="rotate(9.3409)" x="283.85431" y="274.97757" font-size="187.18px" stroke-width=".70191" style="line-height:1.25" xml:space="preserve"><tspan x="283.85431" y="274.97757" fill="#3a3a3a" stroke-width=".70191">Z</tspan></text>
+  <text transform="rotate(32.285)" x="452.40787" y="135.66997" font-size="114.51px" stroke-width=".42941" style="line-height:1.25" xml:space="preserve"><tspan x="452.40787" y="135.66997" fill="#3a3a3a" stroke-width=".42941">Z</tspan></text>
+ </g>
+</svg>
