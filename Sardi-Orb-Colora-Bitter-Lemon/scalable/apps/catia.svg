@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+ <path d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill="#1793d1" fill-rule="evenodd" style="fill:#ef4360"/>
+ <path d="m190.57 182.56c32.851 0 89.476 101.57 121.89 101.57" fill="none" stroke="#ffffff" stroke-width="20.315"/>
+ <g fill="#ffffff">
+  <rect x="139.78" y="157.17" width="50.787" height="50.787" ry="15.513" style="paint-order:markers fill stroke;stroke-width:6.9832"/>
+  <rect x="139.78" y="228.27" width="50.787" height="50.787" ry="15.513" style="paint-order:markers fill stroke;stroke-width:6.9832"/>
+  <rect x="312.46" y="258.74" width="50.787" height="50.787" ry="15.513" style="paint-order:markers fill stroke;stroke-width:6.9832"/>
+  <rect x="312.46" y="322.86" width="50.787" height="50.787" ry="15.513" style="paint-order:markers fill stroke;stroke-width:6.9832"/>
+ </g>
+ <path d="m190.57 253.66c32.851 0 89.476 101.57 121.89 101.57" fill="none" stroke="#ffffff" stroke-width="20.315"/>
+<circle cx="256" stroke="#fefefe" cy="256" r="181.13" stroke-width="18.771" fill="none" /></svg>

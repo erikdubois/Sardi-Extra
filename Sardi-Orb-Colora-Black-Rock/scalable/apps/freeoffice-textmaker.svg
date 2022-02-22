@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+ <path d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill="#1793d1" fill-rule="evenodd" style="fill:#d35f5f"/>
+ <path d="m152.45 145.8h207.78v27.95h-87.225v217.65h-33.362v-217.65h-87.193z" fill="#ffffff" style="fill:#ffffff;stroke-width:31.834" aria-label="T"/>
+ <circle cx="256" cy="256" r="181.13" fill="none" stroke="#fefefe" stroke-width="18.771"/>
+</svg>

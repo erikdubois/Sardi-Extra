@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+ <path d="m151.84 129.91c53.729 0 146.34 166.13 199.36 166.13" fill="none" stroke="#3a3a3a" stroke-width="33.226"/>
+ <g fill="#3a3a3a">
+  <rect x="68.771" y="88.378" width="83.065" height="83.065" ry="25.373" style="paint-order:markers fill stroke;stroke-width:11.422"/>
+  <rect x="68.771" y="204.67" width="83.065" height="83.065" ry="25.373" style="paint-order:markers fill stroke;stroke-width:11.422"/>
+  <rect x="351.19" y="254.5" width="83.065" height="83.065" ry="25.373" style="paint-order:markers fill stroke;stroke-width:11.422"/>
+  <rect x="351.19" y="359.38" width="83.065" height="83.065" ry="25.373" style="paint-order:markers fill stroke;stroke-width:11.422"/>
+ </g>
+ <path d="m151.84 246.2c53.729 0 146.34 166.13 199.36 166.13" fill="none" stroke="#3a3a3a" stroke-width="33.226"/>
+</svg>
