@@ -1,0 +1,33 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+ <filter id="a" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="b" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="c" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="d" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="e" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="f" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <g fill-opacity=".078" filter="url(#a)">
+  <rect height="512" rx="58.46" width="464.07" x="23.96"/>
+  <rect height="505" rx="57.661" width="457.73" x="27.14" y="3.5"/>
+  <rect height="498" rx="56.862" width="451.38" x="30.31" y="7"/>
+ </g>
+ <rect fill="#ba9f74" filter="url(#b)" height="491" rx="56.06" width="445.04" x="33.48" y="10.5"/>
+ <path d="m33.469 334.16v111.28c0 31.06 25 56.06 56.06 56.06h332.94c31.06 0 56.06-25 56.06-56.06v-111.28z" fill="#282629" fill-opacity=".235" filter="url(#c)"/>
+ <rect fill="#ffffff" filter="url(#d)" height="58.46" rx="10.523" width="147.32" x="89.46" y="387.54"/>
+ <path d="m101.8 392.78v47.969h10.458v-47.969zm20.376 0v47.969h2.185v-47.969zm14.411 0v47.969h5.843v-47.969zm13.944 0v47.969h10.409v-47.969zm17.946 0v47.969h6.948v-47.969zm14.19 0v47.969h11.05v-47.969zm19.15 0v47.969h5.205v-47.969zm15.05 0v47.969h7.586v-47.969z" fill="#282629" filter="url(#e)"/>
+ <g filter="url(#f)">
+  <path d="m316.91 10.5v259.19a4.3504 4.3504 0 0 1 -7.8125 2.625l-22.12-29.406-35.25 27.375a4.3504 4.3504 0 0 1 -6.3438-1.0938l-18.313-29-24.16 32.13a4.3504 4.3504 0 0 1 -3.5625 1.7188l222.78 227.47h.344c31.06 0 56.06-25 56.06-56.06v-273.31l-161.62-161.62" opacity=".25"/>
+  <path d="m195.09 10.5v259.19a4.3504 4.3504 0 0 0 7.8125 2.625l24.16-32.12 18.313 29a4.3504 4.3504 0 0 0 6.3438 1.0938l35.25-27.375 22.13 29.406a4.3504 4.3504 0 0 0 7.8125-2.625v-259.19h-121.81" fill="#fff8eb" opacity=".32"/>
+ </g>
+</svg>

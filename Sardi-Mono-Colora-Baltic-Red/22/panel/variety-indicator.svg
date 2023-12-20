@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" viewBox="0 0 22 22">
+ <g transform="matrix(.94304 0 0 .94304 -.25079 1.022)">
+  <rect stroke-linejoin="round" rx="2.284" ry="3.355" height="13.198" width="16.112" stroke="#fefefe" y="3.14" x="3.94" stroke-width="2.111" fill="none"/>
+  <path d="m6.0197 9.5655v4.2525h11.935v-2.6389c0.04221-2.1297-5.3471-6.0251-5.8446-4.4722-0.56486 1.7612-1.6745 5.1096-2.8002 4.9116-0.84126-0.17509-1.6825-0.35018-3.2907-2.053" fill="#fefefe"/>
+ </g>
+</svg>
