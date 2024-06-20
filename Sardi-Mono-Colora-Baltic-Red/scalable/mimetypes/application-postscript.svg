@@ -1,0 +1,100 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <filter id="a" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="c" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="e" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="g" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="h" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="i" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="j" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="k" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="l" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="n" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="p" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="r" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="t" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="v" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="x" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="z" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="A" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="B" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <text filter="url(#a)" x="-477.49" y="456.61">
+  
+ </text>
+ <text filter="url(#c)" x="228.86" y="300.98">
+  
+ </text>
+ <text filter="url(#e)" x="262.23" y="292.85">
+  
+ </text>
+ <g fill-opacity=".078" filter="url(#g)">
+  <path d="m32.563 0c-4.774 0-8.594 3.266-8.594 7.313v497.38c0 4.047 3.82 7.313 8.594 7.313h446.87c4.774 0 8.594-3.266 8.594-7.313v-360.03l-144.66-144.66h-310.81"/>
+  <path d="m35.625 3.5c-4.709 0-8.5 3.196-8.5 7.188v490.62c0 3.991 3.791 7.188 8.5 7.188h440.75c4.709 0 8.5-3.196 8.5-7.188v-356.28l-141.53-141.53h-307.72"/>
+  <path d="m38.688 7c-4.643 0-8.375 3.158-8.375 7.094v483.82c0 3.936 3.732 7.094 8.375 7.094h434.62c4.643 0 8.375-3.158 8.375-7.094v-352.62l-138.28-138.28h-304.72"/>
+ </g>
+ <path d="m41.719 10.5c-4.578 0-8.25 3.119-8.25 7v477c0 3.881 3.672 7 8.25 7h428.56c4.578 0 8.25-3.119 8.25-7v-348.06l-135.97-135.94z" fill="#e75177" filter="url(#h)"/>
+ <path id="C" d="m478.53 146.44l-135.97-135.94v128.94c0 3.881 3.672 7 8.25 7z" fill="#ffffff" fill-opacity=".196" filter="url(#i)"/>
+ <use filter="url(#j)" height="1" width="1" xlink:href="#C"/>
+ <path d="m345.03 144.56l133.5 129.38v-127.5h-127.72c-2.185 0-4.154-.71-5.625-1.875h-.156" fill-opacity=".196" filter="url(#k)"/>
+ <text filter="url(#l)" x="1462.93" y="190.14">
+  
+ </text>
+ <text filter="url(#n)" x="2044.2" y="110.14">
+  
+ </text>
+ <text filter="url(#p)" x="972.62" y="-71.12">
+  
+ </text>
+ <text filter="url(#r)" x="2070.67" y="-287.59">
+  
+ </text>
+ <text filter="url(#t)" x="2651.94" y="-367.6">
+  
+ </text>
+ <text filter="url(#v)" x="2262.82" y="-840">
+  
+ </text>
+ <text filter="url(#x)" x="2844.08" y="-920">
+  
+ </text>
+ <text filter="url(#z)" x="1011.28" y="494.72">
+  
+ </text>
+ <path d="m186.31 192.53c-9.614 0-17.438 7.823-17.438 17.438v34.844l17.406 17.406h-52.25c-9.614 0-17.438 7.823-17.438 17.438v87.13c0 4.814 1.954 9.171 5.109 12.326l47.17 47.17v27.627c0 4.814 1.954 9.171 5.109 12.326l35.27 35.27h261.03c4.578 0 8.25-3.119 8.25-7v-156.34l-140.52-140.52c-3.155-3.155-7.513-5.109-12.326-5.109h-139.37" filter="url(#A)" opacity=".25"/>
+ <path d="m186.31 192.53c-9.614 0-17.438 7.823-17.438 17.438v34.844h17.438v-34.844h139.38v34.844h17.438v-34.844c0-9.614-7.806-17.438-17.438-17.438h-139.37m-52.28 69.69c-9.614 0-17.438 7.823-17.438 17.438v87.13c0 9.632 7.823 17.438 17.438 17.438h34.844v69.69c0 9.632 7.823 17.438 17.438 17.438h139.38c9.632 0 17.438-7.806 17.438-17.438v-69.69h34.844c9.632 0 17.438-7.806 17.438-17.438v-87.12c0-9.614-7.806-17.438-17.438-17.438h-243.94m226.53 17.438c9.631 0 17.406 7.823 17.406 17.438 0 9.632-7.774 17.406-17.406 17.406s-17.438-7.775-17.438-17.406c0-9.614 7.806-17.438 17.438-17.438m-174.25 52.28h139.38v121.97h-139.37v-121.97m17.406 17.406v17.438h69.72v-17.438zm0 34.875v17.406h104.56v-17.406zm0 34.844v17.406h104.56v-17.406z" fill="#ffffff" filter="url(#B)"/>
+</svg>
