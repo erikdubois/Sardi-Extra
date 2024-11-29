@@ -1,0 +1,296 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <filter id="a" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="c" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="e" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="g" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="i" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="k" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="m" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="o" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="p" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="q" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="r" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="s" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="t" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="u" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="v" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="w" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="y" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="A" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="C" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="D" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="F" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="H" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="J" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="L" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="N" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="P" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="R" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="T" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="V" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="X" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="Z" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="ab" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="ad" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="af" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="ah" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="aj" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="al" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="an" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="ap" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="ar" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="at" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="av" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="ax" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="az" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="aB" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="aD" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="aF" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="aH" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <filter id="aI" color-interpolation-filters="sRGB">
+  <feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0"/>
+ </filter>
+ <text filter="url(#a)" x="-109.95" y="148.92">
+  
+ </text>
+ <text filter="url(#c)" x="471.32" y="68.92">
+  
+ </text>
+ <text filter="url(#e)" x="-600.26" y="-112.34">
+  
+ </text>
+ <text filter="url(#g)" x="497.79" y="-328.81">
+  
+ </text>
+ <text filter="url(#i)" x="1079.06" y="-408.82">
+  
+ </text>
+ <text filter="url(#k)" x="689.94" y="-881.22">
+  
+ </text>
+ <text filter="url(#m)" x="1271.2" y="-961.22">
+  
+ </text>
+ <text filter="url(#o)" x="-561.6" y="453.5">
+  
+ </text>
+ <path d="m36.06 0c-5.63 0-10.156 4.527-10.156 10.156v491.69c0 5.63 4.527 10.156 10.156 10.156h439.88c5.63 0 10.156-4.527 10.156-10.156v-334.09l-167.75-167.75h-282.28" filter="url(#p)" opacity=".1"/>
+ <path d="m39.06 3.5c-5.553 0-10.03 4.479-10.03 10.03v484.94c0 5.553 4.479 10.03 10.03 10.03h433.88c5.553 0 10.03-4.479 10.03-10.03v-327.84l-167.12-167.12h-276.78" filter="url(#q)" opacity=".1"/>
+ <path d="m42.06 7c-5.476 0-9.875 4.399-9.875 9.875v478.25c0 5.476 4.399 9.875 9.875 9.875h427.88c5.476 0 9.875-4.399 9.875-9.875v-321.66l-166.47-166.47h-271.28" filter="url(#r)" opacity=".1"/>
+ <path d="m45.06 10.5c-5.399 0-9.719 4.351-9.719 9.75v471.5c0 5.399 4.32 9.75 9.719 9.75h421.88c5.399 0 9.719-4.351 9.719-9.75v-315.44l-165.81-165.81h-265.78" fill="#3c3c3c" filter="url(#s)"/>
+ <path id="aJ" d="m476.66 176.31l-165.81-165.81v156.06c0 5.399 4.32 9.75 9.719 9.75h156.09" fill="#ffffff" fill-opacity=".196" filter="url(#t)"/>
+ <use filter="url(#u)" xlink:href="#aJ"/>
+ <path d="m316.59 175.47c10.209 10.263 20.673 20.774 31.06 31.22h-155.06l42.625 42.625c-.073.006-.145.025-.219.031l-42.656-42.656c-4.763-2.709-9.466-3.918-13.844-3.969-14.395-.167-25.404 12.06-24.563 23.781l-13.09-13.09c-23.854 10.933-20.6 27.24-9.188 43l-17.281-17.281c-15.235 19.744-23.756 43.686.75 58.44l3.813 3.813c-5.962-4.863-12.1-9.505-18.5-13.875l59.719 59.719c-8.08 26.39-17 52.607-23.09 79.38 8.606 8.856 17.241 17.703 25.875 26.531-.756.016-1.52.067-2.281.125l-30.938-30.938c-1.645 12.12 1.28 22.14 6.719 30.938l-8-8c2.956 3.149 5.941 6.266 8.906 9.406 2.538 3.857 5.519 7.489 8.844 10.969-4.092-3.934-8.18-7.888-12.281-11.813 16.02 15.849 31.988 31.76 47.938 47.688h285.09c5.399 0 9.719-4.351 9.719-9.75v-315.43h-156.09c-1.422 0-2.756-.3-3.969-.844m-162.53 297.72c1.66 1.489 3.379 2.945 5.094 4.406 2.151 2.246 4.282 4.508 6.438 6.75-3.842-3.719-7.682-7.445-11.531-11.156" filter="url(#v)" opacity=".25"/>
+ <text filter="url(#w)" x="-990.51" y="-43.58">
+  
+ </text>
+ <text filter="url(#y)" x="-1638.27" y="-811.53">
+  
+ </text>
+ <text filter="url(#A)" x="-931.93" y="-967.16">
+  
+ </text>
+ <g fill="#ffffff" filter="url(#C)">
+  <path d="m72.27 108.77c37.2-14.404 65.56-13.86 87.44 1.383 19.34-22.85 61.09-31.632 74.49-30.1-40.04-14.88-71.46.077-78.25 10.08-22.23-9.765-72.03-.918-83.67 18.636"/>
+  <path d="m134.75 56.812c26.617-7.348 50.23-7.979 66.97 1.488 15.649-12.541 47.967-17.08 58.19-16.11-36.725-7.588-52.912-.63-60.811 4.174-23.597-5.201-46.2-4.787-64.34 10.45"/>
+ </g>
+ <text filter="url(#D)" x="-34.02" y="244.38">
+  
+ </text>
+ <text filter="url(#F)" x="547.25" y="164.38">
+  
+ </text>
+ <text filter="url(#H)" x="-524.33" y="-16.88">
+  
+ </text>
+ <text filter="url(#J)" x="573.72" y="-233.35">
+  
+ </text>
+ <text filter="url(#L)" x="1154.99" y="-313.36">
+  
+ </text>
+ <text filter="url(#N)" x="765.87" y="-785.76">
+  
+ </text>
+ <text filter="url(#P)" x="1347.13" y="-865.76">
+  
+ </text>
+ <g filter="url(#R)">
+  <text x="-485.67" y="548.96">
+   
+  </text>
+  <text x="-38.25" y="217.75">
+   
+  </text>
+ </g>
+ <text filter="url(#T)" x="543.02" y="137.75">
+  
+ </text>
+ <text filter="url(#V)" x="-528.56" y="-43.51">
+  
+ </text>
+ <text filter="url(#X)" x="569.49" y="-259.98">
+  
+ </text>
+ <text filter="url(#Z)" x="1150.76" y="-339.99">
+  
+ </text>
+ <text filter="url(#ab)" x="761.64" y="-812.39">
+  
+ </text>
+ <text filter="url(#ad)" x="1342.9" y="-892.39">
+  
+ </text>
+ <g filter="url(#af)">
+  <text x="-489.9" y="522.33">
+   
+  </text>
+  <text x="-90.43" y="-78.88">
+   
+  </text>
+ </g>
+ <text filter="url(#ah)" x="490.84" y="-158.88">
+  
+ </text>
+ <text filter="url(#aj)" x="-580.74" y="-340.14">
+  
+ </text>
+ <text filter="url(#al)" x="517.31" y="-556.61">
+  
+ </text>
+ <text filter="url(#an)" x="1098.58" y="-636.62">
+  
+ </text>
+ <text filter="url(#ap)" x="709.46" y="-1109.02">
+  
+ </text>
+ <text filter="url(#ar)" x="1290.72" y="-1189.02">
+  
+ </text>
+ <g filter="url(#at)">
+  <text x="-542.08" y="225.7">
+   
+  </text>
+  <text x="140.62" y="240.04">
+   
+  </text>
+ </g>
+ <text filter="url(#av)" x="721.89" y="160.04">
+  
+ </text>
+ <text filter="url(#ax)" x="-349.69" y="-21.22">
+  
+ </text>
+ <text filter="url(#az)" x="748.36" y="-237.69">
+  
+ </text>
+ <text filter="url(#aB)" x="1329.63" y="-317.7">
+  
+ </text>
+ <text filter="url(#aD)" x="940.51" y="-790.1">
+  
+ </text>
+ <text filter="url(#aF)" x="1521.77" y="-870.1">
+  
+ </text>
+ <text filter="url(#aH)" x="-311.03" y="544.62">
+  
+ </text>
+ <path d="m192.33 206.67c-23.865.846-39.34 2.078-51.48 6.742-12.138 4.664-20.01 13.381-26.465 25.694a7.0963 7.0963 0 0 0 -.0297.0296l-19.664 38.02a7.0963 7.0963 0 0 0 5.7327 10.337l6.713.505a7.0963 7.0963 0 0 0 6.7723-3.6535c6.903-12.661 13.613-21.561 21.03-27.15 7.37-5.553 15.518-8.253 27.03-8.287h.208l17.05.445c-9.705 56.16-7.786 99.63-49.1 172.07a7.0963 7.0963 0 0 0 -.41584.8911c-3.335 8.394-3.682 16.345-1.278 22.926 2.399 6.586 7.509 11.447 13.456 13.872 11.893 4.847 27.315.337 35.674-13.426a7.0963 7.0963 0 0 0 .32674-.62376c17.365-36.407 26.501-105.53 32.14-195.62h57.861l-9.445 147.9a7.0963 7.0963 0 0 0 0 .29703c-.469 21.924 4.878 38.45 14.643 49.22 9.765 10.762 23.766 15.01 37.664 13.245 27.797-3.516 56.24-28.948 67.28-69.74a7.0963 7.0963 0 0 0 -6.8614-8.9704h-6.683a7.0963 7.0963 0 0 0 -6.2971 3.802c-9.789 18.588-19.279 29.32-26.763 34.07-7.487 4.753-12.136 4.378-16.99 1.396s-9.87-9.979-13.13-20.02c-3.257-10.03-4.799-22.866-3.862-36.594.001-.01-.001-.019 0-.03l8.287-114.15 66.29-.95a7.0963 7.0963 0 0 0 7.01-7.099v-28.04a7.0963 7.0963 0 0 0 -7.0991-7.0991h-179.35a7.0963 7.0963 0 0 0 -.26734 0" fill="#ffffff" filter="url(#aI)"/>
+</svg>

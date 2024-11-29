@@ -1,0 +1,11 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m8 1c-1.029 0-2 .971-2 2v11 31c0 .971 1.029 2 2 2h32c .971 0 2-1.029 2-2v-31-11c0-1.029-.971-2-2-2h-11-10z" fill="#c1c1c1"/>
+ <rect fill="#c1c1c1" height="7" rx=".579" ry=".601" width="8" x="15" y="15"/>
+ <path d="m25.5 15.5h6" fill="#c1c1c1" stroke="#888888" stroke-dashoffset=".774" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="m15.5 24.5h16" fill="#c1c1c1" stroke="#888888" stroke-dashoffset=".774" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="m15.5 27.5h16" fill="#c1c1c1" stroke="#888888" stroke-dashoffset=".774" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="m15.5 30.5h16" fill="#c1c1c1" stroke="#888888" stroke-dashoffset=".774" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="m15.5 33.5h16" fill="#c1c1c1" stroke="#888888" stroke-dashoffset=".774" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="m25.5 18.5h6" fill="#c1c1c1" stroke="#888888" stroke-dashoffset=".774" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="m25.5 21.5h6" fill="#c1c1c1" stroke="#888888" stroke-dashoffset=".774" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

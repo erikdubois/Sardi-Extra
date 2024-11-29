@@ -1,0 +1,46 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <g fill-rule="evenodd">
+  <path d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill="#8f8f8f"/>
+  <path d="m256 1c-140.83 0-255 114.17-255 255s114.17 255 255 255 255-114.17 255-255-114.17-255-255-255m8.827 44.931c120.9 0 218.9 98 218.9 218.9s-98 218.9-218.9 218.9-218.93-98-218.93-218.9 98.03-218.9 218.93-218.9" fill-opacity=".067"/>
+  <g transform="translate(0 -540.36)" fill-opacity=".129">
+   <path d="m256 544.79c-138.94 0-251.57 112.63-251.57 251.57s112.63 251.54 251.57 251.54 251.57-112.6 251.57-251.54-112.63-251.57-251.57-251.57m5.885 38.556c120.9 0 218.9 98 218.9 218.9s-98 218.9-218.9 218.9-218.93-98-218.93-218.9 98.03-218.9 218.93-218.9"/>
+   <path d="m256 548.72c-136.77 0-247.64 110.87-247.64 247.64s110.87 247.64 247.64 247.64 247.64-110.87 247.64-247.64-110.87-247.64-247.64-247.64m2.942 31.691c120.9 0 218.9 98 218.9 218.9s-98 218.9-218.9 218.9-218.93-98-218.93-218.9 98.03-218.9 218.93-218.9"/>
+  </g>
+  <path opacity=".25" d="m204.89 112.5 110.35 100.95 0.97176-100.84 43.741-0.008 115.41 111.3c13.335 127.63-70.836 224.4-199.61 245.02l-114.65-78.765 0.0463-277.61z" fill="#000000"/>
+ </g>
+ <g fill="#ffffff" transform="matrix(.81875 0 0 .81875 49.258 -400.65)">
+  <g transform="matrix(1.2002,0,0,1.2002,-1.786,-164.81)">
+   <g transform="translate(-48.19)">
+    <path id="a" d="m321.36 659.56h18.314v64.65h-18.31z" fill-rule="evenodd" fill="#ffffff"/>
+    <path id="b" d="m347.67 659.56h18.314v64.65h-18.31z" fill-rule="evenodd" fill="#ffffff"/>
+    <path id="c" d="m321.36 732.21h18.314v64.65h-18.31z" fill-rule="evenodd" fill="#ffffff"/>
+    <path id="d" d="m347.67 732.21h18.314v64.65h-18.31z" fill-rule="evenodd" fill="#ffffff"/>
+    <path id="e" d="m321.36 804.86h18.314v64.65h-18.31z" fill-rule="evenodd" fill="#ffffff"/>
+    <path id="f" d="m347.67 804.86h18.314v64.65h-18.31z" fill-rule="evenodd" fill="#ffffff"/>
+    <path id="g" d="m321.36 877.51h18.314v64.65h-18.31z" fill-rule="evenodd" fill="#ffffff"/>
+    <path id="h" d="m347.67 877.51h18.314v64.65h-18.31z" fill-rule="evenodd" fill="#ffffff"/>
+   </g>
+   <g transform="translate(-206.07)">
+    <use xlink:href="#a" height="1" width="1" y="0" x="0"/>
+    <use xlink:href="#b" height="1" width="1" y="0" x="0"/>
+    <use xlink:href="#c" height="1" width="1" y="0" x="0"/>
+    <use xlink:href="#d" height="1" width="1" y="0" x="0"/>
+    <use xlink:href="#e" height="1" width="1" y="0" x="0"/>
+    <use xlink:href="#f" height="1" width="1" y="0" x="0"/>
+    <use xlink:href="#g" height="1" width="1" y="0" x="0"/>
+    <use xlink:href="#h" height="1" width="1" y="0" x="0"/>
+   </g>
+   <g fill-rule="evenodd" transform="translate(0,27.27)">
+    <path d="m167.91 738.35h18.314v64.65h-18.31z"/>
+    <path d="m194.23 738.35h18.314v64.65h-18.31z"/>
+    <g transform="translate(52.628,-72.65)">
+     <path d="m167.91 811h18.314v64.65h-18.31z"/>
+     <path d="m194.23 811h18.314v64.65h-18.31z"/>
+    </g>
+   </g>
+  </g>
+  <g transform="translate(7.258 -.039)" letter-spacing="0" word-spacing="0" font-size="88.65" font-weight="bold" line-height="125%"></g>
+  <g transform="matrix(-1 0 0 1 508.95 -.039)" letter-spacing="0" word-spacing="0" font-size="88.65" font-weight="bold" line-height="125%"></g>
+ </g>
+ <path d="m253.04 7.86c-135.42 0-245.19 109.78-245.19 245.19 0 135.42 109.78 245.19 245.19 245.19 135.42 0 245.19-109.78 245.19-245.19 0-135.42-109.78-245.19-245.19-245.19zm0 26.297c120.9 0 218.9 98 218.9 218.9s-98 218.9-218.9 218.9-218.93-98-218.93-218.9 98.03-218.9 218.93-218.9z" stroke-opacity=".31" fill-rule="evenodd" stroke="#000000" stroke-width="4.904" fill="#ffffff"/>
+</svg>
